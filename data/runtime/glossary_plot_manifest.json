@@ -1,0 +1,112 @@
+{
+  "groups": {
+    "income": {
+      "render_mode": "fast",
+      "generated_at": "2026-05-03T01:08:01-0400",
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "53b88cca246c7b6d29f64799a6ad69f0",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_glossary_plots.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7349914fb943fdcb1b1792073bf523e8"
+          }
+        ],
+        "params": {
+          "group": "income",
+          "codes": [
+            "I_INGR_a",
+            "I_perINGRMIN_a",
+            "I_INGR_MEAN_a",
+            "I_INGR_MEDIAN_a",
+            "I_perINGR_MEDIAN_a"
+          ],
+          "current_year": 2024,
+          "previous_year": 2023
+        },
+        "value_hashes": {
+          "income_values": "a84ed613276c86106059b8a8b0a285ca"
+        }
+      },
+      "files": [
+        {
+          "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_a_2024_nacional.png",
+          "bytes": 46496,
+          "hash_algorithm": "md5",
+          "hash": "9104a948ac7def5bf3ffb260f64b806d"
+        },
+        {
+          "path": "output/graficos_ingresos_glosario/plot_glosario_i_peringrmin_a_2024_nacional.png",
+          "bytes": 38871,
+          "hash_algorithm": "md5",
+          "hash": "30655a8c289ec8f1e121c69f41611fd1"
+        },
+        {
+          "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_mean_a_2024_nacional.png",
+          "bytes": 44729,
+          "hash_algorithm": "md5",
+          "hash": "ab35d93c14eb53a0fce42b03760cd097"
+        },
+        {
+          "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_median_a_2024_nacional.png",
+          "bytes": 42235,
+          "hash_algorithm": "md5",
+          "hash": "31cd559ca4e52a9f84ff087fe7f6c6eb"
+        },
+        {
+          "path": "output/graficos_ingresos_glosario/plot_glosario_i_peringr_median_a_2024_nacional.png",
+          "bytes": 39964,
+          "hash_algorithm": "md5",
+          "hash": "305fe4661acc3ad62ca66f99c21a91fa"
+        }
+      ]
+    },
+    "education_gap": {
+      "render_mode": "fast",
+      "generated_at": "2026-05-03T01:08:04-0400",
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "b898ad6ef5e9cff79e08b2ff38aab4a8",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_glossary_plots.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7349914fb943fdcb1b1792073bf523e8"
+          }
+        ],
+        "params": {
+          "group": "education_gap",
+          "codes": ["E_MAT_a", "E_REZMAT_a", "E_REZJOV_a"],
+          "year": 2024
+        },
+        "value_hashes": {
+          "education_glossary_gap_payload": "999bf7c1f6cdbceeb021705e66fad76e",
+          "education_glossary_gap_specs": "6b87c39ec39667efd2b4928bea339220"
+        }
+      },
+      "files": [
+        {
+          "path": "output/graficos_educacion_glosario/plot_glosario_e_mat_a_2024_nacional.png",
+          "bytes": 39720,
+          "hash_algorithm": "md5",
+          "hash": "dcb9793a8f112c81ea92f94c28de715f"
+        },
+        {
+          "path": "output/graficos_educacion_glosario/plot_glosario_e_rezmat_a_2024_nacional.png",
+          "bytes": 40528,
+          "hash_algorithm": "md5",
+          "hash": "e1aa615592a36edcdfa6bf1c1f737e4c"
+        },
+        {
+          "path": "output/graficos_educacion_glosario/plot_glosario_e_rezjov_a_2024_nacional.png",
+          "bytes": 39020,
+          "hash_algorithm": "md5",
+          "hash": "f11cd555bbf74a9e7d78a0cdd062afdf"
+        }
+      ]
+    }
+  }
+}

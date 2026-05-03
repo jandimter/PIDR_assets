@@ -1,0 +1,23 @@
+{
+  "mode": "remote_urls",
+  "version": "2026-03-09",
+  "base_paths": {
+    "graficos_nacionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_nacionales",
+    "graficos_regionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales",
+    "graficos_regionales_ocupacion": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_ocupacion",
+    "graficos_regionales_salud": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_salud",
+    "graficos_regionales_cobertura": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_cobertura",
+    "graficos_regionales_piramide": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_piramide",
+    "graficos_regionales_sexo_edad": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_sexo_edad",
+    "graficos_dimensiones_regional_sexo_edad": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_dimensiones/regional_sexo_edad",
+    "laminas_provinciales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/laminas_provinciales",
+    "laminas_comunales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/laminas_comunales",
+    "graficos_dependencia": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_dependencia",
+    "graficos_envejecimiento": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_envejecimiento",
+    "graficos_otras_relaciones": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_otras_relaciones",
+    "graficos_ingresos_glosario": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_ingresos_glosario",
+    "graficos_educacion_glosario": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_educacion_glosario",
+    "graficos_educacion_tasas": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_educacion_tasas",
+    "runtime_payloads": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads"
+  }
+}
