@@ -1,8 +1,8 @@
 {
   "groups": {
     "income": {
-      "render_mode": "fast",
-      "generated_at": "2026-05-03T01:08:01-0400",
+      "render_mode": "full",
+      "generated_at": "2026-05-04T15:17:16-0400",
       "input_signature": {
         "hash_algorithm": "md5",
         "hash": "53b88cca246c7b6d29f64799a6ad69f0",
@@ -64,8 +64,8 @@
       ]
     },
     "education_gap": {
-      "render_mode": "fast",
-      "generated_at": "2026-05-03T01:08:04-0400",
+      "render_mode": "full",
+      "generated_at": "2026-05-04T15:17:19-0400",
       "input_signature": {
         "hash_algorithm": "md5",
         "hash": "b898ad6ef5e9cff79e08b2ff38aab4a8",
