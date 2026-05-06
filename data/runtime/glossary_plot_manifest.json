@@ -2,16 +2,16 @@
   "groups": {
     "income": {
       "render_mode": "full",
-      "generated_at": "2026-05-04T15:45:17-0400",
+      "generated_at": "2026-05-06T18:13:22-0400",
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "53b88cca246c7b6d29f64799a6ad69f0",
+        "hash": "629c8339c9b8276fb745167958250442",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_glossary_plots.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "7349914fb943fdcb1b1792073bf523e8"
+            "hash": "cb55104ca84cd035ed6bcd553fd77e03"
           }
         ],
         "params": {
@@ -65,16 +65,16 @@
     },
     "education_gap": {
       "render_mode": "full",
-      "generated_at": "2026-05-04T15:45:22-0400",
+      "generated_at": "2026-05-06T18:13:26-0400",
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b898ad6ef5e9cff79e08b2ff38aab4a8",
+        "hash": "96ae791665693a92b94fcb1c8436ceca",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_glossary_plots.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "7349914fb943fdcb1b1792073bf523e8"
+            "hash": "cb55104ca84cd035ed6bcd553fd77e03"
           }
         ],
         "params": {
