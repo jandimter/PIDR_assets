@@ -1,66 +1,66 @@
 {
   "payloads": {
     "territorial-commune-dashboard-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/territorial-commune-dashboard-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/territorial-commune-dashboard-data.js",
+      "src": "data/runtime/payloads/territorial-commune-dashboard-data.json",
+      "script_src": "data/runtime/payloads/territorial-commune-dashboard-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "bb90d6325e986e8b306453b3fa91db7f",
+      "hash": "f1990ab6f4410e24922a35031597d76e",
       "script_hash_algorithm": "md5",
-      "script_hash": "6b383579305dc04f3b24db8b1f165745",
-      "bytes": 14699249,
-      "script_bytes": 14699402,
+      "script_hash": "1d4ae299ea09c1f0d677d3a24035fbbd",
+      "bytes": 14701271,
+      "script_bytes": 14701424,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0eb77221e83b8cd3773b99b88dac52bc",
+        "hash": "0f00710f8d59a1a413b1199e90659365",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "bb90d6325e986e8b306453b3fa91db7f"
+        "payload_hash": "f1990ab6f4410e24922a35031597d76e"
       },
-      "generated_at": "2026-05-02T19:12:12-0400"
+      "generated_at": "2026-07-29T12:02:18-0400"
     },
     "national-commune-hover-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/national-commune-hover-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/national-commune-hover-data.js",
+      "src": "data/runtime/payloads/national-commune-hover-data.json",
+      "script_src": "data/runtime/payloads/national-commune-hover-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c1066876289f34dc07c4b3f14ba9ee2e",
+      "hash": "dd5c8a76f242b590bc4094b807d6556d",
       "script_hash_algorithm": "md5",
-      "script_hash": "9f1197be2f84969977d5cb2bac0506bd",
-      "bytes": 2885926,
-      "script_bytes": 2886072,
+      "script_hash": "c71f4e68a6563770421e8d0de0082914",
+      "bytes": 2905478,
+      "script_bytes": 2905624,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "9315754a027536dd25161071e5b1e340",
+        "hash": "34894d822b9768d7175a71d49ddf741d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "c1066876289f34dc07c4b3f14ba9ee2e"
+        "payload_hash": "dd5c8a76f242b590bc4094b807d6556d"
       },
       "generated_at": "2026-05-11T12:22:40-0400"
     },
     "regional-selector-map-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/regional-selector-map-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/regional-selector-map-data.js",
+      "src": "data/runtime/payloads/regional-selector-map-data.json",
+      "script_src": "data/runtime/payloads/regional-selector-map-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -72,14 +72,14 @@
       "script_bytes": 721694,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f2ad2e9c01d3a1cd7685064b7c49e2c1",
+        "hash": "7f98c2fe483d95e189ee3ba42ad8bbda",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -88,33 +88,33 @@
       "generated_at": "2026-05-02T19:12:11-0400"
     },
     "income-comunal-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-comunal-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-comunal-data.js",
+      "src": "data/runtime/payloads/income-comunal-data.json",
+      "script_src": "data/runtime/payloads/income-comunal-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5f70e8bddee6d082c12e39609b003b6b",
+      "hash": "62d60d8f5ade1b3e5b94115f4e371fec",
       "script_hash_algorithm": "md5",
-      "script_hash": "9b1b2d46b25a6919a009951ea21f5c61",
-      "bytes": 925493,
-      "script_bytes": 925631,
+      "script_hash": "c20eea49cd394db29e82e23ff25c0398",
+      "bytes": 1080680,
+      "script_bytes": 1080818,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ff1a9c08287bc0a8f87acaef89d50959",
+        "hash": "ac6cde23d23750fc44982c745d3e0d1b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "5f70e8bddee6d082c12e39609b003b6b"
+        "payload_hash": "62d60d8f5ade1b3e5b94115f4e371fec"
       },
-      "generated_at": "2026-05-02T19:12:12-0400"
+      "generated_at": "2026-07-29T12:02:18-0400"
     },
     "demography-regional-data": {
       "src": "data/runtime/payloads/demography-regional-data.json",
@@ -239,14 +239,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "908198f5765cf200d65e5962612519d2",
+      "hash": "1df0805bcef8d815073a3c0ab941afb3",
       "script_hash_algorithm": "md5",
-      "script_hash": "03bffa06f8deb7762472da71a2660c75",
-      "bytes": 150357,
-      "script_bytes": 150499,
+      "script_hash": "96e290790ce32f0856990ba98c0f879a",
+      "bytes": 186813,
+      "script_bytes": 186955,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "9aad44f19918aa803f1798a33256a388",
+        "hash": "8d544f43360458dc0b9f112757e07e76",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -257,9 +257,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "908198f5765cf200d65e5962612519d2"
+        "payload_hash": "1df0805bcef8d815073a3c0ab941afb3"
       },
-      "generated_at": "2026-05-03T01:36:52-0400"
+      "generated_at": "2026-07-29T11:33:07-0400"
     },
     "demography-coverage-data": {
       "src": "data/runtime/payloads/demography-coverage-data.json",
@@ -268,14 +268,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f9c7201851af54e23efaa223e866b2f7",
+      "hash": "0c922134bc5fef65e25a451b24992372",
       "script_hash_algorithm": "md5",
-      "script_hash": "1ac6fca94eac9699f2d27c0144ed2b6d",
-      "bytes": 40063,
-      "script_bytes": 40206,
+      "script_hash": "8990e79da2c3736309de2e967cb20c60",
+      "bytes": 40111,
+      "script_bytes": 40254,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b549425cb7e17e6e349f1b42d60caff6",
+        "hash": "5d1ed05093501fde7dc3acea15f84ffc",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -286,9 +286,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f9c7201851af54e23efaa223e866b2f7"
+        "payload_hash": "0c922134bc5fef65e25a451b24992372"
       },
-      "generated_at": "2026-05-03T01:36:52-0400"
+      "generated_at": "2026-07-29T11:57:53-0400"
     },
     "demography-coverage-exact-data": {
       "src": "data/runtime/payloads/demography-coverage-exact-data.json",
@@ -494,37 +494,37 @@
       "generated_at": "2026-05-03T01:37:07-0400"
     },
     "income-values-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-values-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-values-data.js",
+      "src": "data/runtime/payloads/income-values-data.json",
+      "script_src": "data/runtime/payloads/income-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f09df179b233d2cdd2ad70f932e8488c",
+      "hash": "246ddeb47dde7a94b4d7dd6fb6df9867",
       "script_hash_algorithm": "md5",
-      "script_hash": "a4eb170fdf9e995c889890da59e7f810",
-      "bytes": 330013,
-      "script_bytes": 330150,
+      "script_hash": "afd2aa4c4d627313dec84d97c9dc6ffe",
+      "bytes": 330251,
+      "script_bytes": 330388,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a87470f84a50799fde730b256d231532",
+        "hash": "680f7f33673ba8a35eac1335b5eb4e81",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f09df179b233d2cdd2ad70f932e8488c"
+        "payload_hash": "246ddeb47dde7a94b4d7dd6fb6df9867"
       },
-      "generated_at": "2026-05-03T01:37:10-0400"
+      "generated_at": "2026-07-29T11:57:59-0400"
     },
     "health-values-data": {
-      "src": "data/runtime/payloads/health-values-data.json",
-      "script_src": "data/runtime/payloads/health-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -572,8 +572,8 @@
       "generated_at": "2026-07-20T15:54:00-0400"
     },
     "pension-values-data": {
-      "src": "data/runtime/payloads/pension-values-data.json",
-      "script_src": "data/runtime/payloads/pension-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -615,8 +615,8 @@
       "generated_at": "2026-07-20T15:54:00-0400"
     },
     "occupation-values-data": {
-      "src": "data/runtime/payloads/occupation-values-data.json",
-      "script_src": "data/runtime/payloads/occupation-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -658,8 +658,8 @@
       "generated_at": "2026-07-20T15:54:02-0400"
     },
     "migration-values-data": {
-      "src": "data/runtime/payloads/migration-values-data.json",
-      "script_src": "data/runtime/payloads/migration-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -736,62 +736,62 @@
       "generated_at": "2026-07-20T15:55:29-0400"
     },
     "income-sex-age-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-sex-age-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-sex-age-data.js",
+      "src": "data/runtime/payloads/income-sex-age-data.json",
+      "script_src": "data/runtime/payloads/income-sex-age-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "48d412ed8d395e10db05267a5a3f03d4",
+      "hash": "6b19f3e2363131ba17885c4a585ff483",
       "script_hash_algorithm": "md5",
-      "script_hash": "2c0a9355295264010e5e9ab0b5c5b383",
-      "bytes": 245371,
-      "script_bytes": 245509,
+      "script_hash": "02f915928e93006f61c7080a6a8224d0",
+      "bytes": 336689,
+      "script_bytes": 336827,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "76ec6e8a877afe3f6ac7f66c4454e69a",
+        "hash": "2b1ede73ebadc2ccd18cfeb2f200acb8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "48d412ed8d395e10db05267a5a3f03d4"
+        "payload_hash": "6b19f3e2363131ba17885c4a585ff483"
       },
-      "generated_at": "2026-05-03T01:37:14-0400"
+      "generated_at": "2026-07-29T11:58:04-0400"
     },
     "income-provincial-data": {
-      "src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-provincial-data.json",
-      "script_src": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads/income-provincial-data.js",
+      "src": "data/runtime/payloads/income-provincial-data.json",
+      "script_src": "data/runtime/payloads/income-provincial-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "80069daa95a4a77efc71a8dd3f7cb7dd",
+      "hash": "f9ca93915b63ba458f64e28b8cc5d05b",
       "script_hash_algorithm": "md5",
-      "script_hash": "4a202bc5adece5d12d401b1c89edaee2",
-      "bytes": 115663,
-      "script_bytes": 115804,
+      "script_hash": "699c119067c6914c9376de6eb57ff061",
+      "bytes": 118040,
+      "script_bytes": 118181,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "cd3f328b07a5dce98277680e1242853a",
+        "hash": "ce78d40f26bd9ad71a303c8c48223aec",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bd6700407e98018bbcb146539ce42056"
+            "hash": "9644bbc55555893d378478e678559498"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "80069daa95a4a77efc71a8dd3f7cb7dd"
+        "payload_hash": "f9ca93915b63ba458f64e28b8cc5d05b"
       },
-      "generated_at": "2026-05-03T01:43:15-0400"
+      "generated_at": "2026-07-29T11:58:07-0400"
     }
   }
 }

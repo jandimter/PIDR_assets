@@ -1,11 +1,11 @@
 {
   "groups": {
     "income": {
-      "render_mode": "full",
-      "generated_at": "2026-07-15T17:14:42-0400",
+      "render_mode": "fast",
+      "generated_at": "2026-07-29T18:11:54-0400",
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fd054de5cd458cdb85c07bd408e77678",
+        "hash": "05c2be6acac086d612a8d80aa0b79787",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_glossary_plots.R",
@@ -27,7 +27,7 @@
           "previous_year": 2023
         },
         "value_hashes": {
-          "income_values": "f09df179b233d2cdd2ad70f932e8488c"
+          "income_values": "896fc58a2431a756eeb6176640e5ee97"
         }
       },
       "files": [
