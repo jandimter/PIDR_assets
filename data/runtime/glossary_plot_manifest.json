@@ -1,11 +1,11 @@
 {
   "groups": {
     "income": {
-      "render_mode": "fast",
-      "generated_at": "2026-07-29T18:11:54-0400",
+      "render_mode": "full",
+      "generated_at": "2026-08-04T10:28:02-0400",
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "05c2be6acac086d612a8d80aa0b79787",
+        "hash": "4526bbb28c52e40ed3567a64a97b373a",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_glossary_plots.R",
@@ -27,7 +27,7 @@
           "previous_year": 2023
         },
         "value_hashes": {
-          "income_values": "896fc58a2431a756eeb6176640e5ee97"
+          "income_values": "bf7728788dd94fde40694142cb9c3bf7"
         }
       },
       "files": [
@@ -45,9 +45,9 @@
         },
         {
           "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_mean_a_2024_nacional.png",
-          "bytes": 44729,
+          "bytes": 44823,
           "hash_algorithm": "md5",
-          "hash": "ab35d93c14eb53a0fce42b03760cd097"
+          "hash": "a8290e3e4a90b2f87aa685ad34939a75"
         },
         {
           "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_median_a_2024_nacional.png",
@@ -65,7 +65,7 @@
     },
     "education_gap": {
       "render_mode": "full",
-      "generated_at": "2026-07-15T17:14:45-0400",
+      "generated_at": "2026-08-04T10:28:04-0400",
       "input_signature": {
         "hash_algorithm": "md5",
         "hash": "ab2293d038b5770d04de59300257b719",
