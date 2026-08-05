@@ -123,14 +123,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2c4a6b32a50a1c94068b2143071d9272",
+      "hash": "5caac719e714e4b8ad5bc3e218a9e5c8",
       "script_hash_algorithm": "md5",
-      "script_hash": "81338139f887e54dceb5cacd5a67dd54",
-      "bytes": 162034,
-      "script_bytes": 162177,
+      "script_hash": "bfb4f109997c8057153871e9ce3a5b94",
+      "bytes": 162027,
+      "script_bytes": 162170,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4623dce8e27515e9feae07c90f0f957e",
+        "hash": "8965b851417062f6bc87a8bc8527da4a",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -141,9 +141,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2c4a6b32a50a1c94068b2143071d9272"
+        "payload_hash": "5caac719e714e4b8ad5bc3e218a9e5c8"
       },
-      "generated_at": "2026-08-04T14:22:53-0400"
+      "generated_at": "2026-08-05T09:03:35-0400"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -841,14 +841,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2cf4214dd825aaba76d28be19b977c4e",
+      "hash": "68753861b4e32d46f4328bb25d4ac071",
       "script_hash_algorithm": "md5",
-      "script_hash": "3f89abe8adddbf9415c1e095318295da",
+      "script_hash": "f88fb552cd35b21ea2b6de184472767c",
       "bytes": 16916,
       "script_bytes": 17072,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "cc19e5004b68f9904615708fce84e619",
+        "hash": "011760c22d39a937b66152ff27f0b902",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -859,9 +859,38 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2cf4214dd825aaba76d28be19b977c4e"
+        "payload_hash": "68753861b4e32d46f4328bb25d4ac071"
       },
-      "generated_at": "2026-08-04T14:22:54-0400"
+      "generated_at": "2026-08-05T09:03:35-0400"
+    },
+    "occupation-sex-age-data": {
+      "src": "data/runtime/payloads/occupation-sex-age-data.json",
+      "script_src": "data/runtime/payloads/occupation-sex-age-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "51a77c2fc3714b36c9dc8a6fe5e5a591",
+      "script_hash_algorithm": "md5",
+      "script_hash": "40681a73fe8768fd8cbcd047159d019e",
+      "bytes": 60712,
+      "script_bytes": 60854,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "6689565da503646c5de8668b0dffe6ff",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "51a77c2fc3714b36c9dc8a6fe5e5a591"
+      },
+      "generated_at": "2026-08-05T13:06:32-0400"
     }
   }
 }
