@@ -1,0 +1,2 @@
+window.__pidrExternalJsonPayloads = window.__pidrExternalJsonPayloads || {};
+window.__pidrExternalJsonPayloads["demography-corrupt-cases"] = [{"scope":"Aysén","year":2024},{"scope":"Magallanes","year":2024},{"scope":"Metropolitana","year":2024},{"scope":"Arica","year":2024},{"scope":"Los Ríos","year":2024},{"scope":"Ñuble","year":2024}];

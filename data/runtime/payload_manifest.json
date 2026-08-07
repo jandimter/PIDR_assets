@@ -123,14 +123,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5caac719e714e4b8ad5bc3e218a9e5c8",
+      "hash": "95d1cd55578ee25181b6e4661da42522",
       "script_hash_algorithm": "md5",
-      "script_hash": "bfb4f109997c8057153871e9ce3a5b94",
-      "bytes": 162027,
-      "script_bytes": 162170,
+      "script_hash": "b3ebc73d0fda367cc09a2d339b118b60",
+      "bytes": 144343,
+      "script_bytes": 144486,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8965b851417062f6bc87a8bc8527da4a",
+        "hash": "d19eb2d185eda9e9bc211b039345171e",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -141,9 +141,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "5caac719e714e4b8ad5bc3e218a9e5c8"
+        "payload_hash": "95d1cd55578ee25181b6e4661da42522"
       },
-      "generated_at": "2026-08-05T09:03:35-0400"
+      "generated_at": "2026-08-07T11:10:41-0400"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -239,14 +239,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9283526e821f30bb9f2adf0244ee0775",
+      "hash": "4dd96e6190566b34263e155fabf5107d",
       "script_hash_algorithm": "md5",
-      "script_hash": "d4d2fb6001a2d9f8b9fda864efa308e4",
-      "bytes": 210589,
-      "script_bytes": 210731,
+      "script_hash": "59ed3fe8270c9cca20cf0e4eb4967f94",
+      "bytes": 202059,
+      "script_bytes": 202201,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6aa72b615e7c573d09718ab8cd68239d",
+        "hash": "918594e1028929fb6f998b45f6f34b95",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -257,9 +257,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "9283526e821f30bb9f2adf0244ee0775"
+        "payload_hash": "4dd96e6190566b34263e155fabf5107d"
       },
-      "generated_at": "2026-08-04T12:57:35-0400"
+      "generated_at": "2026-08-05T18:43:02-0400"
     },
     "demography-coverage-data": {
       "src": "data/runtime/payloads/demography-coverage-data.json",
@@ -355,14 +355,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "acfa6aa0ffc844699063ea11c01667a7",
+      "hash": "b7a6ef1c32b9dbc99afbee3cd9deb0af",
       "script_hash_algorithm": "md5",
-      "script_hash": "9b73c8bb8a0a3efa86a94314ea67121a",
-      "bytes": 194014,
-      "script_bytes": 194164,
+      "script_hash": "d525eef9582b175187cddb802d65d8d4",
+      "bytes": 234249,
+      "script_bytes": 234399,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3b8e0d8b1bb5d62b2b7c6f49d51e1edc",
+        "hash": "f238e359eb6fd7b0b06d8d82acb5c5a7",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -373,7 +373,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "acfa6aa0ffc844699063ea11c01667a7"
+        "payload_hash": "b7a6ef1c32b9dbc99afbee3cd9deb0af"
       },
       "generated_at": "2026-08-04T08:04:04-0400"
     },
@@ -471,14 +471,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0758c90a7c74f66559e2c1b81b087575",
+      "hash": "3bdaff756a2c5f59fd1dc1993329b93f",
       "script_hash_algorithm": "md5",
-      "script_hash": "acf4dd3e1b99586a0e8d87133ff086cb",
-      "bytes": 241817,
-      "script_bytes": 241966,
+      "script_hash": "43a272551ce6add3c605644da106a47e",
+      "bytes": 270344,
+      "script_bytes": 270493,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "dc1ee7c789174cf5baa5edf8a1475592",
+        "hash": "bea8fc9e504528bedf8af94658ec2abb",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -489,7 +489,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0758c90a7c74f66559e2c1b81b087575"
+        "payload_hash": "3bdaff756a2c5f59fd1dc1993329b93f"
       },
       "generated_at": "2026-08-03T17:09:23-0400"
     },
@@ -841,14 +841,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "68753861b4e32d46f4328bb25d4ac071",
+      "hash": "42e6e9e59d4196ae53f6c04642bf1d02",
       "script_hash_algorithm": "md5",
-      "script_hash": "f88fb552cd35b21ea2b6de184472767c",
-      "bytes": 16916,
-      "script_bytes": 17072,
+      "script_hash": "ada7fc6f9188ecf4a1b63b2aee5c7c8c",
+      "bytes": 17465,
+      "script_bytes": 17621,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "011760c22d39a937b66152ff27f0b902",
+        "hash": "fb1cda94426a9ff87439d1ee85b94144",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -859,9 +859,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "68753861b4e32d46f4328bb25d4ac071"
+        "payload_hash": "42e6e9e59d4196ae53f6c04642bf1d02"
       },
-      "generated_at": "2026-08-05T09:03:35-0400"
+      "generated_at": "2026-08-07T10:56:36-0400"
     },
     "occupation-sex-age-data": {
       "src": "data/runtime/payloads/occupation-sex-age-data.json",
@@ -890,7 +890,152 @@
         "payload_hash_algorithm": "md5",
         "payload_hash": "51a77c2fc3714b36c9dc8a6fe5e5a591"
       },
-      "generated_at": "2026-08-05T13:06:32-0400"
+      "generated_at": "2026-08-05T13:14:25-0400"
+    },
+    "education-sexo-report-data": {
+      "src": "data/runtime/payloads/education-sexo-report-data.json",
+      "script_src": "data/runtime/payloads/education-sexo-report-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "9533b5dfa6d1b151e067227adce457bf",
+      "script_hash_algorithm": "md5",
+      "script_hash": "9dc99cb9216f02dbf53d036cb966da03",
+      "bytes": 64177,
+      "script_bytes": 64322,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "95da1e642c50f52278c9673cba3d5a94",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "9533b5dfa6d1b151e067227adce457bf"
+      },
+      "generated_at": "2026-08-05T18:03:49-0400"
+    },
+    "demography-dependency-sexo-data": {
+      "src": "data/runtime/payloads/demography-dependency-sexo-data.json",
+      "script_src": "data/runtime/payloads/demography-dependency-sexo-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "95256e2b84f59d108c38c3f56992d6de",
+      "script_hash_algorithm": "md5",
+      "script_hash": "0149295898c08b197d4b355219e5af02",
+      "bytes": 11315,
+      "script_bytes": 11465,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "32bc2653136ed1edf32b7cad61bf2096",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "95256e2b84f59d108c38c3f56992d6de"
+      },
+      "generated_at": "2026-08-07T10:56:36-0400"
+    },
+    "demography-aging-provincial-data": {
+      "src": "data/runtime/payloads/demography-aging-provincial-data.json",
+      "script_src": "data/runtime/payloads/demography-aging-provincial-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "93f31ebb0a12ebfb11efdfeb28d81442",
+      "script_hash_algorithm": "md5",
+      "script_hash": "31ef121873af818e29408a7dae621f09",
+      "bytes": 17843,
+      "script_bytes": 17994,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "fdee55ebd0f5adacc9badbfafb795b21",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "93f31ebb0a12ebfb11efdfeb28d81442"
+      },
+      "generated_at": "2026-08-07T10:56:36-0400"
+    },
+    "demography-otras-relaciones-provincial-data": {
+      "src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.json",
+      "script_src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "321ffb520d3fe01410f5bc4d3164cb4a",
+      "script_hash_algorithm": "md5",
+      "script_hash": "381fb8ad14f5a70becc24b35613c75c9",
+      "bytes": 14149,
+      "script_bytes": 14311,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "ec48842be799a8da7195c25b0a67dddb",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "321ffb520d3fe01410f5bc4d3164cb4a"
+      },
+      "generated_at": "2026-08-07T10:56:36-0400"
+    },
+    "demography-corrupt-cases": {
+      "src": "data/runtime/payloads/demography-corrupt-cases.json",
+      "script_src": "data/runtime/payloads/demography-corrupt-cases.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "8f101daab3431c3af52d47ae32621a67",
+      "script_hash_algorithm": "md5",
+      "script_hash": "99a943252e97a821c8546ef3c729aa25",
+      "bytes": 200,
+      "script_bytes": 343,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "13337496102202f5deb9ee79ccdc7ad2",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9644bbc55555893d378478e678559498"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "8f101daab3431c3af52d47ae32621a67"
+      },
+      "generated_at": "2026-08-07T11:10:41-0400"
     }
   }
 }
