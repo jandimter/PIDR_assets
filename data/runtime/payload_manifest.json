@@ -123,14 +123,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "95d1cd55578ee25181b6e4661da42522",
+      "hash": "c517ecfc4aa2cb3bb84a4f55b5d022db",
       "script_hash_algorithm": "md5",
-      "script_hash": "b3ebc73d0fda367cc09a2d339b118b60",
-      "bytes": 144343,
-      "script_bytes": 144486,
+      "script_hash": "fec5bdaf39a729d5d499498e47785e3a",
+      "bytes": 142663,
+      "script_bytes": 142806,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d19eb2d185eda9e9bc211b039345171e",
+        "hash": "e91e2a2a79afdc4a07770abddcb8a0ba",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -141,9 +141,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "95d1cd55578ee25181b6e4661da42522"
+        "payload_hash": "c517ecfc4aa2cb3bb84a4f55b5d022db"
       },
-      "generated_at": "2026-08-07T11:10:41-0400"
+      "generated_at": "2026-08-12T14:26:26-0400"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -523,8 +523,8 @@
       "generated_at": "2026-08-03T17:09:28-0400"
     },
     "health-values-data": {
-      "src": "data/runtime/payloads/health-values-data.json",
-      "script_src": "data/runtime/payloads/health-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -578,8 +578,8 @@
       "generated_at": "2026-08-04T08:18:35-0400"
     },
     "pension-values-data": {
-      "src": "data/runtime/payloads/pension-values-data.json",
-      "script_src": "data/runtime/payloads/pension-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -621,8 +621,8 @@
       "generated_at": "2026-07-20T15:54:00-0400"
     },
     "occupation-values-data": {
-      "src": "data/runtime/payloads/occupation-values-data.json",
-      "script_src": "data/runtime/payloads/occupation-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -670,8 +670,8 @@
       "generated_at": "2026-08-04T07:31:27-0400"
     },
     "migration-values-data": {
-      "src": "data/runtime/payloads/migration-values-data.json",
-      "script_src": "data/runtime/payloads/migration-values-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -864,8 +864,8 @@
       "generated_at": "2026-08-07T10:56:36-0400"
     },
     "occupation-sex-age-data": {
-      "src": "data/runtime/payloads/occupation-sex-age-data.json",
-      "script_src": "data/runtime/payloads/occupation-sex-age-data.js",
+      "src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-sex-age-data.json",
+      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-sex-age-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
