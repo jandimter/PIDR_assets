@@ -349,8 +349,8 @@
       "generated_at": "2026-08-18T10:54:01-0400"
     },
     "education-matricula-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -378,8 +378,8 @@
       "generated_at": "2026-08-19T22:56:46-0400"
     },
     "education-matricula-summary-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-summary-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-summary-data.js",
+      "src": "data/runtime/payloads/education-matricula-summary-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-summary-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -407,8 +407,8 @@
       "generated_at": "2026-05-03T01:37:07-0400"
     },
     "education-matricula-comunal-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-comunal-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-comunal-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-comunal-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-comunal-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -436,8 +436,8 @@
       "generated_at": "2026-08-20T16:08:02-0400"
     },
     "education-comunal-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-report-data.js",
+      "src": "data/runtime/payloads/education-comunal-report-data.json",
+      "script_src": "data/runtime/payloads/education-comunal-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -465,8 +465,8 @@
       "generated_at": "2026-08-20T16:08:02-0400"
     },
     "education-comunal-summary-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-summary-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-summary-data.js",
+      "src": "data/runtime/payloads/education-comunal-summary-data.json",
+      "script_src": "data/runtime/payloads/education-comunal-summary-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -683,7 +683,7 @@
       "script_bytes": 514238,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "aa58c933aec6c83770c2790c4b635b85",
+        "hash": "5f333e377d507812b6691f426887b25f",
         "files": [
           {
             "path": "data/Excel/Clean/Migración/Anual/2019.xlsx",
@@ -737,7 +737,7 @@
             "path": "quarto-pidr/scripts/build_migration_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "03bb826791b7a631bfb90ad7e1ef4871"
+            "hash": "e024698312e0ed298008131ec9358eb2"
           }
         ],
         "params": {
@@ -806,8 +806,8 @@
       "generated_at": "2026-08-03T17:09:49-0400"
     },
     "education-matricula-provincial-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-provincial-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-provincial-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-provincial-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-provincial-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -893,8 +893,8 @@
       "generated_at": "2026-08-18T10:54:09-0400"
     },
     "education-sexo-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-sexo-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-sexo-report-data.js",
+      "src": "data/runtime/payloads/education-sexo-report-data.json",
+      "script_src": "data/runtime/payloads/education-sexo-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -1044,14 +1044,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "21ddf66478f31821ae795a6e8db0decd",
+      "hash": "4196fb9e48ecffe994608ff8f0692add",
       "script_hash_algorithm": "md5",
-      "script_hash": "6bcd993ad5d6c956478fe91abb857eca",
-      "bytes": 56461,
-      "script_bytes": 56606,
+      "script_hash": "2cefdd3d5f36de1a24a13dc59318a08f",
+      "bytes": 108948,
+      "script_bytes": 109093,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8907afefbf936333a3151708c5e09438",
+        "hash": "363d3e8076781dae27f48eba684f1e2f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1062,9 +1062,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "21ddf66478f31821ae795a6e8db0decd"
+        "payload_hash": "4196fb9e48ecffe994608ff8f0692add"
       },
-      "generated_at": "2026-08-20T18:20:31-0400"
+      "generated_at": "2026-08-21T09:15:05-0400"
     }
   }
 }
