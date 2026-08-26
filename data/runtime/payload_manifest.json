@@ -536,7 +536,7 @@
       "script_bytes": 142282,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ec5f095eee10ec8aa59c8a011126f2d9",
+        "hash": "43b3bc9be2e7d1e09cfbe2d1402ab7e6",
         "files": [
           {
             "path": "data/CSV/salud_anual.csv",
@@ -566,7 +566,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2d0c25196942e8e10f6051d25ed78182"
+            "hash": "64eda06b7a1154c1af5ac5774eb254b8"
           }
         ],
         "params": {
@@ -591,7 +591,7 @@
       "script_bytes": 165681,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ad2e7f6cea58239372637b04de77271e",
+        "hash": "425a146f53f790e669c464b8d9a5d42c",
         "files": [
           {
             "path": "data/CSV/pensiones_anual.csv",
@@ -609,7 +609,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2d0c25196942e8e10f6051d25ed78182"
+            "hash": "64eda06b7a1154c1af5ac5774eb254b8"
           }
         ],
         "params": {
@@ -634,7 +634,7 @@
       "script_bytes": 117903,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "25c11cc98a258adf6618e8e6cfbbd931",
+        "hash": "8f09fa832838475f8f4ae20d2fbfafd9",
         "files": [
           {
             "path": "data/CSV/ocupacion_anual.csv",
@@ -658,7 +658,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2d0c25196942e8e10f6051d25ed78182"
+            "hash": "64eda06b7a1154c1af5ac5774eb254b8"
           }
         ],
         "params": {
@@ -1080,7 +1080,7 @@
       "script_bytes": 150017,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8af521afe7f121f789e8edb046bd994b",
+        "hash": "fe28322cbf2d9dd0e3a140d321242dbf",
         "files": [
           {
             "path": "data/CSV/demografia_indicadores_anual.csv",
@@ -1110,7 +1110,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2d0c25196942e8e10f6051d25ed78182"
+            "hash": "64eda06b7a1154c1af5ac5774eb254b8"
           }
         ],
         "params": {
@@ -1120,6 +1120,49 @@
         "schema_version": 1
       },
       "generated_at": "2026-08-25T14:55:25-0400"
+    },
+    "historia-sexo-edad-data": {
+      "src": "data/runtime/payloads/historia-sexo-edad-data.json",
+      "script_src": "data/runtime/payloads/historia-sexo-edad-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "8d1c76d3b70dba2e941b012f29456c27",
+      "script_hash_algorithm": "md5",
+      "script_hash": "4031bf2a9af855663a69b2a8d73fdf25",
+      "bytes": 90343,
+      "script_bytes": 90485,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "ea53a3b00893b5875de6947298b02be9",
+        "files": [
+          {
+            "path": "data/CSV/historia_sexo_edad_nacional.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c47f1c67b02fe42c378f0e333c92b116"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c2fe5d5ea4c59c34595fda906a86e8c0"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_sector_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "64eda06b7a1154c1af5ac5774eb254b8"
+          }
+        ],
+        "params": {
+          "payload_id": "historia-sexo-edad-data",
+          "schema_version": 1
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-08-25T23:04:05-0400"
     }
   }
 }
