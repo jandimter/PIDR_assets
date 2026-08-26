@@ -536,7 +536,7 @@
       "script_bytes": 142282,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "88b7bdcc6d8dde1a344ae7ef75307e1f",
+        "hash": "ec5f095eee10ec8aa59c8a011126f2d9",
         "files": [
           {
             "path": "data/CSV/salud_anual.csv",
@@ -566,7 +566,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a7c49e890d7549970970d780334876d6"
+            "hash": "2d0c25196942e8e10f6051d25ed78182"
           }
         ],
         "params": {
@@ -591,7 +591,7 @@
       "script_bytes": 165681,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1ce0f230f54ee9e888741e9be1cad984",
+        "hash": "ad2e7f6cea58239372637b04de77271e",
         "files": [
           {
             "path": "data/CSV/pensiones_anual.csv",
@@ -609,7 +609,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a7c49e890d7549970970d780334876d6"
+            "hash": "2d0c25196942e8e10f6051d25ed78182"
           }
         ],
         "params": {
@@ -634,7 +634,7 @@
       "script_bytes": 117903,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8159b13735ff42bc5708c082585b5636",
+        "hash": "25c11cc98a258adf6618e8e6cfbbd931",
         "files": [
           {
             "path": "data/CSV/ocupacion_anual.csv",
@@ -658,7 +658,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a7c49e890d7549970970d780334876d6"
+            "hash": "2d0c25196942e8e10f6051d25ed78182"
           }
         ],
         "params": {
@@ -676,14 +676,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "3e08865fde8efa422a9a7064ce589da8",
+      "hash": "200643e4dcc3b8c9e7297416ad0a992d",
       "script_hash_algorithm": "md5",
-      "script_hash": "30ba3193d6221b5cfbed4bd11edddcd6",
-      "bytes": 514098,
-      "script_bytes": 514238,
+      "script_hash": "b82e839a20aa34235fa8032cffe6d19e",
+      "bytes": 516492,
+      "script_bytes": 516632,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "5f333e377d507812b6691f426887b25f",
+        "hash": "b057d439c83677577953e395cc1d9c7a",
         "files": [
           {
             "path": "data/Excel/Clean/Migración/Anual/2019.xlsx",
@@ -737,7 +737,7 @@
             "path": "quarto-pidr/scripts/build_migration_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "e024698312e0ed298008131ec9358eb2"
+            "hash": "a77860abdf739e6b28ea1404f9ce0007"
           }
         ],
         "params": {
@@ -745,7 +745,7 @@
         },
         "schema_version": 2
       },
-      "generated_at": "2026-08-19T23:16:12-0400"
+      "generated_at": "2026-08-25T15:02:50-0400"
     },
     "income-sex-age-data": {
       "src": "data/runtime/payloads/income-sex-age-data.json",
@@ -1065,6 +1065,61 @@
         "payload_hash": "4196fb9e48ecffe994608ff8f0692add"
       },
       "generated_at": "2026-08-21T09:15:05-0400"
+    },
+    "nacional-valores-data": {
+      "src": "data/runtime/payloads/nacional-valores-data.json",
+      "script_src": "data/runtime/payloads/nacional-valores-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "1bf14f60da2213fbaf8aea458a4cc615",
+      "script_hash_algorithm": "md5",
+      "script_hash": "3aa28eea625d86dfe6386f375ef73c25",
+      "bytes": 149877,
+      "script_bytes": 150017,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "8af521afe7f121f789e8edb046bd994b",
+        "files": [
+          {
+            "path": "data/CSV/demografia_indicadores_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cd5f15236099fd049da461e8ebf27f36"
+          },
+          {
+            "path": "data/CSV/migracion_detalle.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "2a9fa2e8cefcac41cb280e4723554891"
+          },
+          {
+            "path": "data/CSV/educacion_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4ac102d3b8c75f09e884ff4528f07b40"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c2fe5d5ea4c59c34595fda906a86e8c0"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_sector_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "2d0c25196942e8e10f6051d25ed78182"
+          }
+        ],
+        "params": {
+          "payload_id": "nacional-valores-data",
+          "schema_version": 1
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-08-25T14:55:25-0400"
     }
   }
 }
