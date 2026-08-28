@@ -1,20 +1,20 @@
 {
   "payloads": {
     "territorial-commune-dashboard-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/territorial-commune-dashboard-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/territorial-commune-dashboard-data.js",
+      "src": "data/runtime/payloads/territorial-commune-dashboard-data.json",
+      "script_src": "data/runtime/payloads/territorial-commune-dashboard-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9e8a8c147370a256c976d3860909e104",
+      "hash": "15e37ad2101e400bddff03204420dac2",
       "script_hash_algorithm": "md5",
-      "script_hash": "d0498c1ed0db6afd4c7dba517b33bc13",
-      "bytes": 17262660,
-      "script_bytes": 17262813,
+      "script_hash": "ddb095fcaa30c3fef67e77de3e9ed51a",
+      "bytes": 21004940,
+      "script_bytes": 21005093,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "49772423b9dba2179b9f8e2c3ad98364",
+        "hash": "740b0d7f28a2f37b6b6190576fc1225c",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -25,25 +25,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "9e8a8c147370a256c976d3860909e104"
+        "payload_hash": "15e37ad2101e400bddff03204420dac2"
       },
-      "generated_at": "2026-07-29T12:02:18-0400"
+      "generated_at": "2026-08-28T15:02:37-0400"
     },
     "national-commune-hover-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/national-commune-hover-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/national-commune-hover-data.js",
+      "src": "data/runtime/payloads/national-commune-hover-data.json",
+      "script_src": "data/runtime/payloads/national-commune-hover-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "58a41264854fc9a465172660bdaec9c8",
+      "hash": "800244f7941eae9c06769b441bf238ef",
       "script_hash_algorithm": "md5",
-      "script_hash": "582adbdcbadab071930f9bf18ff4cf55",
-      "bytes": 2905502,
-      "script_bytes": 2905648,
+      "script_hash": "56e32c6e2fe5d58e366374a7b88f7088",
+      "bytes": 2910925,
+      "script_bytes": 2911071,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "7afa96d1a4322d6814d35d33d12693f2",
+        "hash": "3b7d867736736081ecad4d6115098f43",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -54,13 +54,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "58a41264854fc9a465172660bdaec9c8"
+        "payload_hash": "800244f7941eae9c06769b441bf238ef"
       },
-      "generated_at": "2026-08-19T15:06:57-0400"
+      "generated_at": "2026-08-28T15:02:31-0400"
     },
     "regional-selector-map-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/regional-selector-map-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/regional-selector-map-data.js",
+      "src": "data/runtime/payloads/regional-selector-map-data.json",
+      "script_src": "data/runtime/payloads/regional-selector-map-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -88,20 +88,20 @@
       "generated_at": "2026-05-02T19:12:11-0400"
     },
     "income-comunal-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/income-comunal-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/income-comunal-data.js",
+      "src": "data/runtime/payloads/income-comunal-data.json",
+      "script_src": "data/runtime/payloads/income-comunal-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "16857fddd7c023973fe6e30ce38d1ba6",
+      "hash": "4a0e35e829c8278b455bb5ab08878cc0",
       "script_hash_algorithm": "md5",
-      "script_hash": "eba54c5c404a338a7f294bc712272638",
-      "bytes": 1506508,
-      "script_bytes": 1506646,
+      "script_hash": "b1f1a2b716b72f3bf3e807044fbc3efa",
+      "bytes": 1506632,
+      "script_bytes": 1506770,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "7b3496d89e0849e1298b73d1b9be6687",
+        "hash": "ef1738a0fb1bdd6625ed08ca880cc2af",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -112,25 +112,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "16857fddd7c023973fe6e30ce38d1ba6"
+        "payload_hash": "4a0e35e829c8278b455bb5ab08878cc0"
       },
-      "generated_at": "2026-08-19T15:21:02-0400"
+      "generated_at": "2026-08-28T15:02:38-0400"
     },
     "demography-regional-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-regional-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-regional-data.js",
+      "src": "data/runtime/payloads/demography-regional-data.json",
+      "script_src": "data/runtime/payloads/demography-regional-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "131f0e268436c5b70c3fc958dd02bc83",
+      "hash": "6e4f90556df4ba651892adc43be93817",
       "script_hash_algorithm": "md5",
-      "script_hash": "46879f5b836b11e778dbefac807b0ce4",
-      "bytes": 212896,
-      "script_bytes": 213039,
+      "script_hash": "6e44f5407e46b040e2154ec7701088ee",
+      "bytes": 570063,
+      "script_bytes": 570206,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "33a9a5d9e8f5b21af22b69d3a691fcad",
+        "hash": "43399cef81b35173994baa9cb6306471",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -141,25 +141,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "131f0e268436c5b70c3fc958dd02bc83"
+        "payload_hash": "6e4f90556df4ba651892adc43be93817"
       },
-      "generated_at": "2026-08-26T14:55:07-0400"
+      "generated_at": "2026-08-28T14:54:28-0400"
     },
     "demography-aging-exact-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-aging-exact-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-aging-exact-data.js",
+      "src": "data/runtime/payloads/demography-aging-exact-data.json",
+      "script_src": "data/runtime/payloads/demography-aging-exact-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "84accd2af0f0782be22967e7f38c3ba6",
+      "hash": "14f62c7f7698da14c5dd5411cb6c83cb",
       "script_hash_algorithm": "md5",
-      "script_hash": "4ffde67cc67e15a5085bf45f98a07750",
-      "bytes": 7389,
-      "script_bytes": 7535,
+      "script_hash": "76a8246731a36dee475c514d6c55d785",
+      "bytes": 7399,
+      "script_bytes": 7545,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3a4e2f3f4a855e3a7f008b321f73cb43",
+        "hash": "073d3947ad249fa048f2795255bc7398",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -170,13 +170,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "84accd2af0f0782be22967e7f38c3ba6"
+        "payload_hash": "14f62c7f7698da14c5dd5411cb6c83cb"
       },
-      "generated_at": "2026-05-03T01:36:52-0400"
+      "generated_at": "2026-08-28T14:54:29-0400"
     },
     "demography-dependency-exact-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-exact-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-exact-data.js",
+      "src": "data/runtime/payloads/demography-dependency-exact-data.json",
+      "script_src": "data/runtime/payloads/demography-dependency-exact-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -204,8 +204,8 @@
       "generated_at": "2026-05-03T01:36:52-0400"
     },
     "demography-other-relations-exact-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-other-relations-exact-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-other-relations-exact-data.js",
+      "src": "data/runtime/payloads/demography-other-relations-exact-data.json",
+      "script_src": "data/runtime/payloads/demography-other-relations-exact-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -233,20 +233,20 @@
       "generated_at": "2026-05-03T01:36:52-0400"
     },
     "demography-comunal-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-comunal-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-comunal-data.js",
+      "src": "data/runtime/payloads/demography-comunal-data.json",
+      "script_src": "data/runtime/payloads/demography-comunal-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4dd96e6190566b34263e155fabf5107d",
+      "hash": "f417e15518f2bbd8a2203985e317e5f3",
       "script_hash_algorithm": "md5",
-      "script_hash": "59ed3fe8270c9cca20cf0e4eb4967f94",
-      "bytes": 202059,
-      "script_bytes": 202201,
+      "script_hash": "1bfc2b67e1e7b47101ff5da390568816",
+      "bytes": 709620,
+      "script_bytes": 709762,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "15238c3ebbabe93aeef55af9490f4f3f",
+        "hash": "a1310e27ba0e4131edc9d23c644d0729",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -257,25 +257,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "4dd96e6190566b34263e155fabf5107d"
+        "payload_hash": "f417e15518f2bbd8a2203985e317e5f3"
       },
-      "generated_at": "2026-08-05T18:43:02-0400"
+      "generated_at": "2026-08-28T14:54:29-0400"
     },
     "demography-coverage-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-data.js",
+      "src": "data/runtime/payloads/demography-coverage-data.json",
+      "script_src": "data/runtime/payloads/demography-coverage-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "78e41c41472232b067dd69d6143f4d7e",
+      "hash": "68b239a60750512f4b56bc3a10aa3baf",
       "script_hash_algorithm": "md5",
-      "script_hash": "6b30525072f4cf1db6381661ad7bad8d",
-      "bytes": 57904,
-      "script_bytes": 58047,
+      "script_hash": "955486a27e91c7fd91b63378d9fc2978",
+      "bytes": 206649,
+      "script_bytes": 206792,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1fb8089f686df3db53e8203ac4bf4755",
+        "hash": "efcb02ffd07fcfb53d9ff4f1e18f62bf",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -286,25 +286,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "78e41c41472232b067dd69d6143f4d7e"
+        "payload_hash": "68b239a60750512f4b56bc3a10aa3baf"
       },
-      "generated_at": "2026-08-04T10:27:21-0400"
+      "generated_at": "2026-08-28T14:54:29-0400"
     },
     "demography-coverage-exact-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-exact-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-exact-data.js",
+      "src": "data/runtime/payloads/demography-coverage-exact-data.json",
+      "script_src": "data/runtime/payloads/demography-coverage-exact-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0a6ce44afb9379b1870e0beff5242d66",
+      "hash": "c899218dbf81265136ee62125beffe32",
       "script_hash_algorithm": "md5",
-      "script_hash": "ccc2ea2d958b9cd1f87b7381001d99da",
-      "bytes": 11342,
-      "script_bytes": 11491,
+      "script_hash": "27c20e455155a9d1d8306bd3120085c3",
+      "bytes": 11307,
+      "script_bytes": 11456,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8bd7b55c0ea11230e67ed38c40165749",
+        "hash": "f36fd18d4ae832c19ebecad84e99e33e",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -315,25 +315,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0a6ce44afb9379b1870e0beff5242d66"
+        "payload_hash": "c899218dbf81265136ee62125beffe32"
       },
-      "generated_at": "2026-05-03T01:36:52-0400"
+      "generated_at": "2026-08-28T14:54:30-0400"
     },
     "demography-coverage-comunal-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-comunal-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-coverage-comunal-report-data.js",
+      "src": "data/runtime/payloads/demography-coverage-comunal-report-data.json",
+      "script_src": "data/runtime/payloads/demography-coverage-comunal-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "517a2bf159291257b9e510fe7fb9ad25",
+      "hash": "85dda4c45d780676ed2a6d02bde43bdd",
       "script_hash_algorithm": "md5",
-      "script_hash": "7718b48ca779facb076e05ef65cea54f",
-      "bytes": 28118,
-      "script_bytes": 28276,
+      "script_hash": "ed3c61978aa36580c45918d187bc82e1",
+      "bytes": 99617,
+      "script_bytes": 99775,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d63fc6a12ad3842690f79c4c982322fa",
+        "hash": "9bf6bd0480ffc6eb568435cd93877081",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -344,13 +344,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "517a2bf159291257b9e510fe7fb9ad25"
+        "payload_hash": "85dda4c45d780676ed2a6d02bde43bdd"
       },
-      "generated_at": "2026-08-18T10:54:01-0400"
+      "generated_at": "2026-08-28T14:54:30-0400"
     },
     "education-matricula-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -378,8 +378,8 @@
       "generated_at": "2026-08-19T22:56:46-0400"
     },
     "education-matricula-summary-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-summary-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-summary-data.js",
+      "src": "data/runtime/payloads/education-matricula-summary-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-summary-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -407,20 +407,20 @@
       "generated_at": "2026-05-03T01:37:07-0400"
     },
     "education-matricula-comunal-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-comunal-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-comunal-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-comunal-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-comunal-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "e43bdd373dc41e0189102c13baa72fc5",
+      "hash": "d070f79dc4e928912ff424d089e8fa84",
       "script_hash_algorithm": "md5",
-      "script_hash": "51afe712e3aad240201a22e010156243",
-      "bytes": 236149,
-      "script_bytes": 236307,
+      "script_hash": "3d4221011a4353fd13b160a14c6be792",
+      "bytes": 236153,
+      "script_bytes": 236311,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a473581da9428e6b6abae733e26ceb96",
+        "hash": "244a0b6469e6fc99879139425a89ae3d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -431,25 +431,25 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "e43bdd373dc41e0189102c13baa72fc5"
+        "payload_hash": "d070f79dc4e928912ff424d089e8fa84"
       },
-      "generated_at": "2026-08-20T16:08:02-0400"
+      "generated_at": "2026-08-28T14:55:22-0400"
     },
     "education-comunal-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-report-data.js",
+      "src": "data/runtime/payloads/education-comunal-report-data.json",
+      "script_src": "data/runtime/payloads/education-comunal-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1c5a975dd98bb66e59e8f5d530391330",
+      "hash": "cbb41a340abb069523d75ed1264d7d48",
       "script_hash_algorithm": "md5",
-      "script_hash": "c55c4d945286a0e034904515508936ce",
-      "bytes": 311516,
-      "script_bytes": 311664,
+      "script_hash": "f2c26d470e4c9edc293f0bbeac7b7032",
+      "bytes": 311464,
+      "script_bytes": 311612,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "c3f963fa7ee80cce74abe395bce871c2",
+        "hash": "5e6cf19778fa42d8c7a811e216245832",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -460,13 +460,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1c5a975dd98bb66e59e8f5d530391330"
+        "payload_hash": "cbb41a340abb069523d75ed1264d7d48"
       },
-      "generated_at": "2026-08-20T16:08:02-0400"
+      "generated_at": "2026-08-28T14:55:22-0400"
     },
     "education-comunal-summary-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-summary-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-comunal-summary-data.js",
+      "src": "data/runtime/payloads/education-comunal-summary-data.json",
+      "script_src": "data/runtime/payloads/education-comunal-summary-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -494,8 +494,8 @@
       "generated_at": "2026-08-26T14:44:15-0400"
     },
     "income-values-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/income-values-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/income-values-data.js",
+      "src": "data/runtime/payloads/income-values-data.json",
+      "script_src": "data/runtime/payloads/income-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -523,8 +523,8 @@
       "generated_at": "2026-08-26T14:44:22-0400"
     },
     "health-values-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/health-values-data.js",
+      "src": "data/runtime/payloads/health-values-data.json",
+      "script_src": "data/runtime/payloads/health-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -536,7 +536,7 @@
       "script_bytes": 144480,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4eb01950ecd62661874755015978697a",
+        "hash": "1448314db7a50ced84ebe196db8c6cc5",
         "files": [
           {
             "path": "data/CSV/salud_anual.csv",
@@ -548,13 +548,13 @@
             "path": "data/CSV/salud_tasas_anual.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "3341388de1d3d93f816e332f51278039"
+            "hash": "cecc10ff7a2e9d610c28f8122313463f"
           },
           {
             "path": "data/CSV/proyeccion_demografica.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "550585aeb5e5e23d7a9e9d44eb906d2e"
+            "hash": "0acd4853c22236c7e3b54679edabe38a"
           },
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
@@ -578,8 +578,8 @@
       "generated_at": "2026-08-26T14:44:31-0400"
     },
     "pension-values-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/pension-values-data.js",
+      "src": "data/runtime/payloads/pension-values-data.json",
+      "script_src": "data/runtime/payloads/pension-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -621,8 +621,8 @@
       "generated_at": "2026-08-17T10:54:10-0400"
     },
     "occupation-values-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-values-data.js",
+      "src": "data/runtime/payloads/occupation-values-data.json",
+      "script_src": "data/runtime/payloads/occupation-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -634,7 +634,7 @@
       "script_bytes": 119358,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "33cd9e6d26ab70b520e58680a413aa1c",
+        "hash": "1ba2c03468f5615ff1d7938e3fe53b2e",
         "files": [
           {
             "path": "data/CSV/ocupacion_anual.csv",
@@ -646,7 +646,7 @@
             "path": "data/metadata/territorios.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "c974476917323b3543a30c1e19c585f8"
+            "hash": "a9c66ac06a3381b7d0fddb576f43af12"
           },
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
@@ -670,8 +670,8 @@
       "generated_at": "2026-08-26T14:44:36-0400"
     },
     "migration-values-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-values-data.js",
+      "src": "data/runtime/payloads/migration-values-data.json",
+      "script_src": "data/runtime/payloads/migration-values-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -748,8 +748,8 @@
       "generated_at": "2026-08-26T14:46:55-0400"
     },
     "income-sex-age-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/income-sex-age-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/income-sex-age-data.js",
+      "src": "data/runtime/payloads/income-sex-age-data.json",
+      "script_src": "data/runtime/payloads/income-sex-age-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -777,8 +777,8 @@
       "generated_at": "2026-08-19T15:01:02-0400"
     },
     "income-provincial-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/income-provincial-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/income-provincial-data.js",
+      "src": "data/runtime/payloads/income-provincial-data.json",
+      "script_src": "data/runtime/payloads/income-provincial-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -806,8 +806,8 @@
       "generated_at": "2026-08-03T17:09:49-0400"
     },
     "education-matricula-provincial-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-provincial-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-matricula-provincial-report-data.js",
+      "src": "data/runtime/payloads/education-matricula-provincial-report-data.json",
+      "script_src": "data/runtime/payloads/education-matricula-provincial-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -835,8 +835,8 @@
       "generated_at": "2026-08-19T14:53:53-0400"
     },
     "demography-dependency-provincial-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-provincial-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-provincial-data.js",
+      "src": "data/runtime/payloads/demography-dependency-provincial-data.json",
+      "script_src": "data/runtime/payloads/demography-dependency-provincial-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -864,8 +864,8 @@
       "generated_at": "2026-08-07T10:56:36-0400"
     },
     "occupation-sex-age-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-sex-age-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/occupation-sex-age-data.js",
+      "src": "data/runtime/payloads/occupation-sex-age-data.json",
+      "script_src": "data/runtime/payloads/occupation-sex-age-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -893,8 +893,8 @@
       "generated_at": "2026-08-18T10:54:09-0400"
     },
     "education-sexo-report-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/education-sexo-report-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/education-sexo-report-data.js",
+      "src": "data/runtime/payloads/education-sexo-report-data.json",
+      "script_src": "data/runtime/payloads/education-sexo-report-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -922,20 +922,20 @@
       "generated_at": "2026-08-05T18:03:49-0400"
     },
     "demography-dependency-sexo-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-sexo-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-dependency-sexo-data.js",
+      "src": "data/runtime/payloads/demography-dependency-sexo-data.json",
+      "script_src": "data/runtime/payloads/demography-dependency-sexo-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4f8d4970eab6755f5b2ea2c4e6a25623",
+      "hash": "db2a9f3fdf7589b6848dabc511d0775e",
       "script_hash_algorithm": "md5",
-      "script_hash": "731043f1d5a8fa9b791c33abc83bc679",
-      "bytes": 52469,
-      "script_bytes": 52619,
+      "script_hash": "7bdc715c60d6bac20c18883e891e4b6e",
+      "bytes": 90028,
+      "script_bytes": 90178,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "c788516e2694c3e3619661b17aa73b56",
+        "hash": "81fe805bb172cffe9b6e17e8ac650738",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -946,13 +946,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "4f8d4970eab6755f5b2ea2c4e6a25623"
+        "payload_hash": "db2a9f3fdf7589b6848dabc511d0775e"
       },
-      "generated_at": "2026-08-13T20:08:04-0400"
+      "generated_at": "2026-08-28T14:54:29-0400"
     },
     "demography-aging-provincial-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-aging-provincial-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-aging-provincial-data.js",
+      "src": "data/runtime/payloads/demography-aging-provincial-data.json",
+      "script_src": "data/runtime/payloads/demography-aging-provincial-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -980,8 +980,8 @@
       "generated_at": "2026-08-07T10:56:36-0400"
     },
     "demography-otras-relaciones-provincial-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-otras-relaciones-provincial-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-otras-relaciones-provincial-data.js",
+      "src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.json",
+      "script_src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -1009,20 +1009,20 @@
       "generated_at": "2026-08-07T10:56:36-0400"
     },
     "demography-corrupt-cases": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-corrupt-cases.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/demography-corrupt-cases.js",
+      "src": "data/runtime/payloads/demography-corrupt-cases.json",
+      "script_src": "data/runtime/payloads/demography-corrupt-cases.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8f101daab3431c3af52d47ae32621a67",
+      "hash": "d751713988987e9331980363e24189ce",
       "script_hash_algorithm": "md5",
-      "script_hash": "99a943252e97a821c8546ef3c729aa25",
-      "bytes": 200,
-      "script_bytes": 343,
+      "script_hash": "0f1446042d5f4865efc50f3eeb71fa88",
+      "bytes": 2,
+      "script_bytes": 145,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "74c322a07da154f9c176155e6f7e77d4",
+        "hash": "d277224530d89185f93b25f6b242c610",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1033,13 +1033,13 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8f101daab3431c3af52d47ae32621a67"
+        "payload_hash": "d751713988987e9331980363e24189ce"
       },
-      "generated_at": "2026-08-07T11:10:41-0400"
+      "generated_at": "2026-08-28T14:54:29-0400"
     },
     "migration-nationality-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-nationality-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/migration-nationality-data.js",
+      "src": "data/runtime/payloads/migration-nationality-data.json",
+      "script_src": "data/runtime/payloads/migration-nationality-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
@@ -1067,26 +1067,26 @@
       "generated_at": "2026-08-21T09:15:05-0400"
     },
     "nacional-valores-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/nacional-valores-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/nacional-valores-data.js",
+      "src": "data/runtime/payloads/nacional-valores-data.json",
+      "script_src": "data/runtime/payloads/nacional-valores-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1bf14f60da2213fbaf8aea458a4cc615",
+      "hash": "89e7bf8a950c934542efaa04fc6ab844",
       "script_hash_algorithm": "md5",
-      "script_hash": "3aa28eea625d86dfe6386f375ef73c25",
-      "bytes": 149877,
-      "script_bytes": 150017,
+      "script_hash": "91a60623065348e9963f022fcdafd2a5",
+      "bytes": 149896,
+      "script_bytes": 150036,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "5c205ce9257ab8140060097d02531a6e",
+        "hash": "25ae691b71a4783f8189059d1dcc96d2",
         "files": [
           {
             "path": "data/CSV/demografia_indicadores_anual.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cd5f15236099fd049da461e8ebf27f36"
+            "hash": "13731f853b029a995a7eedde3e9139ed"
           },
           {
             "path": "data/CSV/migracion_detalle.csv",
@@ -1119,11 +1119,11 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-08-25T14:55:25-0400"
+      "generated_at": "2026-08-28T14:55:35-0400"
     },
     "historia-sexo-edad-data": {
-      "src": "https://pidr.mideplan.cl/data/runtime/payloads/historia-sexo-edad-data.json",
-      "script_src": "https://pidr.mideplan.cl/data/runtime/payloads/historia-sexo-edad-data.js",
+      "src": "data/runtime/payloads/historia-sexo-edad-data.json",
+      "script_src": "data/runtime/payloads/historia-sexo-edad-data.js",
       "format": "json",
       "script_format": "js",
       "schema_version": 1,
