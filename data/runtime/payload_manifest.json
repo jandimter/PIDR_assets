@@ -471,14 +471,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "61e4afc57224072316610cff38a11524",
+      "hash": "da71c5755edc30d34b7ac687ea38ee27",
       "script_hash_algorithm": "md5",
-      "script_hash": "0ee5ace932cf82c2af5b32d03662a20f",
-      "bytes": 386943,
-      "script_bytes": 387092,
+      "script_hash": "a755c4494576223dd713f47b3ed3a6a4",
+      "bytes": 397804,
+      "script_bytes": 397953,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1206f54993060471b5b21276f4d4724b",
+        "hash": "f54230eec677e54ed8f5faafce3ccabb",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -489,9 +489,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "61e4afc57224072316610cff38a11524"
+        "payload_hash": "da71c5755edc30d34b7ac687ea38ee27"
       },
-      "generated_at": "2026-08-26T14:44:15-0400"
+      "generated_at": "2026-08-29T15:44:13-0400"
     },
     "income-values-data": {
       "src": "data/runtime/payloads/income-values-data.json",
@@ -1200,14 +1200,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "e687e380e93bba0edf490cdf2ca44ef3",
+      "hash": "ebd2464ac5eb9546617ab4590fcc2c00",
       "script_hash_algorithm": "md5",
-      "script_hash": "33a4cff22e942b427421c17cdb86898d",
+      "script_hash": "25dba451e260b3228cf450bdcf3891bf",
       "bytes": 75706,
       "script_bytes": 75857,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d93a2696b5cd714e246811c75d2fef91",
+        "hash": "0f338ec66c5405abb7dfec9a833c378d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1218,9 +1218,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "e687e380e93bba0edf490cdf2ca44ef3"
+        "payload_hash": "ebd2464ac5eb9546617ab4590fcc2c00"
       },
-      "generated_at": "2026-08-29T13:46:50-0400"
+      "generated_at": "2026-08-29T14:42:35-0400"
     }
   }
 }
