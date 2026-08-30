@@ -1192,35 +1192,6 @@
         "payload_hash": "4a5f37019739cc3c86ee139b13bcb137"
       },
       "generated_at": "2026-08-29T06:42:22-0400"
-    },
-    "education-single-provincial-data": {
-      "src": "data/runtime/payloads/education-single-provincial-data.json",
-      "script_src": "data/runtime/payloads/education-single-provincial-data.js",
-      "format": "json",
-      "script_format": "js",
-      "schema_version": 1,
-      "hash_algorithm": "md5",
-      "hash": "ebd2464ac5eb9546617ab4590fcc2c00",
-      "script_hash_algorithm": "md5",
-      "script_hash": "25dba451e260b3228cf450bdcf3891bf",
-      "bytes": 75706,
-      "script_bytes": 75857,
-      "input_signature": {
-        "hash_algorithm": "md5",
-        "hash": "0f338ec66c5405abb7dfec9a833c378d",
-        "kind": "payload_content_plus_builder",
-        "files": [
-          {
-            "path": "quarto-pidr/scripts/build_site_payloads.R",
-            "exists": true,
-            "hash_algorithm": "md5",
-            "hash": "c2fe5d5ea4c59c34595fda906a86e8c0"
-          }
-        ],
-        "payload_hash_algorithm": "md5",
-        "payload_hash": "ebd2464ac5eb9546617ab4590fcc2c00"
-      },
-      "generated_at": "2026-08-29T14:42:35-0400"
     }
   }
 }
