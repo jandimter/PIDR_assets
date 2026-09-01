@@ -4,7 +4,6 @@
   "base_paths": {
     "graficos_nacionales": "https://pidr.mideplan.cl/output/graficos_nacionales",
     "graficos_regionales": "https://pidr.mideplan.cl/output/graficos_regionales",
-    "_graficos_regionales_ocupacion_legacy": "https://pidr.mideplan.cl/output/graficos_regionales_ocupacion",
     "graficos_regionales_salud": "https://pidr.mideplan.cl/output/graficos_regionales_salud",
     "graficos_regionales_cobertura": "https://pidr.mideplan.cl/output/graficos_regionales_cobertura",
     "graficos_regionales_piramide": "https://pidr.mideplan.cl/output/graficos_regionales_piramide",
@@ -28,7 +27,6 @@
   "base_paths_github": {
     "graficos_nacionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_nacionales",
     "graficos_regionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales",
-    "_graficos_regionales_ocupacion_legacy": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_ocupacion",
     "graficos_regionales_salud": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_salud",
     "graficos_regionales_cobertura": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_cobertura",
     "graficos_regionales_piramide": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_piramide",
@@ -52,7 +50,6 @@
   "base_paths_github_backup": {
     "graficos_nacionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_nacionales",
     "graficos_regionales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales",
-    "_graficos_regionales_ocupacion_legacy": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_ocupacion",
     "graficos_regionales_salud": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_salud",
     "graficos_regionales_cobertura": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_cobertura",
     "graficos_regionales_piramide": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_piramide",
@@ -76,7 +73,6 @@
   "base_paths_local": {
     "graficos_nacionales": "output/graficos_nacionales",
     "graficos_regionales": "output/graficos_regionales",
-    "_graficos_regionales_ocupacion_legacy": "output/OLD/graficos_regionales_ocupacion",
     "graficos_regionales_salud": "output/graficos_regionales_salud",
     "graficos_regionales_cobertura": "output/graficos_regionales_cobertura",
     "graficos_regionales_piramide": "output/graficos_regionales_piramide",
