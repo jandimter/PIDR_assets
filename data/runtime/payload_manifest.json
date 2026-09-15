@@ -36,14 +36,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "800244f7941eae9c06769b441bf238ef",
+      "hash": "2621a240e476ede65c42d42bf8c8693c",
       "script_hash_algorithm": "md5",
-      "script_hash": "56e32c6e2fe5d58e366374a7b88f7088",
-      "bytes": 2910925,
-      "script_bytes": 2911071,
+      "script_hash": "a6560eaeb66dda4b5b1738417da18aa8",
+      "bytes": 2904821,
+      "script_bytes": 2904967,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3b7d867736736081ecad4d6115098f43",
+        "hash": "1459c975ba156ec8729269bcf6c90121",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -54,7 +54,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "800244f7941eae9c06769b441bf238ef"
+        "payload_hash": "2621a240e476ede65c42d42bf8c8693c"
       },
       "generated_at": "2026-08-28T15:02:31-0400"
     },
@@ -65,14 +65,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "bae50c703eebfc2af278e85d87906341",
+      "hash": "94acdf0f2c1f96835826dbc47c4fbe55",
       "script_hash_algorithm": "md5",
-      "script_hash": "aa35e1de37992f2a6a4af039351d8b36",
-      "bytes": 721549,
-      "script_bytes": 721694,
+      "script_hash": "bf9b41c5d8e5d3ea4704fb6f17e315aa",
+      "bytes": 719433,
+      "script_bytes": 719578,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "5c946f5edf8b78c813abe9a57a6709bd",
+        "hash": "bcc22d08803f1357014251e22e53b168",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -83,9 +83,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "bae50c703eebfc2af278e85d87906341"
+        "payload_hash": "94acdf0f2c1f96835826dbc47c4fbe55"
       },
-      "generated_at": "2026-05-02T19:12:11-0400"
+      "generated_at": "2026-09-09T20:07:47-0300"
     },
     "income-comunal-data": {
       "src": "data/runtime/payloads/income-comunal-data.json",
@@ -355,14 +355,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2e67a61b927c22271e086b4064d71b4c",
+      "hash": "2fb054624130a45ac07767da90f349ec",
       "script_hash_algorithm": "md5",
-      "script_hash": "36ab111e0c85c7114e4b8f7dc12f100c",
-      "bytes": 268603,
-      "script_bytes": 268753,
+      "script_hash": "1b8fe52449afe0c2be0c9fe2d914b621",
+      "bytes": 268595,
+      "script_bytes": 268745,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "2aba31e7062185d0ab9a07d49ee3d442",
+        "hash": "727adfd9ac4b3f80b798228c3a29ca49",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -373,9 +373,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2e67a61b927c22271e086b4064d71b4c"
+        "payload_hash": "2fb054624130a45ac07767da90f349ec"
       },
-      "generated_at": "2026-08-19T22:56:46-0400"
+      "generated_at": "2026-09-10T16:53:20-0300"
     },
     "education-matricula-summary-data": {
       "src": "data/runtime/payloads/education-matricula-summary-data.json",
@@ -536,7 +536,7 @@
       "script_bytes": 144480,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ecaefa82baa82ecad34c6226ba056a7d",
+        "hash": "b8bcb367e0855ff4c412a309af4c5220",
         "files": [
           {
             "path": "data/CSV/salud_anual.csv",
@@ -566,7 +566,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4dcdc0f5af97a3d10fc51f35aa070fe7"
+            "hash": "a074ad60e9704203e6ff7453a34a755e"
           }
         ],
         "params": {
@@ -591,7 +591,7 @@
       "script_bytes": 165681,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "df5d4477390430e9bf9c229b367ca762",
+        "hash": "fd39abf5f803e63678d71ff72d4922fe",
         "files": [
           {
             "path": "data/CSV/pensiones_anual.csv",
@@ -609,7 +609,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4dcdc0f5af97a3d10fc51f35aa070fe7"
+            "hash": "a074ad60e9704203e6ff7453a34a755e"
           }
         ],
         "params": {
@@ -634,7 +634,7 @@
       "script_bytes": 119365,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1ba2c03468f5615ff1d7938e3fe53b2e",
+        "hash": "a06f694fa2eed994225fc8627fc6a951",
         "files": [
           {
             "path": "data/CSV/ocupacion_anual.csv",
@@ -658,7 +658,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4dcdc0f5af97a3d10fc51f35aa070fe7"
+            "hash": "a074ad60e9704203e6ff7453a34a755e"
           }
         ],
         "params": {
@@ -1080,7 +1080,7 @@
       "script_bytes": 163519,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ad52b59c892aef589657d5dca6b25adb",
+        "hash": "d2a78dbb5cae584ca7be3b6070f7579b",
         "files": [
           {
             "path": "data/CSV/demografia_indicadores_anual.csv",
@@ -1110,7 +1110,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4dcdc0f5af97a3d10fc51f35aa070fe7"
+            "hash": "a074ad60e9704203e6ff7453a34a755e"
           }
         ],
         "params": {
@@ -1128,14 +1128,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "dde85f3a1cb23aabc69d8096a4e1271c",
+      "hash": "1780663a9303484af6c04bc540990dfc",
       "script_hash_algorithm": "md5",
-      "script_hash": "97afd71164ee8798efa29e0fc1f39628",
-      "bytes": 90349,
-      "script_bytes": 90491,
+      "script_hash": "ad72c5b0afa9c210e5552a942edfb227",
+      "bytes": 101656,
+      "script_bytes": 101798,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f63126ca39156b7ff9d0f0993dc2128a",
+        "hash": "db8ee480787692589f27a5f3a76ef11a",
         "files": [
           {
             "path": "data/CSV/historia_sexo_edad_nacional.csv",
@@ -1153,7 +1153,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4dcdc0f5af97a3d10fc51f35aa070fe7"
+            "hash": "a074ad60e9704203e6ff7453a34a755e"
           }
         ],
         "params": {
@@ -1162,7 +1162,7 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-08-29T05:59:48-0400"
+      "generated_at": "2026-09-10T16:54:15-0300"
     },
     "health-sex-age-data": {
       "src": "data/runtime/payloads/health-sex-age-data.json",
@@ -1229,26 +1229,26 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5f98d060b96417582cc8d37592e34f61",
+      "hash": "2c1d23c47a9348eaa66a76331af68dd6",
       "script_hash_algorithm": "md5",
-      "script_hash": "ece8db21c073da349c3024e942e3520e",
-      "bytes": 9147442,
-      "script_bytes": 9147573,
+      "script_hash": "1769977f6b2cc3c25e531724a8fadc18",
+      "bytes": 5093850,
+      "script_bytes": 5093981,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "2799a72810bf77b2e7fb24e5ee687b05",
+        "hash": "ea74a81eecc0f956b6bb0054da1dbd74",
         "files": [
           {
             "path": "data/maps_oficial/lab_geo_simplificado.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a8589aa55a937b50ab5ec8d900db373a"
+            "hash": "fcc8a4a1deecbcf43f0fa72a3127b225"
           },
           {
             "path": "proc/0_generate_data/build_lab_geo_payload.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "dda658bb14aa32fc58db4c34c562e618"
+            "hash": "120d5fc45a0ecacd5839a7373b455c4f"
           }
         ],
         "params": {
@@ -1295,6 +1295,115 @@
         "schema_version": 1
       },
       "generated_at": "2026-09-08T21:05:03-0300"
+    },
+    "lab-sexo-territorial-data": {
+      "src": "data/runtime/payloads/lab-sexo-territorial-data.json",
+      "script_src": "data/runtime/payloads/lab-sexo-territorial-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "092bf69202088b55d1fdc446a4d43570",
+      "script_hash_algorithm": "md5",
+      "script_hash": "871d8a416288847016c7fdd51741ee0c",
+      "bytes": 327325,
+      "script_bytes": 327469,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "07af5d44ff9dc85638f7e50d84226e09",
+        "files": [
+          {
+            "path": "data/CSV/educacion_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4ac102d3b8c75f09e884ff4528f07b40"
+          },
+          {
+            "path": "data/CSV/ocupacion_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "18a59049e96bcc4d32ab013e9753c941"
+          },
+          {
+            "path": "data/CSV/pensiones_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "68244c4610de6769713fce9e59fcdc8c"
+          },
+          {
+            "path": "data/CSV/salud_tasas_anual.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ec7c531656b90a3881717c5b9fe12ae0"
+          }
+        ],
+        "params": {
+          "payload_id": "lab-sexo-territorial-data",
+          "schema_version": 1
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-09-09T17:55:18-0300"
+    },
+    "lab-poblacion-data": {
+      "src": "data/runtime/payloads/lab-poblacion-data.json",
+      "script_src": "data/runtime/payloads/lab-poblacion-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "42e99976158e220a463817f7b2476d4c",
+      "script_hash_algorithm": "md5",
+      "script_hash": "c767dc39ae39fa2a5154ff493286ad57",
+      "bytes": 219212,
+      "script_bytes": 219349,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "62b1cbc7efd1be3d4e2dacbd6beaf285",
+        "files": [
+          {
+            "path": "data/CSV/proyeccion_demografica.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0acd4853c22236c7e3b54679edabe38a"
+          }
+        ],
+        "params": {
+          "payload_id": "lab-poblacion-data",
+          "schema_version": 1
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-09-09T17:55:20-0300"
+    },
+    "correlations-report-data": {
+      "src": "data/runtime/payloads/correlations-report-data.json",
+      "script_src": "data/runtime/payloads/correlations-report-data.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "7cefefcfc7f85d3cc3a5a7db63fa86f4",
+      "script_hash_algorithm": "md5",
+      "script_hash": "b28e0c03c02f26ab1e27852fffecd958",
+      "bytes": 378965,
+      "script_bytes": 379108,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "9237cfec09d51b3b9377b548dfb90ccb",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c2fe5d5ea4c59c34595fda906a86e8c0"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "7cefefcfc7f85d3cc3a5a7db63fa86f4"
+      },
+      "generated_at": "2026-09-11T13:08:22-0300"
     }
   }
 }
