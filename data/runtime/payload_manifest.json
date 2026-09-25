@@ -507,7 +507,7 @@
       "script_bytes": 144480,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4081d1691a76f025e29a5c86afe67cda",
+        "hash": "f52166a517bc48da5697fb7e15985664",
         "files": [
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
@@ -534,12 +534,6 @@
             "hash": "b13ee637b8520a6bb1206d7892ddb12e"
           },
           {
-            "path": "data/CSV/salud_tasas_anual.csv",
-            "exists": true,
-            "hash_algorithm": "md5",
-            "hash": "010da4c1507121dd55526f05146f29fa"
-          },
-          {
             "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
             "exists": true,
             "hash_algorithm": "md5",
@@ -552,6 +546,12 @@
             "hash": "797f76f4d555d255101cdd82af573f55"
           },
           {
+            "path": "proc/1_generate_graphs_definitive/_shared/salud_tasas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cfc6ba655498b726aabe9eb7877bf50c"
+          },
+          {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
@@ -561,7 +561,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "01659c562870c71fcdf35fd925ed662c"
+            "hash": "1af35eaece69a218fa962d2a9662a1f0"
           }
         ],
         "params": {
@@ -586,7 +586,7 @@
       "script_bytes": 165681,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3181a8de194ed55dc6d0ca782debd072",
+        "hash": "170ab22fc16613c519705e9fb255b436",
         "files": [
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
@@ -634,7 +634,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "01659c562870c71fcdf35fd925ed662c"
+            "hash": "1af35eaece69a218fa962d2a9662a1f0"
           }
         ],
         "params": {
@@ -659,7 +659,7 @@
       "script_bytes": 121821,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b0fc9958096d50f3e91645c721cfe175",
+        "hash": "7dc928adedd1798f7fe825df8f97f9cc",
         "files": [
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
@@ -695,7 +695,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "01659c562870c71fcdf35fd925ed662c"
+            "hash": "1af35eaece69a218fa962d2a9662a1f0"
           }
         ],
         "params": {
@@ -1117,13 +1117,79 @@
       "script_bytes": 162343,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d111e9d65009f7bd58d578959d6c276d",
+        "hash": "f45e4dbbe96b35b12d08c4d9293d9f53",
         "files": [
           {
-            "path": "data/CSV/demografia_indicadores_anual.csv",
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_apoyopot_a.parquet",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "24c48c5dd9c7461c3ece26b4f09cc1ec"
+            "hash": "9c36b9d68a7c0b04113ece19b5b52f45"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_apoyopot_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "741cad0070a695ffe64551ba8658fce4"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_depmayores_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "901718c49eb53967edfec2ff3f8532bd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_depmayores_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4a7b5afba7bcf7ed64c86588508ab3b3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_depmenores_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "02a565dc728830bfb56686fa6ca67a9a"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_depmenores_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c441b3c3d54f095acd9565abb90801f0"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_deptot_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "8c9b09358f173c03026fac2b876ff6c4"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_deptot_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "bcdb62f0b2c7b5d45befe1d6d0b8f3c4"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_enveje_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "190a1dfc3978635188cab3a0d53758e5"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_enveje_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "35aee4354c5da6eb57d41a956861ab69"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "797f76f4d555d255101cdd82af573f55"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=migracion/per=anual/m_movinterna_a.parquet",
@@ -1279,7 +1345,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "01659c562870c71fcdf35fd925ed662c"
+            "hash": "1af35eaece69a218fa962d2a9662a1f0"
           }
         ],
         "params": {
@@ -1297,20 +1363,188 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "956e5d1776be0cc41cc71340c8d0ae08",
+      "hash": "67815333801a014bdfeab34630c48c91",
       "script_hash_algorithm": "md5",
-      "script_hash": "d2eb4551123dcd944f70bd4b9aba60ea",
-      "bytes": 101656,
-      "script_bytes": 101798,
+      "script_hash": "67410ad4722acdf6c5d0c0ce392ad318",
+      "bytes": 101675,
+      "script_bytes": 101817,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "82b387b4d662a6a3cc43b20eccaf3cfe",
+        "hash": "984dc5d97966ddbfc9988929caa7c356",
         "files": [
           {
-            "path": "data/CSV/historia_sexo_edad_nacional.csv",
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "63484ddf11856479a87bef86ce605071"
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_basbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87b39b8da7395894246db941a6f93d59"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_basneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "2cfd9da8a88c2bf7f5083aa40e83ae48"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_mat_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "a498dcabfe6007429fcee382d2a5e276"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_mediabrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6057ff9287a4c5c56a4a7412906eae20"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_medianeta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7921923cfbe35d1c26bfbe009b7b194c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_prebrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "a8a9d287539dc749c2d705ec214cbbf5"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_preneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5d2f36e8f2968c5f88bc3f41b4267349"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_rezjov_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d28210c09f5904fa686b296e1560d30"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_rezmat_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "eba7eb69359b79d51178723edad2a1d7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_supbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "25384ce01c002513f61394372474f37e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_supneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0d3ff1a84f4b50e1fb763d26592e9a66"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "380877236edf0259127261065f62d6ac"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=migracion/per=anual/m_movinterna_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "027c5232c266fcf272f753daf599b256"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d809d3fc3a191b2b46e9bc1387df648"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0fd9ec17d13b0fb754ef0b7fecc0d7ab"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cad3b31aeff24337fcf37c88e42680dd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cc6674ef4c0a40cdb3a921f22bde5c49"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5ae0bfc0e2759d461c9dd4630989e25b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3767ee733d7c2fa265e23365c90c52b2"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "fbf1365006bcf554602af5bb17a26da3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b13ee637b8520a6bb1206d7892ddb12e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "797f76f4d555d255101cdd82af573f55"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/salud_tasas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cfc6ba655498b726aabe9eb7877bf50c"
           },
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
@@ -1322,7 +1556,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "01659c562870c71fcdf35fd925ed662c"
+            "hash": "1af35eaece69a218fa962d2a9662a1f0"
           }
         ],
         "params": {
@@ -1331,7 +1565,7 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-09-17T05:10:31-0300"
+      "generated_at": "2026-09-25T12:41:19-0300"
     },
     "health-sex-age-data": {
       "src": "data/runtime/payloads/health-sex-age-data.json",
