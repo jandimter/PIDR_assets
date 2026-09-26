@@ -1,11 +1,11 @@
 {
   "groups": {
     "income": {
-      "render_mode": "full",
-      "generated_at": "2026-09-25T18:16:01-0300",
+      "render_mode": "fast",
+      "generated_at": "2026-09-25T23:39:21-0300",
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f8c03d83b5cc7a09b0f05ca4a1b5d30b",
+        "hash": "8c8e8f1bfe330f32eec8632ea032b25d",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_glossary_plots.R",
@@ -27,7 +27,7 @@
           "previous_year": 2023
         },
         "value_hashes": {
-          "income_values": "450d72be5a42d2fce95c8fcb3f68b679"
+          "income_values": "54838d2a9cf10ec7f7ad596a98b5875c"
         }
       },
       "files": [
@@ -39,9 +39,9 @@
         },
         {
           "path": "output/graficos_ingresos_glosario/plot_glosario_i_peringrmin_a_2024_nacional.png",
-          "bytes": 38871,
+          "bytes": 38470,
           "hash_algorithm": "md5",
-          "hash": "30655a8c289ec8f1e121c69f41611fd1"
+          "hash": "9bb52cb925122d1502ae5de90afa2474"
         },
         {
           "path": "output/graficos_ingresos_glosario/plot_glosario_i_ingr_mean_a_2024_nacional.png",
@@ -57,9 +57,9 @@
         },
         {
           "path": "output/graficos_ingresos_glosario/plot_glosario_i_peringr_median_a_2024_nacional.png",
-          "bytes": 39964,
+          "bytes": 39950,
           "hash_algorithm": "md5",
-          "hash": "305fe4661acc3ad62ca66f99c21a91fa"
+          "hash": "6ce9e44616c1fd4f12cbcec2b7a71b66"
         }
       ]
     },

@@ -471,14 +471,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1e0555b0224bace5a5094ba0d6c09d1e",
+      "hash": "f1e3ef0603852ac783455258680123ff",
       "script_hash_algorithm": "md5",
-      "script_hash": "8b90d42aa1bd2af3884276cf423f7d9e",
-      "bytes": 810299,
-      "script_bytes": 810436,
+      "script_hash": "d6e9ea4dd19d2b0cf09576a93b3a5b29",
+      "bytes": 810700,
+      "script_bytes": 810837,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4db56803f8fc5db3209ab483c443add7",
+        "hash": "4b8d5f424aa2e9ccea43e10f081cd24b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -489,9 +489,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1e0555b0224bace5a5094ba0d6c09d1e"
+        "payload_hash": "f1e3ef0603852ac783455258680123ff"
       },
-      "generated_at": "2026-09-17T15:08:41-0300"
+      "generated_at": "2026-09-25T23:44:26-0300"
     },
     "health-values-data": {
       "src": "data/runtime/payloads/health-values-data.json",
