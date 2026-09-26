@@ -65,14 +65,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "43bf3f25ef6018effbbc13c1ff2b5c68",
+      "hash": "da56dedc8508bb6a603106b8747b47c2",
       "script_hash_algorithm": "md5",
-      "script_hash": "1b4b6f8fc45f3857c22eff933ca0a261",
-      "bytes": 1245578,
-      "script_bytes": 1245716,
+      "script_hash": "660a742339f90fba5e72c1735eb398ab",
+      "bytes": 1245575,
+      "script_bytes": 1245713,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "93458ea5f837cdfe9143c0e775f6b99c",
+        "hash": "594b1aeb047ae4365ed3cabff7d7c53b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -83,9 +83,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "43bf3f25ef6018effbbc13c1ff2b5c68"
+        "payload_hash": "da56dedc8508bb6a603106b8747b47c2"
       },
-      "generated_at": "2026-09-25T18:21:22-0300"
+      "generated_at": "2026-09-26T01:55:01-0300"
     },
     "demography-regional-data": {
       "src": "data/runtime/payloads/demography-regional-data.json",
@@ -507,8 +507,20 @@
       "script_bytes": 144480,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "30ccfe298ddcb26a1176f7d0428a72db",
+        "hash": "37067faf97fea78195de8ff680d52a30",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-health-values-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "749127465195c47d820c572d8f3338e2"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
             "exists": true,
@@ -586,8 +598,20 @@
       "script_bytes": 165681,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "76f23f37eb5e987c082d58499899f4e5",
+        "hash": "4ca0d3a0d9d99348a235e44d94e21ff7",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-pensions-values-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "13ecd986502fe40bb0dc2f48f0b7e314"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
             "exists": true,
@@ -659,8 +683,20 @@
       "script_bytes": 121821,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b4cee1bfdda340552adc97786f4f96f3",
+        "hash": "c214502241a36848b281b47e38c751db",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-occupation-values-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9cab32b3f6f5970e2030758149f430e4"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
             "exists": true,
@@ -720,8 +756,20 @@
       "script_bytes": 499261,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "35a95a751e9fedbcc396518c6697b220",
+        "hash": "1bc14479afd1dfe119607ec667c7a888",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-migration-values-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "bc2e0b34f4b1926431b5806d8ba17b05"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/Excel/Clean/Migración/Anual/2019.xlsx",
             "exists": true,
@@ -791,14 +839,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "fc719b1253b58aa5fbf03996a332215b",
+      "hash": "9db9cb542f6ba0177f1ec74b50332b1c",
       "script_hash_algorithm": "md5",
-      "script_hash": "dd7c6cae9ccc05653fbfe06667522d9e",
-      "bytes": 522717,
-      "script_bytes": 522855,
+      "script_hash": "c34d89e14a4c07bab7a5b503aa90e835",
+      "bytes": 522720,
+      "script_bytes": 522858,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "44436a1285389781659ea51be7dc60bb",
+        "hash": "35f90971f34bf5621ae93de47762e913",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -809,7 +857,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "fc719b1253b58aa5fbf03996a332215b"
+        "payload_hash": "9db9cb542f6ba0177f1ec74b50332b1c"
       },
       "generated_at": "2026-08-19T15:01:02-0400"
     },
@@ -820,14 +868,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "74b4c5faf425e1486aff6cf4f1208efd",
+      "hash": "4fb73d750e830cd1b2857961a09b0e25",
       "script_hash_algorithm": "md5",
-      "script_hash": "9832a12b50f8b628534539e4c5ae9fd1",
-      "bytes": 123301,
-      "script_bytes": 123442,
+      "script_hash": "89fce52f0c13f87a92551948d09a6312",
+      "bytes": 123304,
+      "script_bytes": 123445,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0fba2df4300080583f1867345e2317c4",
+        "hash": "09d2630c4e7416c3afcb5851dccdb47f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -838,7 +886,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "74b4c5faf425e1486aff6cf4f1208efd"
+        "payload_hash": "4fb73d750e830cd1b2857961a09b0e25"
       },
       "generated_at": "2026-08-03T17:09:49-0400"
     },
@@ -1117,8 +1165,20 @@
       "script_bytes": 162343,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0f33b9d8ef5ed7645c4a9870718e382c",
+        "hash": "a4e880344be99f5cff9974132c220aa5",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-nacional-valores-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cb47cbf60175fb3b3e72b550d7609099"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_apoyopot_a.parquet",
             "exists": true,
@@ -1370,8 +1430,20 @@
       "script_bytes": 101817,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "cfe5cc8ff7509e12b8e77cb0ca594953",
+        "hash": "2b407c8646e10c92a0b3d6638b887b55",
         "files": [
+          {
+            "path": "quarto-pidr/chunks/territorial-historia-sexo-edad-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ed2a25e1d9a7642f831776a0f25feac2"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+          },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
             "exists": true,
