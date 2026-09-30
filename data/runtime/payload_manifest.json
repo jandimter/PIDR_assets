@@ -65,14 +65,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "a21cfde7ea2c39d2d1b32de4cdf73178",
+      "hash": "863646172a69049ef36e5a4b68c91814",
       "script_hash_algorithm": "md5",
-      "script_hash": "d9afbb70166020b0383b9ee6e0cbb9af",
+      "script_hash": "2afc56eb3eca3085c443357d88fa0de1",
       "bytes": 1246274,
       "script_bytes": 1246412,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "04abbdc6fc110186fd4b37132dad04e7",
+        "hash": "3d9c25ab72bc0f7298e85a1973b92079",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -83,9 +83,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "a21cfde7ea2c39d2d1b32de4cdf73178"
+        "payload_hash": "863646172a69049ef36e5a4b68c91814"
       },
-      "generated_at": "2026-09-26T01:55:01-0300"
+      "generated_at": "2026-09-30T12:37:49-0300"
     },
     "demography-regional-data": {
       "src": "data/runtime/payloads/demography-regional-data.json",
@@ -749,26 +749,26 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1be02811268570ee5645ca8e0bbfc5fb",
+      "hash": "e662983f8f458faf161eb0495a6e1258",
       "script_hash_algorithm": "md5",
-      "script_hash": "f90f656cf42cfc6f29b95bae3a71a6ef",
-      "bytes": 469793,
-      "script_bytes": 469933,
+      "script_hash": "38bb2861b1f36249443bf004635b3288",
+      "bytes": 494512,
+      "script_bytes": 494652,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "18ce7e76a5893a66b16ffe3604736979",
+        "hash": "9535ba80f518218e42a1ec0f60f1e091",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_migration_laminas_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "391b368e7f1a6db7d49f0c7100b34ec5"
+            "hash": "4fbdba019f3f5e8a758b11e23003e819"
           },
           {
             "path": "quarto-pidr/chunks/territorial-migration-values-json.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "014c8b9df41d4884d22e5a9868f6876d"
+            "hash": "c076c67b6c8d6414ff9afab154bf834c"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -828,16 +828,16 @@
             "path": "quarto-pidr/scripts/build_migration_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "42078737aa18275b312d684aa9232081"
+            "hash": "9b3aaa872c6df0be28cd6ed5a85fdd12"
           }
         ],
         "params": {
           "payload_id": "migration-values-data",
-          "laminas_xlsx": "79cd76e76f1580c067c3fd3c469fd8c3"
+          "laminas_xlsx": "fca3e9de4658e3f5e1580ec39484abec"
         },
         "schema_version": 3
       },
-      "generated_at": "2026-09-17T04:37:30-0300"
+      "generated_at": "2026-09-30T10:32:44-0300"
     },
     "income-sex-age-data": {
       "src": "data/runtime/payloads/income-sex-age-data.json",
