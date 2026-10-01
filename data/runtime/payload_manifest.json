@@ -94,14 +94,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b72b998cfa4fd4ff9846717619c54d90",
+      "hash": "7c4567b29eb10d16c9a1c6e6a3dd5e0f",
       "script_hash_algorithm": "md5",
-      "script_hash": "df7fcddf2bf898d03328bb3017fddcad",
-      "bytes": 612307,
-      "script_bytes": 612450,
+      "script_hash": "1781e38d3e7d473fa7efde72b24949ed",
+      "bytes": 613240,
+      "script_bytes": 613383,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fb3db0237575cf56a0e4e4e783a3dd84",
+        "hash": "0de8c1bfecfb8723e3064c3852b4415b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -112,9 +112,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "b72b998cfa4fd4ff9846717619c54d90"
+        "payload_hash": "7c4567b29eb10d16c9a1c6e6a3dd5e0f"
       },
-      "generated_at": "2026-09-30T16:10:45-0300"
+      "generated_at": "2026-09-30T20:29:18-0300"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -326,14 +326,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1eecf8bcb6b1034824329d2ea9788c5b",
+      "hash": "7e0db0f463e888f3ac1893809632ffa9",
       "script_hash_algorithm": "md5",
-      "script_hash": "a80150cdf1067ab17ddd33eb376a626e",
-      "bytes": 268448,
-      "script_bytes": 268598,
+      "script_hash": "8455f0f2835fde6e3c94ee604cac7955",
+      "bytes": 268924,
+      "script_bytes": 269074,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4863cb869576969ec14ea718052e1a93",
+        "hash": "9ef97eedad515583c31970ba204e76a9",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -344,7 +344,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1eecf8bcb6b1034824329d2ea9788c5b"
+        "payload_hash": "7e0db0f463e888f3ac1893809632ffa9"
       },
       "generated_at": "2026-09-17T15:08:05-0300"
     },
@@ -442,14 +442,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "7fc305c2a405e1f0190cde6d2cb4d692",
+      "hash": "33ab1c10784d43b59bf49e32e09c4499",
       "script_hash_algorithm": "md5",
-      "script_hash": "f8b3c406f9d18ecbaf31bd7511fdf499",
-      "bytes": 404010,
-      "script_bytes": 404159,
+      "script_hash": "9d1e5b9a27bb101d47add089f1088b36",
+      "bytes": 290186,
+      "script_bytes": 290335,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6c4d707485bceaa20646dcfd7f657e12",
+        "hash": "6580ae423e55455b487a6b3654bab127",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -460,7 +460,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "7fc305c2a405e1f0190cde6d2cb4d692"
+        "payload_hash": "33ab1c10784d43b59bf49e32e09c4499"
       },
       "generated_at": "2026-09-17T15:08:33-0300"
     },
@@ -471,14 +471,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f1e3ef0603852ac783455258680123ff",
+      "hash": "550bdd0c5f0490a4aba5849a60612f44",
       "script_hash_algorithm": "md5",
-      "script_hash": "d6e9ea4dd19d2b0cf09576a93b3a5b29",
-      "bytes": 810700,
-      "script_bytes": 810837,
+      "script_hash": "13e1aadaa0cc8afd8e8baa735308ffb9",
+      "bytes": 811311,
+      "script_bytes": 811448,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4b8d5f424aa2e9ccea43e10f081cd24b",
+        "hash": "d4b6406b83f49280a13f1390eab1d790",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -489,7 +489,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f1e3ef0603852ac783455258680123ff"
+        "payload_hash": "550bdd0c5f0490a4aba5849a60612f44"
       },
       "generated_at": "2026-09-25T23:44:26-0300"
     },
@@ -500,14 +500,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4c4d7626bbda4141f9ea9ba8d43ec180",
+      "hash": "362d91f8c0bbe0e182866efe10ff6784",
       "script_hash_algorithm": "md5",
-      "script_hash": "ced0db30684cb02aabad1a7eac695c2c",
-      "bytes": 144343,
-      "script_bytes": 144480,
+      "script_hash": "fc04c0f8fd90df6be4c2d3cd4cb21732",
+      "bytes": 144580,
+      "script_bytes": 144717,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "96bbd798c537e966ba4d35453315075d",
+        "hash": "b618cf01ab7a2868f1ac7528a4def37b",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-health-values-json.R",
@@ -519,7 +519,7 @@
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
@@ -573,7 +573,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "6586e5408d848c7f06545f686504eeee"
+            "hash": "a24705aa2813c21f8420481a962a73b4"
           }
         ],
         "params": {
@@ -591,26 +591,26 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9818b418a66f6805ab41ba54d2737e07",
+      "hash": "53a391577b86a06ddf9b546986479991",
       "script_hash_algorithm": "md5",
-      "script_hash": "bf63c3399de88051c59ae252437c0c0b",
-      "bytes": 165543,
-      "script_bytes": 165681,
+      "script_hash": "7d5c74f4f25447d40b4980ec3cd773fa",
+      "bytes": 178516,
+      "script_bytes": 178654,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "477aad9dd5fd932515363302870a8d8a",
+        "hash": "da837638bc67e6ddb4f1592106a4c273",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-pensions-values-json.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "13ecd986502fe40bb0dc2f48f0b7e314"
+            "hash": "451fdab5cabbcbcadfe6a51071d2d6c5"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
@@ -658,14 +658,14 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "6586e5408d848c7f06545f686504eeee"
+            "hash": "a24705aa2813c21f8420481a962a73b4"
           }
         ],
         "params": {
           "payload_id": "pension-values-data",
-          "schema_version": 1
+          "schema_version": 2
         },
-        "schema_version": 1
+        "schema_version": 2
       },
       "generated_at": "2026-09-17T15:08:58-0300"
     },
@@ -676,14 +676,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "a785d0e34e504c508415e55878294b7d",
+      "hash": "4308eb8517ee225fa5a272b80ff47320",
       "script_hash_algorithm": "md5",
-      "script_hash": "831e9dbc1322aab19b90aa42746dfb90",
-      "bytes": 121680,
-      "script_bytes": 121821,
+      "script_hash": "532af47080af41d4f305e14d727ab7ac",
+      "bytes": 121799,
+      "script_bytes": 121940,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b50c6beabf4b6abc5ace76627fb19f69",
+        "hash": "6a230cebe616183f2c82f3b46638b2f5",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-occupation-values-json.R",
@@ -695,7 +695,7 @@
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
@@ -731,7 +731,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "6586e5408d848c7f06545f686504eeee"
+            "hash": "a24705aa2813c21f8420481a962a73b4"
           }
         ],
         "params": {
@@ -749,14 +749,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "e662983f8f458faf161eb0495a6e1258",
+      "hash": "9ef6c2bf11933563eef5a14cbb910d34",
       "script_hash_algorithm": "md5",
-      "script_hash": "38bb2861b1f36249443bf004635b3288",
-      "bytes": 494512,
-      "script_bytes": 494652,
+      "script_hash": "091c299b1128e4372b6b5433e2160518",
+      "bytes": 494786,
+      "script_bytes": 494926,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "9535ba80f518218e42a1ec0f60f1e091",
+        "hash": "3c1db795190b5570815b9d3352e8323e",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_migration_laminas_reportes.R",
@@ -774,7 +774,7 @@
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/Excel/Clean/Migración/Anual/2019.xlsx",
@@ -833,7 +833,7 @@
         ],
         "params": {
           "payload_id": "migration-values-data",
-          "laminas_xlsx": "fca3e9de4658e3f5e1580ec39484abec"
+          "laminas_xlsx": "e4353691bf658e18103f4ead51b98710"
         },
         "schema_version": 3
       },
@@ -1172,7 +1172,7 @@
       "script_bytes": 162548,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fea842337f1cc6b58071c977b8411840",
+        "hash": "feeb541d132407a741ba656eb6829257",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-nacional-valores-json.R",
@@ -1184,7 +1184,7 @@
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_apoyopot_a.parquet",
@@ -1412,7 +1412,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "6586e5408d848c7f06545f686504eeee"
+            "hash": "a24705aa2813c21f8420481a962a73b4"
           }
         ],
         "params": {
@@ -1437,7 +1437,7 @@
       "script_bytes": 101856,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b6f0addb18c747f98b826f94951f773e",
+        "hash": "e57329bd05769957a153077a36623d32",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-historia-sexo-edad-json.R",
@@ -1449,7 +1449,7 @@
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87eff5395fd29fa30ccd5645f91175c2"
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
           },
           {
             "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
@@ -1635,7 +1635,7 @@
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "6586e5408d848c7f06545f686504eeee"
+            "hash": "a24705aa2813c21f8420481a962a73b4"
           }
         ],
         "params": {
@@ -1822,14 +1822,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8e9c86211215db1170636fa9fc3dfad6",
+      "hash": "2fd89ed9187ac3e698c0f0c2d19a419e",
       "script_hash_algorithm": "md5",
-      "script_hash": "b13ec99e8ceecac6457ab5f5d3250571",
-      "bytes": 4660712,
-      "script_bytes": 4660855,
+      "script_hash": "14bfa8d95e922e825708e9d53be0ae6a",
+      "bytes": 4737558,
+      "script_bytes": 4737701,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b89d9a8f828e1a27313972ae5a13132c",
+        "hash": "574a26abbba95057e6e883342b79fdf6",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1840,7 +1840,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8e9c86211215db1170636fa9fc3dfad6"
+        "payload_hash": "2fd89ed9187ac3e698c0f0c2d19a419e"
       },
       "generated_at": "2026-09-18T15:25:25-0300"
     },
@@ -3484,6 +3484,86 @@
         "schema_version": 1
       },
       "generated_at": "2026-09-30T04:25:39-0300"
+    },
+    "income-regserie-reports": {
+      "src": "data/runtime/payloads/income-regserie-reports.json",
+      "script_src": "data/runtime/payloads/income-regserie-reports.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "c1ed302440463d730f7e6d298b90a386",
+      "script_hash_algorithm": "md5",
+      "script_hash": "32e6c2cf0b60e8071ddda6e244cabdd7",
+      "bytes": 773378,
+      "script_bytes": 773520,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "fd6b4688e9a0d83604e98a5a2d9b74eb",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_income_serie_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "73595fbc4ddb3605fed58f29fab0892e"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-income-serie-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "36e0043c1405000180fc34e9c016d165"
+          }
+        ],
+        "params": {
+          "payload_id": "income-regserie-reports",
+          "laminas_xlsx": "59f4135b313b484a9aa3ed0720f8b35a"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-01T01:03:32-0300"
+    },
+    "laminas-nacionales-reports": {
+      "src": "data/runtime/payloads/laminas-nacionales-reports.json",
+      "script_src": "data/runtime/payloads/laminas-nacionales-reports.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "82aa0ecdada577b2209aa6ba768d9ce7",
+      "script_hash_algorithm": "md5",
+      "script_hash": "3a425d9ccd63a58d84986923cb408eee",
+      "bytes": 22869,
+      "script_bytes": 23014,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "14e626d2c3b5b586a7fe80f26ee5f1a6",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_laminas_nacionales_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "129790b053e33c262a5b3f9988872e81"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_textos_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "525c7c0e532d33e43f5ac0af8c41136f"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-nacionales-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4827477ab76203d323dac4d8b0014b29"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-nacionales-reports",
+          "laminas_xlsx": "02fc19601d7559d39ef7c6c89fd37c12"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-01T01:33:09-0300"
     }
   }
 }
