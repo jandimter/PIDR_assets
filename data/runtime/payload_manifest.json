@@ -65,14 +65,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "863646172a69049ef36e5a4b68c91814",
+      "hash": "dcc7dfb794c890d8fafcb3315139ba82",
       "script_hash_algorithm": "md5",
-      "script_hash": "2afc56eb3eca3085c443357d88fa0de1",
+      "script_hash": "897846ed223db7ec811f9a2656211a45",
       "bytes": 1246274,
       "script_bytes": 1246412,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3d9c25ab72bc0f7298e85a1973b92079",
+        "hash": "9e271e1675a759264827fe04b827ece4",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -83,7 +83,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "863646172a69049ef36e5a4b68c91814"
+        "payload_hash": "dcc7dfb794c890d8fafcb3315139ba82"
       },
       "generated_at": "2026-09-30T12:37:49-0300"
     },
@@ -749,20 +749,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9ef6c2bf11933563eef5a14cbb910d34",
+      "hash": "fdf329c27e0212d99c3d7331a3246080",
       "script_hash_algorithm": "md5",
-      "script_hash": "091c299b1128e4372b6b5433e2160518",
-      "bytes": 494786,
-      "script_bytes": 494926,
+      "script_hash": "d9f6fd33d0b6089cf80ee9691deeca14",
+      "bytes": 501074,
+      "script_bytes": 501214,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3c1db795190b5570815b9d3352e8323e",
+        "hash": "f112c3b8609c1671ec85bd87416fe6d7",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_migration_laminas_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "4fbdba019f3f5e8a758b11e23003e819"
+            "hash": "2fb493e244c3235eb557d23e89fd7e97"
           },
           {
             "path": "quarto-pidr/chunks/territorial-migration-values-json.R",
@@ -828,7 +828,7 @@
             "path": "quarto-pidr/scripts/build_migration_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "9b3aaa872c6df0be28cd6ed5a85fdd12"
+            "hash": "aca8094418445b0104fd226fa51dfb8b"
           }
         ],
         "params": {
@@ -1136,14 +1136,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5133b711158863d4ec1787c666c4ae03",
+      "hash": "c44d25c9a882dd41bcc04c02162b81f6",
       "script_hash_algorithm": "md5",
-      "script_hash": "31520cabd1a00e8ed36a2831ca8581de",
-      "bytes": 332494,
-      "script_bytes": 332639,
+      "script_hash": "aa762a9d5bdfc56bbd92c2752ed95621",
+      "bytes": 342886,
+      "script_bytes": 343031,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "89dd0adb5b5d095c0b216de750d525f8",
+        "hash": "7f33ddfb4233e4b0ca3a580ada2c8f9b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1154,7 +1154,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "5133b711158863d4ec1787c666c4ae03"
+        "payload_hash": "c44d25c9a882dd41bcc04c02162b81f6"
       },
       "generated_at": "2026-08-21T09:15:05-0400"
     },
@@ -3529,20 +3529,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "82aa0ecdada577b2209aa6ba768d9ce7",
+      "hash": "ca3b2276d505cb03fd96c130143191fa",
       "script_hash_algorithm": "md5",
-      "script_hash": "3a425d9ccd63a58d84986923cb408eee",
-      "bytes": 22869,
-      "script_bytes": 23014,
+      "script_hash": "85d452c83c9046f8a293e85e861b5107",
+      "bytes": 36749,
+      "script_bytes": 36894,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "14e626d2c3b5b586a7fe80f26ee5f1a6",
+        "hash": "d22df3b298af1f0bf423316c4062ad62",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_laminas_nacionales_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "129790b053e33c262a5b3f9988872e81"
+            "hash": "8df6c662619b115154815f6f80e318d4"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -3559,7 +3559,7 @@
         ],
         "params": {
           "payload_id": "laminas-nacionales-reports",
-          "laminas_xlsx": "02fc19601d7559d39ef7c6c89fd37c12"
+          "laminas_xlsx": "8ac2b4d30fad15d775c29c17e1bd7ca6"
         },
         "schema_version": 1
       },
