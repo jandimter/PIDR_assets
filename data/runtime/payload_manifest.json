@@ -3455,20 +3455,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "6a65f32671de9f56cb2d279bd3af45d0",
+      "hash": "c497ee769e91f61848fedbb108ee8d13",
       "script_hash_algorithm": "md5",
-      "script_hash": "01e65b8fc1a9a7cfbde65ec2cb29d9cb",
-      "bytes": 419601,
-      "script_bytes": 419745,
+      "script_hash": "550fb59c142eb0f5fde1560c45185024",
+      "bytes": 492823,
+      "script_bytes": 492967,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fe1a0f5d78de715c10ece566c45aab2a",
+        "hash": "b94cfdb9948d0ba040a35fbbac27dc11",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_education_laminas_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d6472071e8ed2458666b92006f0b7560"
+            "hash": "1332faa84e19abe440cbebaf8f926061"
           },
           {
             "path": "quarto-pidr/chunks/territorial-education-laminas-json.R",
@@ -3479,11 +3479,11 @@
         ],
         "params": {
           "payload_id": "education-laminas-reports",
-          "laminas_xlsx": "b5ee262858b9546ab14294f45711af7f"
+          "laminas_xlsx": "91b6a586561eaf3737bddde3fce9cd24"
         },
         "schema_version": 1
       },
-      "generated_at": "2026-09-30T04:25:39-0300"
+      "generated_at": "2026-10-01T15:40:53-0300"
     },
     "income-regserie-reports": {
       "src": "data/runtime/payloads/income-regserie-reports.json",
@@ -3529,20 +3529,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ca3b2276d505cb03fd96c130143191fa",
+      "hash": "71090255e1b04ee0be6a7f0911aa6453",
       "script_hash_algorithm": "md5",
-      "script_hash": "85d452c83c9046f8a293e85e861b5107",
-      "bytes": 36749,
-      "script_bytes": 36894,
+      "script_hash": "75808a118c88c19194e1d32e91e2cd01",
+      "bytes": 55318,
+      "script_bytes": 55463,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d22df3b298af1f0bf423316c4062ad62",
+        "hash": "56b72b09afa4a7a227bf3494f695331a",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_laminas_nacionales_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8df6c662619b115154815f6f80e318d4"
+            "hash": "bf666d9ec6e3e11126b8238f28bab242"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -3559,11 +3559,11 @@
         ],
         "params": {
           "payload_id": "laminas-nacionales-reports",
-          "laminas_xlsx": "8ac2b4d30fad15d775c29c17e1bd7ca6"
+          "laminas_xlsx": "811db623a6bb16dc04644f2851391759"
         },
         "schema_version": 1
       },
-      "generated_at": "2026-10-01T01:33:09-0300"
+      "generated_at": "2026-10-01T15:41:02-0300"
     }
   }
 }
