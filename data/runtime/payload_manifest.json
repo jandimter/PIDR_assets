@@ -3462,7 +3462,7 @@
       "script_bytes": 492967,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b94cfdb9948d0ba040a35fbbac27dc11",
+        "hash": "42a7f898cdb629b244cf46640b6be6af",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_education_laminas_reportes.R",
@@ -3479,7 +3479,7 @@
         ],
         "params": {
           "payload_id": "education-laminas-reports",
-          "laminas_xlsx": "91b6a586561eaf3737bddde3fce9cd24"
+          "laminas_xlsx": "ef934f901c5724d1651c3f2358ad6536"
         },
         "schema_version": 1
       },
@@ -3536,7 +3536,7 @@
       "script_bytes": 55463,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "56b72b09afa4a7a227bf3494f695331a",
+        "hash": "6d8d392187ba4451fc1ebb59258cff3e",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_laminas_nacionales_reportes.R",
@@ -3559,7 +3559,7 @@
         ],
         "params": {
           "payload_id": "laminas-nacionales-reports",
-          "laminas_xlsx": "811db623a6bb16dc04644f2851391759"
+          "laminas_xlsx": "9ddcad3b343b8e195008c2425ee238bf"
         },
         "schema_version": 1
       },
