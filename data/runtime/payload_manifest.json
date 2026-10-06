@@ -7,27 +7,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "199d3907672c6b732da327753b22d6ef",
+      "hash": "8f2d9edcd0ba6b404307a2f1d439836c",
       "script_hash_algorithm": "md5",
-      "script_hash": "22e2a891900e7ec4d047eb5a352cfc9e",
-      "bytes": 972464,
-      "script_bytes": 972610,
+      "script_hash": "bc98e4a5538eda975cde4729898a26f4",
+      "bytes": 974935,
+      "script_bytes": 975081,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "9774903c95ac7174fb0077683fd8f192",
+        "hash": "e60080f528f0e3e1925f390d49be016f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "199d3907672c6b732da327753b22d6ef"
+        "payload_hash": "8f2d9edcd0ba6b404307a2f1d439836c"
       },
-      "generated_at": "2026-10-04T11:15:07-0300"
+      "generated_at": "2026-10-05T21:46:51-0300"
     },
     "regional-selector-map-data": {
       "src": "data/runtime/payloads/regional-selector-map-data.json",
@@ -43,14 +55,26 @@
       "script_bytes": 719584,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6ccff26b5ad6b8e1f8a92f7e6e93dd06",
+        "hash": "763c5d5c4c6ec6eb9fffd2e7b3daa942",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -65,27 +89,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ced11bec3f42a9f9db277f43bc1243bb",
+      "hash": "24a2fa2c21b7cf4476fb2c68f4a16e54",
       "script_hash_algorithm": "md5",
-      "script_hash": "628e58ad7bb119e2370ce50e2c28c943",
-      "bytes": 1250909,
-      "script_bytes": 1251047,
+      "script_hash": "262ed815f9a351eb4428e171c2d4eb21",
+      "bytes": 1255413,
+      "script_bytes": 1255551,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fccdfbdf70936faf3e72cdc205a267a2",
+        "hash": "671232cf18b71265219a5862dc0fd845",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "ced11bec3f42a9f9db277f43bc1243bb"
+        "payload_hash": "24a2fa2c21b7cf4476fb2c68f4a16e54"
       },
-      "generated_at": "2026-10-04T11:15:08-0300"
+      "generated_at": "2026-10-06T00:28:50-0300"
     },
     "demography-regional-data": {
       "src": "data/runtime/payloads/demography-regional-data.json",
@@ -94,27 +130,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "37976245bbf0ccf708013e72e7f0f9eb",
+      "hash": "6d21fbfd1dea080777996b3ad441838e",
       "script_hash_algorithm": "md5",
-      "script_hash": "8b3cd2abe03b38160c75be5d2503f2cb",
-      "bytes": 613279,
-      "script_bytes": 613422,
+      "script_hash": "d5a51ebb617b6b1271eb691fcb9f4812",
+      "bytes": 619064,
+      "script_bytes": 619207,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ad7412fc10a73cbcee9ed5628c283a5a",
+        "hash": "776c595685cc7ac8748b6b3c1276c1bd",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "37976245bbf0ccf708013e72e7f0f9eb"
+        "payload_hash": "6d21fbfd1dea080777996b3ad441838e"
       },
-      "generated_at": "2026-10-03T21:29:17-0300"
+      "generated_at": "2026-10-06T00:56:08-0300"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -130,14 +178,26 @@
       "script_bytes": 7545,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "47170444ca4c064a7c432e868f0e1a78",
+        "hash": "6b4e946e6a5e294c779c30fa53b535e7",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -159,14 +219,26 @@
       "script_bytes": 7009,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d1e75fd7164a08713eb4b04bc654598f",
+        "hash": "732ef8aa13986281ef824939f9752cd0",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -188,14 +260,26 @@
       "script_bytes": 12809,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "606f5cb5213340541cd893b59ce2c2ed",
+        "hash": "cc80f4e1a10178b81b6be6052fe1a640",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -210,27 +294,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "dbcbc0b315d1858bc649fdac91ad559d",
+      "hash": "19d553429b62aa8154f554a7fb3841eb",
       "script_hash_algorithm": "md5",
-      "script_hash": "799c1702d5e42cb167a7c50b8967c550",
-      "bytes": 687757,
-      "script_bytes": 687899,
+      "script_hash": "9ab852c1f3cebac563356b38b94e3d43",
+      "bytes": 698251,
+      "script_bytes": 698393,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "16f08d8cbbabfc5ef4fc95a568e0ce5a",
+        "hash": "4631d718015cdac652922ea44bb66f05",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "dbcbc0b315d1858bc649fdac91ad559d"
+        "payload_hash": "19d553429b62aa8154f554a7fb3841eb"
       },
-      "generated_at": "2026-10-04T11:05:24-0300"
+      "generated_at": "2026-10-06T00:04:29-0300"
     },
     "demography-coverage-data": {
       "src": "data/runtime/payloads/demography-coverage-data.json",
@@ -239,27 +335,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b035ea059a85b3ddf911da4238a38cf3",
+      "hash": "e938efe33195e008af8a33ed34a33ed2",
       "script_hash_algorithm": "md5",
-      "script_hash": "d720f584d6541dac6f698e2381854221",
-      "bytes": 99376,
-      "script_bytes": 99519,
+      "script_hash": "d9fff7156ffcfd08735f0b152053c58a",
+      "bytes": 99409,
+      "script_bytes": 99552,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "020b8831b08b06b7a07862720dd035fe",
+        "hash": "1164eb3224cd321948cf3d1aa5b04472",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "b035ea059a85b3ddf911da4238a38cf3"
+        "payload_hash": "e938efe33195e008af8a33ed34a33ed2"
       },
-      "generated_at": "2026-09-29T19:14:47-0300"
+      "generated_at": "2026-10-06T00:04:29-0300"
     },
     "demography-coverage-exact-data": {
       "src": "data/runtime/payloads/demography-coverage-exact-data.json",
@@ -275,14 +383,26 @@
       "script_bytes": 11456,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "26b3175cb6a170d7bc032bbecb146380",
+        "hash": "d20bd498cb4697f7e4a43c13937c71ff",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -297,27 +417,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "30a01bc4a86a96b5e07738e31ad47689",
+      "hash": "18267703905b6b04c8195baad01f5abd",
       "script_hash_algorithm": "md5",
-      "script_hash": "988e5583f01d89fb2558cfdaf1abea8c",
-      "bytes": 99945,
-      "script_bytes": 100103,
+      "script_hash": "653094019b6956b61c7fa99385bbbeeb",
+      "bytes": 100832,
+      "script_bytes": 100990,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d81494ccf152ac7585cbf076bc452c06",
+        "hash": "8e789ba81fd840f660b035f1ff785ecb",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "30a01bc4a86a96b5e07738e31ad47689"
+        "payload_hash": "18267703905b6b04c8195baad01f5abd"
       },
-      "generated_at": "2026-09-29T19:14:47-0300"
+      "generated_at": "2026-10-06T00:04:30-0300"
     },
     "education-matricula-report-data": {
       "src": "data/runtime/payloads/education-matricula-report-data.json",
@@ -326,27 +458,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "cd86ad50df4f664add68de34d6e6448d",
+      "hash": "45354c955618b92fe8c6b082cd30f1e9",
       "script_hash_algorithm": "md5",
-      "script_hash": "165f4e25dd26804fe18a4ea52727a896",
-      "bytes": 269258,
-      "script_bytes": 269408,
+      "script_hash": "6eaab5644b804b4c31d0cceb460dcc56",
+      "bytes": 268890,
+      "script_bytes": 269040,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a79fc8d8a232808580bcd2904df5da6d",
+        "hash": "66b54e85ff53c03ea8fe182ec62721e8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "cd86ad50df4f664add68de34d6e6448d"
+        "payload_hash": "45354c955618b92fe8c6b082cd30f1e9"
       },
-      "generated_at": "2026-10-04T11:05:42-0300"
+      "generated_at": "2026-10-06T00:04:44-0300"
     },
     "education-matricula-summary-data": {
       "src": "data/runtime/payloads/education-matricula-summary-data.json",
@@ -362,14 +506,26 @@
       "script_bytes": 72161,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "bc5fb6d546ec120e2e01143b493decfb",
+        "hash": "0839471fb43d79dd47fe536a2f9fe0bf",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -384,27 +540,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5acea08e86ebfd85fde8ecb35fef5002",
+      "hash": "0db6803d0578393d03acddbaade66b51",
       "script_hash_algorithm": "md5",
-      "script_hash": "7a268387506c8d9e1b4a16bd3051eba0",
-      "bytes": 237460,
-      "script_bytes": 237618,
+      "script_hash": "df2ae490a7116b12e06ec83d57774bc6",
+      "bytes": 243400,
+      "script_bytes": 243558,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b9ab89bfea81e072bf4cb5b8669e6509",
+        "hash": "f75396a4d23e064b4c5b01fdb03af3e0",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "5acea08e86ebfd85fde8ecb35fef5002"
+        "payload_hash": "0db6803d0578393d03acddbaade66b51"
       },
-      "generated_at": "2026-10-04T11:06:07-0300"
+      "generated_at": "2026-10-06T00:05:07-0300"
     },
     "education-comunal-report-data": {
       "src": "data/runtime/payloads/education-comunal-report-data.json",
@@ -413,27 +581,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ccc4fd03699c7b5cc9bb431abc1b91b4",
+      "hash": "7674ef3c11e1156d922e7c1f8825d601",
       "script_hash_algorithm": "md5",
-      "script_hash": "6fd8ab0bd9c1aed48479344dcbc3195e",
-      "bytes": 312769,
-      "script_bytes": 312917,
+      "script_hash": "9946be0e28da6e38e07717631037287f",
+      "bytes": 325960,
+      "script_bytes": 326108,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ca30b8b71256ce7f8979716c028b0dd2",
+        "hash": "e370638140ac8e7d08be741a924efea7",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "ccc4fd03699c7b5cc9bb431abc1b91b4"
+        "payload_hash": "7674ef3c11e1156d922e7c1f8825d601"
       },
-      "generated_at": "2026-10-04T11:06:07-0300"
+      "generated_at": "2026-10-06T00:05:07-0300"
     },
     "education-comunal-summary-data": {
       "src": "data/runtime/payloads/education-comunal-summary-data.json",
@@ -442,27 +622,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "13bf3e588cd7ac6e2f0d6784c935bfa5",
+      "hash": "34f16193e04099ff934e1e223249f1ce",
       "script_hash_algorithm": "md5",
-      "script_hash": "6b007e494edcc6d83e64fb07c504f712",
-      "bytes": 289960,
-      "script_bytes": 290109,
+      "script_hash": "1ca00b4fb2375ebedb48df0c59d1eab7",
+      "bytes": 290391,
+      "script_bytes": 290540,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "db2f4823fae1f48dbc8cf3b325c5b51b",
+        "hash": "283368c69581c2ae9fadbb3e593660db",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "13bf3e588cd7ac6e2f0d6784c935bfa5"
+        "payload_hash": "34f16193e04099ff934e1e223249f1ce"
       },
-      "generated_at": "2026-10-03T03:02:17-0300"
+      "generated_at": "2026-10-06T00:05:08-0300"
     },
     "income-values-data": {
       "src": "data/runtime/payloads/income-values-data.json",
@@ -471,27 +663,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "aff4cd4269be7a0b77afd399e002fa12",
+      "hash": "045184067c902945ac9ff6743be7e265",
       "script_hash_algorithm": "md5",
-      "script_hash": "8c350eabb9f63563d420af36f71dc292",
-      "bytes": 811501,
-      "script_bytes": 811638,
+      "script_hash": "1fa53606943e6e3b3625e85367a7f668",
+      "bytes": 811283,
+      "script_bytes": 811420,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8f0b8684648948f57d327bb58aac2094",
+        "hash": "2a25bd192ceb37c7af7c5988b87edd3d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "aff4cd4269be7a0b77afd399e002fa12"
+        "payload_hash": "045184067c902945ac9ff6743be7e265"
       },
-      "generated_at": "2026-10-03T21:30:58-0300"
+      "generated_at": "2026-10-06T00:05:14-0300"
     },
     "health-values-data": {
       "src": "data/runtime/payloads/health-values-data.json",
@@ -500,20 +704,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c1076bdd18a02e3cfdadb864d22af3c4",
+      "hash": "754cd298c19144ce5597751789c40ae6",
       "script_hash_algorithm": "md5",
-      "script_hash": "eb2984ba4a4634741e24494ffa12c367",
-      "bytes": 144510,
-      "script_bytes": 144647,
+      "script_hash": "96293bbe0536b35233f06eeb34238132",
+      "bytes": 144464,
+      "script_bytes": 144601,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "cd9e2bff6e6e39cf9d80f91b0064c137",
+        "hash": "9b65650fcefca8dba1324dec0741ff9f",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-health-values-json.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "0a9a775bf476fc85a02a59b5b58ecb54"
+            "hash": "1bf231ff32caf19c4485bb8aab279dd5"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -567,13 +771,25 @@
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cfa38f56db0b28df83c5a26181f378ec"
+            "hash": "f26ac6834041d62719152a7f4f8923be"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -582,7 +798,7 @@
         },
         "schema_version": 2
       },
-      "generated_at": "2026-10-03T21:31:55-0300"
+      "generated_at": "2026-10-06T00:05:35-0300"
     },
     "pension-values-data": {
       "src": "data/runtime/payloads/pension-values-data.json",
@@ -591,14 +807,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2e2361181b05f6a3c7b542bfabf280a3",
+      "hash": "205f952790150657407e9c43d5ba5cc9",
       "script_hash_algorithm": "md5",
-      "script_hash": "dd0f6d7ffd578d58488ce8e5eb32f703",
-      "bytes": 178371,
-      "script_bytes": 178509,
+      "script_hash": "60cb657c352c1264e7bd5bd3c89722b0",
+      "bytes": 178586,
+      "script_bytes": 178724,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "2746f5c8fdf05e44d395e0d9109d7e35",
+        "hash": "5ba935bda37c096a6f30ccf0e9e1eb42",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-pensions-values-json.R",
@@ -652,13 +868,25 @@
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cfa38f56db0b28df83c5a26181f378ec"
+            "hash": "f26ac6834041d62719152a7f4f8923be"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -667,7 +895,7 @@
         },
         "schema_version": 2
       },
-      "generated_at": "2026-10-03T21:32:04-0300"
+      "generated_at": "2026-10-06T00:57:56-0300"
     },
     "occupation-values-data": {
       "src": "data/runtime/payloads/occupation-values-data.json",
@@ -676,20 +904,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "978766ab330b01603bf791d6b55ce205",
+      "hash": "7691db677fa2749f8956a222cf4fd6b7",
       "script_hash_algorithm": "md5",
-      "script_hash": "b86c52a8c0b5e7c0667669f563063ad8",
-      "bytes": 121540,
-      "script_bytes": 121681,
+      "script_hash": "b215e18a56efc8b52bf31182a184ce52",
+      "bytes": 121878,
+      "script_bytes": 122019,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b1ee2b5f4adb9660915edd2fd8e6cc1e",
+        "hash": "20de5c55916fbe2f41731fd46cf860fd",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-occupation-values-json.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "da9f6ef3a27b9799c3b3faebf59c0cea"
+            "hash": "b661e0f92e98d6a83a6f14c24d45d732"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -719,19 +947,31 @@
             "path": "data/metadata/territorios.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "fe07ca083d00c9d330a26354b9c89209"
+            "hash": "07adcfcc8514e3ea643761f79262f46e"
           },
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cfa38f56db0b28df83c5a26181f378ec"
+            "hash": "f26ac6834041d62719152a7f4f8923be"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -740,7 +980,7 @@
         },
         "schema_version": 2
       },
-      "generated_at": "2026-10-03T21:53:21-0300"
+      "generated_at": "2026-10-06T00:58:01-0300"
     },
     "migration-values-data": {
       "src": "data/runtime/payloads/migration-values-data.json",
@@ -749,20 +989,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "fdf329c27e0212d99c3d7331a3246080",
+      "hash": "d5587ffc0450c4770e365019adcfdea2",
       "script_hash_algorithm": "md5",
-      "script_hash": "d9f6fd33d0b6089cf80ee9691deeca14",
-      "bytes": 501074,
-      "script_bytes": 501214,
+      "script_hash": "4e7def2f4c0337e563b7d0cb74fea269",
+      "bytes": 501662,
+      "script_bytes": 501802,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "bdc1c68459aad5781849f96265f856a7",
+        "hash": "dc0aa30b079f74b0bd876a0f022f747c",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_migration_laminas_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2fb493e244c3235eb557d23e89fd7e97"
+            "hash": "720b2ac0226f17a1e01e1c02df6ae38c"
           },
           {
             "path": "quarto-pidr/chunks/territorial-migration-values-json.R",
@@ -822,22 +1062,34 @@
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_migration_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "aca8094418445b0104fd226fa51dfb8b"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
           "payload_id": "migration-values-data",
-          "laminas_xlsx": "1ea9f823cef0342ec57b06e54367efbd"
+          "laminas_xlsx": "ba92a8abd0a041e247c8d1171f2dea6f"
         },
         "schema_version": 3
       },
-      "generated_at": "2026-09-30T10:32:44-0300"
+      "generated_at": "2026-10-06T00:09:23-0300"
     },
     "income-sex-age-data": {
       "src": "data/runtime/payloads/income-sex-age-data.json",
@@ -846,27 +1098,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2b5157daa66b501c92964464f7578457",
+      "hash": "85982290bf19ae307faef04cb4a37316",
       "script_hash_algorithm": "md5",
-      "script_hash": "034cc339571f62695e404d67a44d9e38",
+      "script_hash": "abd6def10750c09d366a17e316e9a50f",
       "bytes": 522720,
       "script_bytes": 522858,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "e492ecf69773eb8281741315a165b694",
+        "hash": "d710dc56ebd9d911c4c1c8958933fe6c",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2b5157daa66b501c92964464f7578457"
+        "payload_hash": "85982290bf19ae307faef04cb4a37316"
       },
-      "generated_at": "2026-10-03T03:38:02-0300"
+      "generated_at": "2026-10-05T21:44:08-0300"
     },
     "income-provincial-data": {
       "src": "data/runtime/payloads/income-provincial-data.json",
@@ -875,27 +1139,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8114b5178b10c3a1f1d25b8d4a52bd45",
+      "hash": "720f80c3d435620601b56398efd50974",
       "script_hash_algorithm": "md5",
-      "script_hash": "5b7672955df55cf2268d97a749c7cdeb",
-      "bytes": 123617,
-      "script_bytes": 123758,
+      "script_hash": "a27826f7168d7d1336879c471e9774d2",
+      "bytes": 124337,
+      "script_bytes": 124478,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "9d6c76d945d3edaa31564e766b74b41a",
+        "hash": "ad896d265f61f3af777aa70cb3660e80",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8114b5178b10c3a1f1d25b8d4a52bd45"
+        "payload_hash": "720f80c3d435620601b56398efd50974"
       },
-      "generated_at": "2026-10-04T11:46:24-0300"
+      "generated_at": "2026-10-06T00:09:30-0300"
     },
     "education-matricula-provincial-report-data": {
       "src": "data/runtime/payloads/education-matricula-provincial-report-data.json",
@@ -911,14 +1187,26 @@
       "script_bytes": 70618,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3be69aed23ffd0ca2a7b3d4d03508e9d",
+        "hash": "3044f668d5c7328589d30e3ddaeebc55",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -933,27 +1221,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "53aec8b3071c5a6a8c602e59e27140d5",
+      "hash": "373a5965bc4f05896e799ab5527258b4",
       "script_hash_algorithm": "md5",
-      "script_hash": "599ac856f4133f6d43f2f93f8989194a",
-      "bytes": 63014,
-      "script_bytes": 63170,
+      "script_hash": "1842e5b90c2a7c25c4be6c573a569e69",
+      "bytes": 63058,
+      "script_bytes": 63214,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "e4cb755e6876fc0b8bedba552e34e979",
+        "hash": "78a99e8b0e1350624d57d1b9552fdcde",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "53aec8b3071c5a6a8c602e59e27140d5"
+        "payload_hash": "373a5965bc4f05896e799ab5527258b4"
       },
-      "generated_at": "2026-10-04T11:05:23-0300"
+      "generated_at": "2026-10-06T00:04:28-0300"
     },
     "occupation-sex-age-data": {
       "src": "data/runtime/payloads/occupation-sex-age-data.json",
@@ -969,14 +1269,26 @@
       "script_bytes": 92588,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1b39d809912c008b178cd0459e0acdaf",
+        "hash": "42aeaa3d1bedd453357970638afda767",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -991,27 +1303,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ce2c91287fa11ce39fb3f19cfad499b2",
+      "hash": "fdefee5bebb87bf6405b746062045c32",
       "script_hash_algorithm": "md5",
-      "script_hash": "55d925b50675c13700c3c3a2171a44cf",
-      "bytes": 64032,
-      "script_bytes": 64177,
+      "script_hash": "6c2c17e0d5d434b5355b1a948facbf7f",
+      "bytes": 64957,
+      "script_bytes": 65102,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8dd1b97e422ee60109b10dbaf7dd90d8",
+        "hash": "49ae45a710e695e22d203dfd8207d62c",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "ce2c91287fa11ce39fb3f19cfad499b2"
+        "payload_hash": "fdefee5bebb87bf6405b746062045c32"
       },
-      "generated_at": "2026-10-04T11:23:57-0300"
+      "generated_at": "2026-10-06T00:04:54-0300"
     },
     "demography-dependency-sexo-data": {
       "src": "data/runtime/payloads/demography-dependency-sexo-data.json",
@@ -1027,14 +1351,26 @@
       "script_bytes": 187075,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "26b2a1622cc77bdf1c6168674997485e",
+        "hash": "471c26d3a19dd324b6ec345826a330a8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -1049,27 +1385,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8a13834e6f3266ade2ee5a2c5ba99d30",
+      "hash": "21f2ed58a7ec042ded06d1c15d10799b",
       "script_hash_algorithm": "md5",
-      "script_hash": "9e5208ec08d167f22e46afb6855dbf16",
-      "bytes": 62821,
-      "script_bytes": 62972,
+      "script_hash": "56e1c663f17f523e60c1bfbc05cea6b5",
+      "bytes": 62862,
+      "script_bytes": 63013,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "57e78b3ce0ba0999d4ffffa40a894538",
+        "hash": "a70c379b1945ba23bdc5b2d98fdb44c1",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8a13834e6f3266ade2ee5a2c5ba99d30"
+        "payload_hash": "21f2ed58a7ec042ded06d1c15d10799b"
       },
-      "generated_at": "2026-09-08T15:29:29-0300"
+      "generated_at": "2026-10-06T00:04:28-0300"
     },
     "demography-otras-relaciones-provincial-data": {
       "src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.json",
@@ -1078,27 +1426,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9cc66de69a4a143c4cdc4d7776f35be0",
+      "hash": "ea87b9cc2551affaf31c229ba526e4e7",
       "script_hash_algorithm": "md5",
-      "script_hash": "456484230c3ca47daca943f4b9bc69b8",
-      "bytes": 49511,
-      "script_bytes": 49673,
+      "script_hash": "ba7dbe5ddde205838e735f1e84f97a9e",
+      "bytes": 49229,
+      "script_bytes": 49391,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d29dcf20f34cb9dd34bfc0707b1b1de6",
+        "hash": "14dd165537e65ac992c2a81c708fb39c",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "9cc66de69a4a143c4cdc4d7776f35be0"
+        "payload_hash": "ea87b9cc2551affaf31c229ba526e4e7"
       },
-      "generated_at": "2026-10-03T21:29:17-0300"
+      "generated_at": "2026-10-06T00:22:56-0300"
     },
     "demography-corrupt-cases": {
       "src": "data/runtime/payloads/demography-corrupt-cases.json",
@@ -1114,14 +1474,26 @@
       "script_bytes": 145,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0cd8eef7edf0decec0f3a451030f0623",
+        "hash": "5b1386bb28ee443a99147f60ab176984",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
@@ -1136,27 +1508,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c44d25c9a882dd41bcc04c02162b81f6",
+      "hash": "f5351567337fbdaa7c8eec5625306bea",
       "script_hash_algorithm": "md5",
-      "script_hash": "aa762a9d5bdfc56bbd92c2752ed95621",
-      "bytes": 342886,
-      "script_bytes": 343031,
+      "script_hash": "0f14a029764525144d27016bae2058a1",
+      "bytes": 342075,
+      "script_bytes": 342220,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "923c924f2fb39d4927edc823f421708d",
+        "hash": "cb9bddcc0456a0adadc6c122c43cc2c5",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "c44d25c9a882dd41bcc04c02162b81f6"
+        "payload_hash": "f5351567337fbdaa7c8eec5625306bea"
       },
-      "generated_at": "2026-08-21T09:15:05-0400"
+      "generated_at": "2026-10-06T00:09:23-0300"
     },
     "nacional-valores-data": {
       "src": "data/runtime/payloads/nacional-valores-data.json",
@@ -1172,7 +1556,7 @@
       "script_bytes": 162548,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4471e2b53ac6a80c3c481edd5fdc8e3e",
+        "hash": "dc40599ecb510c77183fdc7c87998f29",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-nacional-valores-json.R",
@@ -1406,13 +1790,25 @@
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cfa38f56db0b28df83c5a26181f378ec"
+            "hash": "f26ac6834041d62719152a7f4f8923be"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -1430,14 +1826,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b2f5de969ea5da3a88a8c43a513b7de0",
+      "hash": "01de88ab217e4ec962d703578631a8b0",
       "script_hash_algorithm": "md5",
-      "script_hash": "fa2d48df6444ece638231c2afe9256ad",
+      "script_hash": "4a6b1865a0224497ee0074c73e7ebfd4",
       "bytes": 118124,
       "script_bytes": 118266,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "732e77fb7b37bc98dfeb1b5cb879a2c4",
+        "hash": "07d9030adfbff7103c7930754cc16d14",
         "files": [
           {
             "path": "quarto-pidr/chunks/territorial-historia-sexo-edad-json.R",
@@ -1608,12 +2004,6 @@
             "hash": "b13ee637b8520a6bb1206d7892ddb12e"
           },
           {
-            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
-            "exists": true,
-            "hash_algorithm": "md5",
-            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
-          },
-          {
             "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
             "exists": true,
             "hash_algorithm": "md5",
@@ -1629,13 +2019,25 @@
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "quarto-pidr/scripts/build_sector_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cfa38f56db0b28df83c5a26181f378ec"
+            "hash": "f26ac6834041d62719152a7f4f8923be"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -1644,7 +2046,7 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-10-03T21:32:06-0300"
+      "generated_at": "2026-10-06T00:05:47-0300"
     },
     "health-sex-age-data": {
       "src": "data/runtime/payloads/health-sex-age-data.json",
@@ -1653,27 +2055,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b6870dc872d42855435a1644e7db9adb",
+      "hash": "5ffc6e9ee76fad42cb7416b7c6120146",
       "script_hash_algorithm": "md5",
-      "script_hash": "3f6db17af663ff644e4cfafe5f2decb8",
-      "bytes": 104362,
-      "script_bytes": 104500,
+      "script_hash": "92eb9d815a3c974e31f67603c592f8cf",
+      "bytes": 104449,
+      "script_bytes": 104587,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6ff722508946bbf5059656041fdbe91b",
+        "hash": "c25cc23743010833e5a4f9e2e2b359e0",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "b6870dc872d42855435a1644e7db9adb"
+        "payload_hash": "5ffc6e9ee76fad42cb7416b7c6120146"
       },
-      "generated_at": "2026-10-03T03:14:36-0300"
+      "generated_at": "2026-10-06T00:05:35-0300"
     },
     "pension-sex-age-data": {
       "src": "data/runtime/payloads/pension-sex-age-data.json",
@@ -1682,27 +2096,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2d351ad8f33b85fb000cd88065651588",
+      "hash": "e3b6fb7c1ba6f32b53d88462675850f5",
       "script_hash_algorithm": "md5",
-      "script_hash": "411d7161e7093ec4f2f46109ad44988d",
-      "bytes": 127844,
-      "script_bytes": 127983,
+      "script_hash": "dbd986c6142b8d0592c19d3626424015",
+      "bytes": 127984,
+      "script_bytes": 128123,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d4f43ceb450fb7da7b5650184629c4f5",
+        "hash": "56d72715654e8c89649155ef6381abbc",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2d351ad8f33b85fb000cd88065651588"
+        "payload_hash": "e3b6fb7c1ba6f32b53d88462675850f5"
       },
-      "generated_at": "2026-10-03T03:15:50-0300"
+      "generated_at": "2026-10-06T00:05:50-0300"
     },
     "lab-geo-data": {
       "src": "data/runtime/payloads/lab-geo-data.json",
@@ -1711,26 +2137,38 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2c1d23c47a9348eaa66a76331af68dd6",
+      "hash": "4837b6fedba888c76d5f6267ef495145",
       "script_hash_algorithm": "md5",
-      "script_hash": "1769977f6b2cc3c25e531724a8fadc18",
-      "bytes": 5093850,
-      "script_bytes": 5093981,
+      "script_hash": "5c579f5b365ad47a366728d490982618",
+      "bytes": 5093854,
+      "script_bytes": 5093985,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ea74a81eecc0f956b6bb0054da1dbd74",
+        "hash": "8f74fb820886968487fca729620e062a",
         "files": [
           {
             "path": "data/maps_oficial/lab_geo_simplificado.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "fcc8a4a1deecbcf43f0fa72a3127b225"
+            "hash": "4837b6fedba888c76d5f6267ef495145"
           },
           {
             "path": "proc/0_generate_data/build_lab_geo_payload.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "120d5fc45a0ecacd5839a7373b455c4f"
+            "hash": "9a41c32d0fd4d03e4227113a1ddb3f99"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -1739,7 +2177,7 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-09-08T21:05:03-0300"
+      "generated_at": "2026-10-04T20:44:30-0300"
     },
     "lab-base-data": {
       "src": "data/runtime/payloads/lab-base-data.json",
@@ -1755,7 +2193,7 @@
       "script_bytes": 276960,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4567cc86d56e589026ef3953198572e1",
+        "hash": "ed4dc8fff587aa0c8e39c7e6a5b095e5",
         "files": [
           {
             "path": "data/basemap/lab_base_simplificado.json",
@@ -1768,6 +2206,18 @@
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "8a5f037b0f6fa75ab523294225caa345"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -1785,14 +2235,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "2f45667412db7bc6ae39d18115aada14",
+      "hash": "122d3084552947b7c4067856de0783b3",
       "script_hash_algorithm": "md5",
-      "script_hash": "fa5f462c31e5cbd2c81304d35f5d3c8b",
-      "bytes": 219212,
-      "script_bytes": 219349,
+      "script_hash": "3ad4068d86351ac3f29346e28fc6b024",
+      "bytes": 219233,
+      "script_bytes": 219370,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "92da14bdcebf315737cedcf4067bcd5c",
+        "hash": "c9dc1c704bea39f2475e46c771c2ad5a",
         "files": [
           {
             "path": "data/canonical/v1/obs/nivel=comuna/dim=demograficos/per=anual/d_residentes_a.parquet",
@@ -1805,6 +2255,18 @@
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "797f76f4d555d255101cdd82af573f55"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
@@ -1813,7 +2275,7 @@
         },
         "schema_version": 1
       },
-      "generated_at": "2026-09-17T05:10:28-0300"
+      "generated_at": "2026-10-04T20:44:29-0300"
     },
     "correlations-report-data": {
       "src": "data/runtime/payloads/correlations-report-data.json",
@@ -1822,27 +2284,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "306a7e054d8909cd14546141628734e3",
+      "hash": "f5a5a7acaebdf1f58e18fba6f264dd00",
       "script_hash_algorithm": "md5",
-      "script_hash": "cc39a66c4e8d2afda69fd6093d63189c",
+      "script_hash": "2c9aafa4034b405262f5d8c27774eaf1",
       "bytes": 4746934,
       "script_bytes": 4747077,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1efb9d2553a87185fa73b4371cb32fcb",
+        "hash": "b1f8b302b942684f69d754c060f92ae0",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "306a7e054d8909cd14546141628734e3"
+        "payload_hash": "f5a5a7acaebdf1f58e18fba6f264dd00"
       },
-      "generated_at": "2026-10-01T23:35:34-0300"
+      "generated_at": "2026-10-05T21:40:49-0300"
     },
     "lab-panel-pais": {
       "src": "data/runtime/payloads/lab-panel-pais.json",
@@ -1851,33 +2325,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "cb49d4e28afbb82bb8aaf31aa1534b68",
+      "hash": "7600bc6eed6daa9c65ec75c237c56743",
       "script_hash_algorithm": "md5",
-      "script_hash": "6264ca74de79f43a757e79b828c5ddb2",
+      "script_hash": "5f5a87c7e2d0fd58ee896849abf72efd",
       "bytes": 8558,
       "script_bytes": 8691,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "e7da362ff45c55de915a433a8db90500",
+        "hash": "3db27cf38ac4c4de820950f017f9ebde",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/panel/panel_pais.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a73e8868f6760d4a915b35720653c86b"
+            "hash": "012908db830a60d0d12f576ddbdc57b5"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "a73e8868f6760d4a915b35720653c86b"
+        "payload_hash": "012908db830a60d0d12f576ddbdc57b5"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:40-0300"
     },
     "lab-panel-region": {
       "src": "data/runtime/payloads/lab-panel-region.json",
@@ -1886,33 +2372,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "a842e75605be9e1447c3a51e4fdcc135",
+      "hash": "a591569a64666b4925b17a07f893581d",
       "script_hash_algorithm": "md5",
-      "script_hash": "a9a67f081bb6e9c22295d189bfc3461d",
+      "script_hash": "41bdbf22309b4a224a30a504af55283c",
       "bytes": 51266,
       "script_bytes": 51401,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a1fa9f55103eb0630a6408570070e1c4",
+        "hash": "7eeda4eb305caec7143e8c1f1b1eb2db",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/panel/panel_region.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "28707db8386f6bf8443baf3fffc5690d"
+            "hash": "adb369fe66546b54ade9d69d4158c25a"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "28707db8386f6bf8443baf3fffc5690d"
+        "payload_hash": "adb369fe66546b54ade9d69d4158c25a"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:40-0300"
     },
     "lab-panel-comuna": {
       "src": "data/runtime/payloads/lab-panel-comuna.json",
@@ -1921,33 +2419,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "98fefc3caaa2b365f2ab14d4634e2ee1",
+      "hash": "1a9b186d50efed480ebbe531bc043413",
       "script_hash_algorithm": "md5",
-      "script_hash": "35042a262df9436d4ab74f5b978b4b65",
-      "bytes": 944545,
-      "script_bytes": 944680,
+      "script_hash": "e23218a5cf163416318a85c9b0ddb6eb",
+      "bytes": 944548,
+      "script_bytes": 944683,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "2caf4f22a06007232414be93dd59bd45",
+        "hash": "adcf7146f9dee1343b16c907872195fe",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/panel/panel_comuna.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8d971aa77661dfa9fe628a5ff2037f88"
+            "hash": "b9a921bf0603f5317ec8b7f19e575f15"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8d971aa77661dfa9fe628a5ff2037f88"
+        "payload_hash": "b9a921bf0603f5317ec8b7f19e575f15"
       },
-      "generated_at": "2026-09-29T11:29:03-0300"
+      "generated_at": "2026-10-04T20:41:40-0300"
     },
     "lab-panel-sexo-region": {
       "src": "data/runtime/payloads/lab-panel-sexo-region.json",
@@ -1956,33 +2466,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c1b3414d1fa55d78b4effc6976128bec",
+      "hash": "85e7169dee23478211be6f955d7952eb",
       "script_hash_algorithm": "md5",
-      "script_hash": "47e4817b5ac4f5fca1ea19e02d8ba148",
+      "script_hash": "a9856701fb036f6fd61281bb2ae0a311",
       "bytes": 100826,
       "script_bytes": 100966,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b983e1a8cb10dcad8ad6db12e5ea9367",
+        "hash": "062bfbc3025101b37ace3583989c320f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/panel/panel_sexo_region.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2f36b013cb407e6196cc7f3a85ca770a"
+            "hash": "735cdeb0f993b90d81b49ad5c4895f32"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2f36b013cb407e6196cc7f3a85ca770a"
+        "payload_hash": "735cdeb0f993b90d81b49ad5c4895f32"
       },
-      "generated_at": "2026-09-29T11:29:03-0300"
+      "generated_at": "2026-10-04T20:41:40-0300"
     },
     "lab-panel-sexo-comuna": {
       "src": "data/runtime/payloads/lab-panel-sexo-comuna.json",
@@ -1991,33 +2513,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4bad37730cf930bd562074a842e5ab39",
+      "hash": "c756b95f21b3ee38f42f8e05c1837d68",
       "script_hash_algorithm": "md5",
-      "script_hash": "e2487c18a3d244bf06083f55baad6f8e",
-      "bytes": 1867436,
-      "script_bytes": 1867576,
+      "script_hash": "4133d7d7220f3c101ff9feb57c44b503",
+      "bytes": 1867439,
+      "script_bytes": 1867579,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "1c66fe6ddae8132bffceb3666d5217e0",
+        "hash": "14533ee71f64204674d5ae08596e6bcd",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/panel/panel_sexo_comuna.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "0ea3cf453a3f2dba39d309ca5804e8e0"
+            "hash": "aae6b649315d012a76148e76f828e54f"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0ea3cf453a3f2dba39d309ca5804e8e0"
+        "payload_hash": "aae6b649315d012a76148e76f828e54f"
       },
-      "generated_at": "2026-09-29T11:29:03-0300"
+      "generated_at": "2026-10-04T20:41:41-0300"
     },
     "tabla-pais": {
       "src": "data/runtime/payloads/tabla-pais.json",
@@ -2026,33 +2560,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "17f4921ba66bc10f20eb71bf7a068083",
+      "hash": "39e0247ae2fc9eed9c542387ef6b0b68",
       "script_hash_algorithm": "md5",
-      "script_hash": "9be6127225736d678aba4cf3fb992fd5",
+      "script_hash": "b3c5bff40421528cb9c4cf080b9bec16",
       "bytes": 30859,
       "script_bytes": 30988,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "85d8d94271bdfde67edbdecbc2e4cdb3",
+        "hash": "ccde0a79c8479d7becafa651885377cb",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "c06a3102beb1e64f91dd770ba0cc56d6"
+            "hash": "97d8382ec11d01abefba7abb6c15d4a3"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "c06a3102beb1e64f91dd770ba0cc56d6"
+        "payload_hash": "97d8382ec11d01abefba7abb6c15d4a3"
       },
-      "generated_at": "2026-09-29T11:28:54-0300"
+      "generated_at": "2026-10-04T20:41:32-0300"
     },
     "tabla-region": {
       "src": "data/runtime/payloads/tabla-region.json",
@@ -2061,33 +2607,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "cc32340a52a23e3903710ff89adcdd1b",
+      "hash": "f2894c70f74875db66f08a86dc007bfa",
       "script_hash_algorithm": "md5",
-      "script_hash": "8a4798ff49341731175a56c7fc7532e6",
+      "script_hash": "59fd2d9296be0ce31c437d4cfc5a1a9a",
       "bytes": 234105,
       "script_bytes": 234236,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b4155a2ea1c11d5f7df5c62d40070d63",
+        "hash": "4d8c91e10b200e207325afc1723316d4",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "fa47433a40cc0d4c4e4153cbf3f28e74"
+            "hash": "acdf8a8d639d4346ec87aed1e77c33d9"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "fa47433a40cc0d4c4e4153cbf3f28e74"
+        "payload_hash": "acdf8a8d639d4346ec87aed1e77c33d9"
       },
-      "generated_at": "2026-09-29T11:28:54-0300"
+      "generated_at": "2026-10-04T20:41:32-0300"
     },
     "tabla-provincia": {
       "src": "data/runtime/payloads/tabla-provincia.json",
@@ -2096,33 +2654,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "9c6fbc8e70aad543c06fdcbfea3e548c",
+      "hash": "5e0ad9d005990a2492646c46b49a3ebb",
       "script_hash_algorithm": "md5",
-      "script_hash": "43d6bab21799303ecfc2bac9a2a93487",
+      "script_hash": "0a5c0b0d79da85d5540ad6db0d4a2c6d",
       "bytes": 293740,
       "script_bytes": 293874,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ffd995e8935f105131716ff6c55d8bd5",
+        "hash": "97d798381c8c955f75a2176f7ffc46c0",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "b3f326b1072ced5bac193a212733ca94"
+            "hash": "63cdf7da592ef43a49f0cde0577a475e"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "b3f326b1072ced5bac193a212733ca94"
+        "payload_hash": "63cdf7da592ef43a49f0cde0577a475e"
       },
-      "generated_at": "2026-09-29T11:28:54-0300"
+      "generated_at": "2026-10-04T20:41:32-0300"
     },
     "tabla-comuna": {
       "src": "data/runtime/payloads/tabla-comuna.json",
@@ -2131,33 +2701,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4945906fc7ccc2c13c93a0562e416387",
+      "hash": "ae883ad59bacf93cfd1c1529986c3841",
       "script_hash_algorithm": "md5",
-      "script_hash": "de621ec8b5d6b439b2720a5c4b128eb1",
-      "bytes": 1097417,
-      "script_bytes": 1097548,
+      "script_hash": "6f1b3938046872d19552e64475bcd0d3",
+      "bytes": 1097420,
+      "script_bytes": 1097551,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "184870eda984facc8fd43edc80319262",
+        "hash": "a48bcfe8d549de424720998934939eac",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "1f1ac24652d9ede8ad10c56fe987d7b1"
+            "hash": "9c8e3efe27ceec11d4f709823f329143"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1f1ac24652d9ede8ad10c56fe987d7b1"
+        "payload_hash": "9c8e3efe27ceec11d4f709823f329143"
       },
-      "generated_at": "2026-09-29T11:28:55-0300"
+      "generated_at": "2026-10-04T20:41:33-0300"
     },
     "tabla-pais-sexo": {
       "src": "data/runtime/payloads/tabla-pais-sexo.json",
@@ -2166,33 +2748,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "04ab06c185c0b73d738d6e46aea6462d",
+      "hash": "09c22291632952f5026b57d6eeefd7fb",
       "script_hash_algorithm": "md5",
-      "script_hash": "569b259687dd36ad7666daa0e08ba0f9",
+      "script_hash": "ad3befa3ae9c32c886777a8ce5ea7b57",
       "bytes": 64795,
       "script_bytes": 64929,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f31e48eb78ef5fa6f1813ffe2d7b3240",
+        "hash": "9dccb568ceb29bc56ad2a88949b44459",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_sexo.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "39b55650421b7790c8623bc0e2840bc4"
+            "hash": "fd0b151c6407a7a4601ef4adda3d59a6"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "39b55650421b7790c8623bc0e2840bc4"
+        "payload_hash": "fd0b151c6407a7a4601ef4adda3d59a6"
       },
-      "generated_at": "2026-09-29T11:28:55-0300"
+      "generated_at": "2026-10-04T20:41:33-0300"
     },
     "tabla-region-sexo": {
       "src": "data/runtime/payloads/tabla-region-sexo.json",
@@ -2201,33 +2795,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ade1c4ae7f5fd727f115e2cced70efc5",
+      "hash": "4c4f28c0fff6bbfad9686887ef611635",
       "script_hash_algorithm": "md5",
-      "script_hash": "30aa3b5a5dad2e3651432008ce021d92",
+      "script_hash": "c92d487cd55c3b92fe451eff46f125e8",
       "bytes": 470709,
       "script_bytes": 470845,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "31fd0608d73bfa8e5aa0f32b67de9290",
+        "hash": "0d0ab25201354bb0f0528e0f7f5ecef4",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_sexo.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "1e9bb5b41e434bc085cb7367599aaf01"
+            "hash": "859770a498423dbea375cd4d2214368c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1e9bb5b41e434bc085cb7367599aaf01"
+        "payload_hash": "859770a498423dbea375cd4d2214368c"
       },
-      "generated_at": "2026-09-29T11:28:55-0300"
+      "generated_at": "2026-10-04T20:41:33-0300"
     },
     "tabla-provincia-sexo": {
       "src": "data/runtime/payloads/tabla-provincia-sexo.json",
@@ -2236,33 +2842,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "d9394a033e125d42b4cd66e47f91d3e8",
+      "hash": "89d7fdeb2696b2d67d40b1095ddf201b",
       "script_hash_algorithm": "md5",
-      "script_hash": "30377cec9c1850a2ea7b0df82caf359e",
+      "script_hash": "c919f814aa9e0f6ae1d46f5387209b38",
       "bytes": 581789,
       "script_bytes": 581928,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "219add72f694486e68ced166bd87c339",
+        "hash": "7c79b86a01e1c1a583b428e01c8909fc",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_sexo.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "45b46951951dc3d24ede440c8abb7b36"
+            "hash": "50c782bff4e8a955cc22dd52fd441cc1"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "45b46951951dc3d24ede440c8abb7b36"
+        "payload_hash": "50c782bff4e8a955cc22dd52fd441cc1"
       },
-      "generated_at": "2026-09-29T11:28:56-0300"
+      "generated_at": "2026-10-04T20:41:33-0300"
     },
     "tabla-comuna-sexo": {
       "src": "data/runtime/payloads/tabla-comuna-sexo.json",
@@ -2271,33 +2889,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "bbcfe4a105f48266635ae93e3dd35922",
+      "hash": "68dc5116f0f464a7e5141460c11b2f6e",
       "script_hash_algorithm": "md5",
-      "script_hash": "c67af1452412a72b169b0b9aeece3e8d",
-      "bytes": 2169587,
-      "script_bytes": 2169723,
+      "script_hash": "2c7cc289f3e3498a214698e3801a39a6",
+      "bytes": 2169590,
+      "script_bytes": 2169726,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "8a3eca51dac668e8c8f18fd8d9f5b647",
+        "hash": "e0ef3d1bb07067b0c7ab4f554072e6f1",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_sexo.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "e76c59947f176fd4637578af68f21f5a"
+            "hash": "3c8ac5ab17bd979617a8d800c303cc43"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "e76c59947f176fd4637578af68f21f5a"
+        "payload_hash": "3c8ac5ab17bd979617a8d800c303cc43"
       },
-      "generated_at": "2026-09-29T11:28:56-0300"
+      "generated_at": "2026-10-04T20:41:34-0300"
     },
     "tabla-edad-esquemas": {
       "src": "data/runtime/payloads/tabla-edad-esquemas.json",
@@ -2306,33 +2936,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "7e0de878abf9e058582f300cde2c7048",
+      "hash": "0d60aa49e32a828af7c5655e5361bfdc",
       "script_hash_algorithm": "md5",
-      "script_hash": "85259d0ba31e89f876629ada1cdff800",
+      "script_hash": "ef39ad422a2dbdee0a8514362ace5e8d",
       "bytes": 6414,
       "script_bytes": 6552,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "768f3f5f95dd61ac02e31abc337f8287",
+        "hash": "4c8e986eb838787ab5c9aec0f9e7df69",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_edad_esquemas.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "728039b99cf6356d13ddf7c0b077b2eb"
+            "hash": "f9759b201294ca3601fadcc70eb49a7f"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "728039b99cf6356d13ddf7c0b077b2eb"
+        "payload_hash": "f9759b201294ca3601fadcc70eb49a7f"
       },
-      "generated_at": "2026-09-29T11:28:56-0300"
+      "generated_at": "2026-10-04T20:41:34-0300"
     },
     "tabla-comuna-tedad-7": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-7.json",
@@ -2341,33 +2983,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1298a8bb5c10a4f36060ab9fd9f75360",
+      "hash": "eb3bf191bc54b1b99b9503098fb3aca3",
       "script_hash_algorithm": "md5",
-      "script_hash": "1a81aa8adebb1c3991bfdd9445311e96",
-      "bytes": 943883,
-      "script_bytes": 944022,
+      "script_hash": "cdafca1e53966a0548e1bc1099b4524c",
+      "bytes": 943886,
+      "script_bytes": 944025,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d0121cee6ca83050a9fd7e968d2914a7",
+        "hash": "01125996e9e0b87d4c018411c1702d4b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_7.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "f8ae68d921fdab5bc0da281c5145368e"
+            "hash": "b7c6ac59af7863703ce2bb90b929b90c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f8ae68d921fdab5bc0da281c5145368e"
+        "payload_hash": "b7c6ac59af7863703ce2bb90b929b90c"
       },
-      "generated_at": "2026-09-29T11:28:57-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-educ": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-educ.json",
@@ -2376,33 +3030,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "47dced09c178f68d075cac0eeba63b0e",
+      "hash": "1173281ccbf852b51817283319f9f802",
       "script_hash_algorithm": "md5",
-      "script_hash": "88c40729d1ed336f1ca6b040453fe739",
-      "bytes": 199073,
-      "script_bytes": 199215,
+      "script_hash": "499b7d642f084bd12b3fd251d134022a",
+      "bytes": 199076,
+      "script_bytes": 199218,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "7ed96d777dade62f7f3e6ad3dc57e683",
+        "hash": "25d8858812ae09626ff24af7ab5c3619",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_educ.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "18182ee5eba5d86e0cab45e327d982b5"
+            "hash": "e3ff90bdaaad8869f9bfe644e33400ff"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "18182ee5eba5d86e0cab45e327d982b5"
+        "payload_hash": "e3ff90bdaaad8869f9bfe644e33400ff"
       },
-      "generated_at": "2026-09-29T11:28:57-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-educ-ano": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-educ-ano.json",
@@ -2411,33 +3077,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b87703113fa65e6af995cf2fd17286ae",
+      "hash": "13ab6e7f715b522df6e9675d1ade46ba",
       "script_hash_algorithm": "md5",
-      "script_hash": "456bc9158a8ac58e920cd792e2226df8",
-      "bytes": 157267,
-      "script_bytes": 157413,
+      "script_hash": "6d145fcd04b980fcf97cf5de29cdebc3",
+      "bytes": 157270,
+      "script_bytes": 157416,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b7d5d892983ffb9a42fe46821facbba3",
+        "hash": "9c6ad76bd4b302423320bc56428f47d1",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_educ_ano.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "e05b2b00e85bc25c6d6f34e88fab6026"
+            "hash": "ab0cd0ae15e9a9df9b3c1113b76cadfd"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "e05b2b00e85bc25c6d6f34e88fab6026"
+        "payload_hash": "ab0cd0ae15e9a9df9b3c1113b76cadfd"
       },
-      "generated_at": "2026-09-29T11:28:57-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-educ-rez": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-educ-rez.json",
@@ -2446,33 +3124,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f050b97dd6eb18e95e583c6e33e8e168",
+      "hash": "d7c834ce774e68e679e9d80e9a9c7733",
       "script_hash_algorithm": "md5",
-      "script_hash": "0e45908935689ad4c2d33b7e1ccc2897",
-      "bytes": 97392,
-      "script_bytes": 97538,
+      "script_hash": "02ac02d86edecc741a6dcc30c6bdae28",
+      "bytes": 97395,
+      "script_bytes": 97541,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0bcd67736a34c25c79f7fa372ed4825c",
+        "hash": "9a8be7a4d9e1cf5faac6a90f464f914f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_educ_rez.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "37114bea0bfea56f3ef2777296fe1f77"
+            "hash": "95b9d3ecf21a8309700d72640d23332d"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "37114bea0bfea56f3ef2777296fe1f77"
+        "payload_hash": "95b9d3ecf21a8309700d72640d23332d"
       },
-      "generated_at": "2026-09-29T11:28:57-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-educ-rezmat": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-educ-rezmat.json",
@@ -2481,33 +3171,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "67a5a5a32692247921af10e1b91e804b",
+      "hash": "e1e40525f8f05535f244a28bd2769147",
       "script_hash_algorithm": "md5",
-      "script_hash": "19826696b863c40a4b872c2b8119bd7e",
-      "bytes": 140847,
-      "script_bytes": 140996,
+      "script_hash": "7dffb4b37008bb31e4dd7fda21119456",
+      "bytes": 140850,
+      "script_bytes": 140999,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6a6ccd5fcfe7db26d56fd9d324c54123",
+        "hash": "8a90e7682b3946af153ec0be936d20f8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_educ_rezmat.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "73a7f686bcd28440fd292043833b6f86"
+            "hash": "3e7ed246c108409110e4059b12d2bcb6"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "73a7f686bcd28440fd292043833b6f86"
+        "payload_hash": "3e7ed246c108409110e4059b12d2bcb6"
       },
-      "generated_at": "2026-09-29T11:28:57-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-migr": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-migr.json",
@@ -2516,33 +3218,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5aa826f650609516e72668b1ee799e3e",
+      "hash": "5638f7374b7f0f30e33557f73e10f2f4",
       "script_hash_algorithm": "md5",
-      "script_hash": "d0eed2ccd25757e3d8aa3d2f5d8bea4c",
-      "bytes": 674903,
-      "script_bytes": 675045,
+      "script_hash": "6d07ed06436f003a352dc2f4a7034006",
+      "bytes": 674906,
+      "script_bytes": 675048,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f0365cbc12c19816101e903323a38f62",
+        "hash": "145d83333706c84141bf63b6d291455a",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_migr.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "63521f9a9c0aefc872d8fc11df6b8048"
+            "hash": "824e1ea293e5697e7d11ede2c5953f0e"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "63521f9a9c0aefc872d8fc11df6b8048"
+        "payload_hash": "824e1ea293e5697e7d11ede2c5953f0e"
       },
-      "generated_at": "2026-09-29T11:28:58-0300"
+      "generated_at": "2026-10-04T20:41:35-0300"
     },
     "tabla-comuna-tedad-ocup": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-ocup.json",
@@ -2551,33 +3265,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4ae76a708daed7008143f678415b6114",
+      "hash": "23b390b73929cef4d25f8fe5453d28f2",
       "script_hash_algorithm": "md5",
-      "script_hash": "8cba1b2e091ba0d0ab39000004c2ab3b",
-      "bytes": 778533,
-      "script_bytes": 778675,
+      "script_hash": "e87eb393205e4c80756e437d0394965f",
+      "bytes": 778536,
+      "script_bytes": 778678,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3486d6a07853263d3f0d618b99570b04",
+        "hash": "916b496b065bfd97ee32c4e45c7de988",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_ocup.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "bfaae533859938e11d42e2d891b48006"
+            "hash": "6f96a50f6279670f030ce57b8a7a9c63"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "bfaae533859938e11d42e2d891b48006"
+        "payload_hash": "6f96a50f6279670f030ce57b8a7a9c63"
       },
-      "generated_at": "2026-09-29T11:28:58-0300"
+      "generated_at": "2026-10-04T20:41:36-0300"
     },
     "tabla-comuna-tedad-pens": {
       "src": "data/runtime/payloads/tabla-comuna-tedad-pens.json",
@@ -2586,33 +3312,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1826d9dc8c4a4ae933ec433d8273c3ce",
+      "hash": "ef94e59881d186cd9aad0917ade0c5bb",
       "script_hash_algorithm": "md5",
-      "script_hash": "0a90d409d9d8fc838b30fe54d896cf11",
-      "bytes": 265452,
-      "script_bytes": 265594,
+      "script_hash": "b6e99c9135cf9a88330186869bb95dfe",
+      "bytes": 265455,
+      "script_bytes": 265597,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "6db3778bff9951dc660a8c6b2ebcd3cb",
+        "hash": "a75d1d88427f0a289187fb389d0760e7",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_comuna_tedad_pens.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "88c5ef2d8c3e49ddbdce28202913113b"
+            "hash": "ab006bc48c2da338b9cdfb923d4502ed"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "88c5ef2d8c3e49ddbdce28202913113b"
+        "payload_hash": "ab006bc48c2da338b9cdfb923d4502ed"
       },
-      "generated_at": "2026-09-29T11:28:58-0300"
+      "generated_at": "2026-10-04T20:41:36-0300"
     },
     "tabla-pais-tedad-7": {
       "src": "data/runtime/payloads/tabla-pais-tedad-7.json",
@@ -2621,33 +3359,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0c15d4790d25b0cccc9d5adef55fa6b3",
+      "hash": "7541a0469c0dab15cef4a772fde6375f",
       "script_hash_algorithm": "md5",
-      "script_hash": "2b0b8cb078aef7ad0a72af683958c41d",
+      "script_hash": "a11cd23091bea5b00b5a0d1b7e94bbb5",
       "bytes": 101574,
       "script_bytes": 101711,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f5e0a56ff2324b23fdf588120a96634a",
+        "hash": "cd61644511319c99f8468c52f550655f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_7.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d944f086bee7d88e9bdcb8345ae7f159"
+            "hash": "e1885c2e8305e9bfcb7ae9668188c62d"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "d944f086bee7d88e9bdcb8345ae7f159"
+        "payload_hash": "e1885c2e8305e9bfcb7ae9668188c62d"
       },
-      "generated_at": "2026-09-29T11:28:58-0300"
+      "generated_at": "2026-10-04T20:41:36-0300"
     },
     "tabla-pais-tedad-educ": {
       "src": "data/runtime/payloads/tabla-pais-tedad-educ.json",
@@ -2656,33 +3406,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0ff29f39e2de9ac85cae9c8a26160ff6",
+      "hash": "480974aca1add31a2ae9d036fa3ebec0",
       "script_hash_algorithm": "md5",
-      "script_hash": "7c31b8f6013ecae0a0d689f6d1c8ba33",
+      "script_hash": "51a768292df671a4ba2e654f35d55e31",
       "bytes": 2282,
       "script_bytes": 2422,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "3c90b28ad3f1108c9d995a5899c0f14e",
+        "hash": "e55fe7b0e0a1fd8a570b01f78e054921",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_educ.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "0a3715901e82cae206756240d3f9cd40"
+            "hash": "155c3592bd73b649125463b2543f2bcd"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0a3715901e82cae206756240d3f9cd40"
+        "payload_hash": "155c3592bd73b649125463b2543f2bcd"
       },
-      "generated_at": "2026-09-29T11:28:58-0300"
+      "generated_at": "2026-10-04T20:41:36-0300"
     },
     "tabla-pais-tedad-educ-ano": {
       "src": "data/runtime/payloads/tabla-pais-tedad-educ-ano.json",
@@ -2691,33 +3453,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "b603d21c1fd81920dd305b67f2d8f764",
+      "hash": "4d624ec938fccc8ddaecdf12c7be4216",
       "script_hash_algorithm": "md5",
-      "script_hash": "2b216ca03fc499cefb8da86078e6f8d7",
+      "script_hash": "0d08d5006a345d02f08443d705612a83",
       "bytes": 1647,
       "script_bytes": 1791,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "46e9ba17819c01174cc634ce071bbf5c",
+        "hash": "2d4d439810f528fe520f749d4e1ac3c6",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_educ_ano.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "ccbeb6945bb23a0f7ac1e71fa6c79a7a"
+            "hash": "1d453eb7b2246c1d2e99ec8a17d537e5"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "ccbeb6945bb23a0f7ac1e71fa6c79a7a"
+        "payload_hash": "1d453eb7b2246c1d2e99ec8a17d537e5"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:36-0300"
     },
     "tabla-pais-tedad-educ-rez": {
       "src": "data/runtime/payloads/tabla-pais-tedad-educ-rez.json",
@@ -2726,33 +3500,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "1976bf2e9e7802b275f668e69431bbd6",
+      "hash": "07ae18f8428991a44368cf601199b9dc",
       "script_hash_algorithm": "md5",
-      "script_hash": "05100302caaab54e1cb176af98c3239e",
+      "script_hash": "6826197c83b7cfa9c836b9020d90bd94",
       "bytes": 1471,
       "script_bytes": 1615,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "46b095c9bc7dff7ff002b73024955faa",
+        "hash": "bf7b6ae6a1530e13c20afc49cbcec58d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_educ_rez.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d1d69c54f39589ced05e3d4564160caf"
+            "hash": "b8ff87e0b54029ff70ea0c377b9bc41b"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "d1d69c54f39589ced05e3d4564160caf"
+        "payload_hash": "b8ff87e0b54029ff70ea0c377b9bc41b"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-pais-tedad-educ-rezmat": {
       "src": "data/runtime/payloads/tabla-pais-tedad-educ-rezmat.json",
@@ -2761,33 +3547,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "a2372d8bb00df106ec5929619d7a9c67",
+      "hash": "1ddeb06bd3f613087804c00c5232dc34",
       "script_hash_algorithm": "md5",
-      "script_hash": "25a80812bcc19ab089e73f8ab5e171c4",
+      "script_hash": "afd451ab9db79bd6581233ed00cca387",
       "bytes": 1808,
       "script_bytes": 1955,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "2bbeee415ffd1612a76b52e83769df76",
+        "hash": "ff89e663ce8fba8715920e13945b042d",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_educ_rezmat.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "76fde90ea5374dacf21f69fd1499cdf3"
+            "hash": "d654543ca19087dbc49ebfb02f6f6bad"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "76fde90ea5374dacf21f69fd1499cdf3"
+        "payload_hash": "d654543ca19087dbc49ebfb02f6f6bad"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-pais-tedad-migr": {
       "src": "data/runtime/payloads/tabla-pais-tedad-migr.json",
@@ -2796,33 +3594,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0815fbb273662091650f46d9c70769fb",
+      "hash": "300d2ad0befd303c10aa2fa3cbb5491b",
       "script_hash_algorithm": "md5",
-      "script_hash": "00c79a0594843f6b0d96eca109c4e1ed",
+      "script_hash": "cc3855dff0b868f5d85ac7a4f98a208d",
       "bytes": 2483,
       "script_bytes": 2623,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "82d783ab203a7bae730d2b985ab77e30",
+        "hash": "0afb0e8ba095a4d79fef925703fcf4d9",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_migr.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "0f9ad7d80bac667ba24ea2900561a21d"
+            "hash": "20f772a64f8e760e149002bf0f5c7dd1"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0f9ad7d80bac667ba24ea2900561a21d"
+        "payload_hash": "20f772a64f8e760e149002bf0f5c7dd1"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-pais-tedad-ocup": {
       "src": "data/runtime/payloads/tabla-pais-tedad-ocup.json",
@@ -2831,33 +3641,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f8ec46025c1aa5022b889eef4fc082e6",
+      "hash": "161481da8fe01e4c2ac4d5a75d9bc6f3",
       "script_hash_algorithm": "md5",
-      "script_hash": "bef083f5f9a973002256d4e5bf6dafbc",
+      "script_hash": "e8d62125c5915b14db5e83181f31be23",
       "bytes": 18237,
       "script_bytes": 18377,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "5c07e6b28c517b7ebe16300554a4530a",
+        "hash": "a746e92a03c7977f226c80da8f093fcc",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_ocup.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "f2f1500a205c7f0081b9ccf5a260d4c7"
+            "hash": "0f08fe7d3ad535e6755908181be8a52b"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f2f1500a205c7f0081b9ccf5a260d4c7"
+        "payload_hash": "0f08fe7d3ad535e6755908181be8a52b"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-pais-tedad-pens": {
       "src": "data/runtime/payloads/tabla-pais-tedad-pens.json",
@@ -2866,33 +3688,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ff0f4e172c5b44d4d3ad08f59404df80",
+      "hash": "4f286d668cdd844a11ee4d08e493fab6",
       "script_hash_algorithm": "md5",
-      "script_hash": "09b85f88ad96abe6847f89306cca846d",
+      "script_hash": "c1636ba94cf32764cccc0d1b2610bd82",
       "bytes": 27619,
       "script_bytes": 27759,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "bcd7cf8ead1ce9a215907074025d995c",
+        "hash": "50da876e63ed7ec3a48a0ba1670b082f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_pais_tedad_pens.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "87622d71ba1dab08f1d507110aca0674"
+            "hash": "8cd1a48442d207d224f4ccc2b84614f8"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "87622d71ba1dab08f1d507110aca0674"
+        "payload_hash": "8cd1a48442d207d224f4ccc2b84614f8"
       },
-      "generated_at": "2026-09-29T11:28:59-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-provincia-tedad-7": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-7.json",
@@ -2901,33 +3735,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f4229492efd59dfe66392f5db8900db4",
+      "hash": "6696c9cf0a84d4e7dc2917c035def8f2",
       "script_hash_algorithm": "md5",
-      "script_hash": "77fedb2768f7c9592385f721b9d398c2",
+      "script_hash": "447fcf20807e292dc98483fe549699d5",
       "bytes": 1004304,
       "script_bytes": 1004446,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "7375338335b53cd18237858e94cb14ec",
+        "hash": "593c98c85dd4d12ef66c8ac5317492e4",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_7.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "1b7dc3b156af5a974bd748a1e922eb88"
+            "hash": "7999b3f9584b48085119d84d7ed6d377"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "1b7dc3b156af5a974bd748a1e922eb88"
+        "payload_hash": "7999b3f9584b48085119d84d7ed6d377"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:37-0300"
     },
     "tabla-provincia-tedad-educ": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-educ.json",
@@ -2936,33 +3782,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "e68deefad0d8ee282c766087fc2d598f",
+      "hash": "de046a11c88b7353e3ff4809365b01e2",
       "script_hash_algorithm": "md5",
-      "script_hash": "03de313f07ac8d7c3fa5391ca4caf84a",
+      "script_hash": "a3a232365dc02376c33b7c022c2d9ea2",
       "bytes": 16173,
       "script_bytes": 16318,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "d5f70e8b05efaa1e2542f52f9fa95186",
+        "hash": "d1f2bfa88688cae758dd669949691d2c",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_educ.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "7884b27998fb27769929e2b26ebc6ae1"
+            "hash": "8eab4ff5d4ad3d48f2eea5d6b9d70f09"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "7884b27998fb27769929e2b26ebc6ae1"
+        "payload_hash": "8eab4ff5d4ad3d48f2eea5d6b9d70f09"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-provincia-tedad-educ-ano": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-educ-ano.json",
@@ -2971,33 +3829,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "81044597b282dc2316085631a1f27259",
+      "hash": "4cdce544413207b4507748295f4169bc",
       "script_hash_algorithm": "md5",
-      "script_hash": "a8c19e457083adcb0c280e145b19e9fc",
+      "script_hash": "ad80569ddcae497ca7b8b28a0953c20a",
       "bytes": 13096,
       "script_bytes": 13245,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f360da2afdc221d2d42bb8da0dad7483",
+        "hash": "d76640fd6bd5fc1c779edf7bca2623d5",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_educ_ano.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "5f01eddc49ad9504665704eb95928502"
+            "hash": "3268f38e0a2fef34bcef021df0f8bbd5"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "5f01eddc49ad9504665704eb95928502"
+        "payload_hash": "3268f38e0a2fef34bcef021df0f8bbd5"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-provincia-tedad-educ-rez": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-educ-rez.json",
@@ -3006,33 +3876,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "18a95f4ce7d4f76c9f0251f470b19757",
+      "hash": "7c38312acef3dc80ffe08e290050ee31",
       "script_hash_algorithm": "md5",
-      "script_hash": "b3c0a69d98f703c271658446d80bce3d",
+      "script_hash": "74014fa669eba95b11af3e2bca07fa79",
       "bytes": 8723,
       "script_bytes": 8872,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "693f55d04a18814d69c0d440d4a8bf86",
+        "hash": "a3e286ac1943313264c4f303d614cfbd",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_educ_rez.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "757f5faed4a0b6c325e6e61afabcea39"
+            "hash": "24a38ffcfd9a0ea408de33c2b8b799b7"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "757f5faed4a0b6c325e6e61afabcea39"
+        "payload_hash": "24a38ffcfd9a0ea408de33c2b8b799b7"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-provincia-tedad-educ-rezmat": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-educ-rezmat.json",
@@ -3041,33 +3923,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4e374d774af3b251b35b6f26a6886141",
+      "hash": "0fce30e47bd0242e963019cf22bb6a13",
       "script_hash_algorithm": "md5",
-      "script_hash": "756abf4206750d2a468a2999d134384e",
+      "script_hash": "96c00d2a91509909a60d01cb1cdf4e09",
       "bytes": 11953,
       "script_bytes": 12105,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b8b79c7469a5d65aee01750f11f29f64",
+        "hash": "5ca21d2bc893bd3dcb8569d16a5c32ec",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_educ_rezmat.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "73a5cf8d6d7df9e8b25a3d6615d167c7"
+            "hash": "a00ffd617eb2e78d73680af2675bb90c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "73a5cf8d6d7df9e8b25a3d6615d167c7"
+        "payload_hash": "a00ffd617eb2e78d73680af2675bb90c"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-provincia-tedad-migr": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-migr.json",
@@ -3076,33 +3970,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "5b3e7161e84608ec4ec572801cd12e70",
+      "hash": "e966418f93c2a2882a047af51cb7f691",
       "script_hash_algorithm": "md5",
-      "script_hash": "4f25f4d785f46f761a7313a6b0b5084c",
+      "script_hash": "e396b1e5eb5f3a0daaafc63ae4b71b2a",
       "bytes": 113240,
       "script_bytes": 113385,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "48b055c8e44f76d4f1a1150cb7a67e80",
+        "hash": "39608065dc07fcc1703706f10832cd8f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_migr.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "b93c26238583bed673412eaacd913284"
+            "hash": "52b6f8de7cc19807ab1d1055e1c21ed0"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "b93c26238583bed673412eaacd913284"
+        "payload_hash": "52b6f8de7cc19807ab1d1055e1c21ed0"
       },
-      "generated_at": "2026-09-29T11:29:00-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-provincia-tedad-ocup": {
       "src": "data/runtime/payloads/tabla-provincia-tedad-ocup.json",
@@ -3111,33 +4017,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "32e51171ca14f73f997028a49ffd40a9",
+      "hash": "84ac919f9916de0fb4e1cfa6a547fbbd",
       "script_hash_algorithm": "md5",
-      "script_hash": "34e9a0d7777db8ea00d9c20fc6e00596",
+      "script_hash": "ebab928aa5ec0d26152b0daa48778038",
       "bytes": 127051,
       "script_bytes": 127196,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ba4c7b0f213be7d6ba7d647d02f5364c",
+        "hash": "b3e672e4966c673f8233612b5d6aa1e6",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_provincia_tedad_ocup.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2fd6c7f0b0e809cadca777e3e9c66136"
+            "hash": "b1fd8dba1b811d445c12e7713f45d52b"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "2fd6c7f0b0e809cadca777e3e9c66136"
+        "payload_hash": "b1fd8dba1b811d445c12e7713f45d52b"
       },
-      "generated_at": "2026-09-29T11:29:01-0300"
+      "generated_at": "2026-10-04T20:41:38-0300"
     },
     "tabla-region-tedad-7": {
       "src": "data/runtime/payloads/tabla-region-tedad-7.json",
@@ -3146,33 +4064,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "d4e9862c5dd8f58447cc854a19e5a030",
+      "hash": "3c4d8620d82a3e08c36833774f16b025",
       "script_hash_algorithm": "md5",
-      "script_hash": "58c2bf3d7dc9d722c7d8c3769f74ca82",
+      "script_hash": "cdf0f73b328ac2f434cd9d0b74092e84",
       "bytes": 721338,
       "script_bytes": 721477,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "0916aa8a396fe75d7a5c3809207831e3",
+        "hash": "f4fc8233a88a0ea9576ed3a1583284f9",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_7.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "21a023e55ebf9880b6c1bf2e71813a13"
+            "hash": "a855fd35416aeed0347c25dcf1c9af49"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "21a023e55ebf9880b6c1bf2e71813a13"
+        "payload_hash": "a855fd35416aeed0347c25dcf1c9af49"
       },
-      "generated_at": "2026-09-29T11:29:01-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-educ": {
       "src": "data/runtime/payloads/tabla-region-tedad-educ.json",
@@ -3181,33 +4111,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ee390e1bb2e49121f4ed841f942d6c84",
+      "hash": "edcb7ef3e3c9489b603c41c8591135c8",
       "script_hash_algorithm": "md5",
-      "script_hash": "ace7c911ac71972d6e31d92f2293edda",
+      "script_hash": "54b5d973ffa976e0b3261cb07ee9a32e",
       "bytes": 11319,
       "script_bytes": 11461,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "81e6c192e0aedf52f51396362a805418",
+        "hash": "a8e32a8df2737a81e68e90e7b8cf8bd8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_educ.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "56dbf848f23ea1674e618e60a7e45e9b"
+            "hash": "50475fd8bd42543bc0079be083dd939f"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "56dbf848f23ea1674e618e60a7e45e9b"
+        "payload_hash": "50475fd8bd42543bc0079be083dd939f"
       },
-      "generated_at": "2026-09-29T11:29:01-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-educ-ano": {
       "src": "data/runtime/payloads/tabla-region-tedad-educ-ano.json",
@@ -3216,33 +4158,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "751e159cb3b00101621f630d798c0390",
+      "hash": "65422ffe9250f9bc39cdf94c7e6c2f27",
       "script_hash_algorithm": "md5",
-      "script_hash": "f7736c18e6bc63ce80a3e267e4a30d19",
+      "script_hash": "f24ea2073712c7ee3f7a4ac6902e51e8",
       "bytes": 8803,
       "script_bytes": 8949,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "362758e158e2986c282a1239ed3d5923",
+        "hash": "c1a32c8ea3253eaa8b40fdceed7f8734",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_educ_ano.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "3d990ab7e92c3e65e2226b5744fa8065"
+            "hash": "0ee8a41209a29309229984aebc778afb"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "3d990ab7e92c3e65e2226b5744fa8065"
+        "payload_hash": "0ee8a41209a29309229984aebc778afb"
       },
-      "generated_at": "2026-09-29T11:29:01-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-educ-rez": {
       "src": "data/runtime/payloads/tabla-region-tedad-educ-rez.json",
@@ -3251,33 +4205,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c6bfc8cd5a7ab9936474ac14d9d46fc4",
+      "hash": "c627996077cac7eab8eb037fc5f0d1f2",
       "script_hash_algorithm": "md5",
-      "script_hash": "fc94a4d13c474a064e9e43033d4a51f5",
+      "script_hash": "6a58d24536594ff39ddbde738ba5d382",
       "bytes": 5784,
       "script_bytes": 5930,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "c3ac3669bdee7e74448acce758367e4f",
+        "hash": "087b020a6234c5cf6d94daff936fbe65",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_educ_rez.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "cb53500451bd6981057375b7ea9d3786"
+            "hash": "90541845d80b3d1156a404034c32684c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "cb53500451bd6981057375b7ea9d3786"
+        "payload_hash": "90541845d80b3d1156a404034c32684c"
       },
-      "generated_at": "2026-09-29T11:29:01-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-educ-rezmat": {
       "src": "data/runtime/payloads/tabla-region-tedad-educ-rezmat.json",
@@ -3286,33 +4252,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "920a8282439afd4902c266d56f6b9061",
+      "hash": "f85a6069e800b73478a2895646a69f4b",
       "script_hash_algorithm": "md5",
-      "script_hash": "31e5f6858f0c68826f8410ee537c58e5",
+      "script_hash": "f039a7c9297f550392aaca0a09a1917e",
       "bytes": 8134,
       "script_bytes": 8283,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "62d02456cfb09a1a1926b2b829652935",
+        "hash": "b82d59a6f25608a6c32156da55adc575",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_educ_rezmat.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "188a90a963272e4508a67f4223c1641d"
+            "hash": "06237136b2d0c2e66973dd4f58613f3c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "188a90a963272e4508a67f4223c1641d"
+        "payload_hash": "06237136b2d0c2e66973dd4f58613f3c"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-migr": {
       "src": "data/runtime/payloads/tabla-region-tedad-migr.json",
@@ -3321,33 +4299,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c04fe5ca62b0d963ba43d8fc3d83306a",
+      "hash": "36db2c287bbd40fe6a3c6bd2868cc55a",
       "script_hash_algorithm": "md5",
-      "script_hash": "97cffc6068660c22bd3a1242561c7d8a",
+      "script_hash": "f26aa7c0a34ba47db2b43af6347200fe",
       "bytes": 35743,
       "script_bytes": 35885,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "25d9021794dab0c5142012f6d2ed5769",
+        "hash": "3543ec570c21ed35c96e9f8b5a88d6db",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_migr.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "88d7345a55bcb8d1e2f006eb7df9a2c5"
+            "hash": "2431d028a28fcd089c41636db1f0f9b2"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "88d7345a55bcb8d1e2f006eb7df9a2c5"
+        "payload_hash": "2431d028a28fcd089c41636db1f0f9b2"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-ocup": {
       "src": "data/runtime/payloads/tabla-region-tedad-ocup.json",
@@ -3356,33 +4346,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "d29ade4d7997974dd919195deefe4b23",
+      "hash": "20ae04e0851400d2ef2e8b4237541cad",
       "script_hash_algorithm": "md5",
-      "script_hash": "583b0ee1a527c0b8b4cdd001db7a9868",
+      "script_hash": "58590c07ca420a3db7d77d85c1b1c33d",
       "bytes": 126070,
       "script_bytes": 126212,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ee22949b63c840f6426a54ea8dfb6e68",
+        "hash": "08b820bebaa44c0316c2582143a71082",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_ocup.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "f17def01645c2e49a4f65c46615800b8"
+            "hash": "b17a37d2f5b597daabfbcb0d9d8931d1"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f17def01645c2e49a4f65c46615800b8"
+        "payload_hash": "b17a37d2f5b597daabfbcb0d9d8931d1"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:39-0300"
     },
     "tabla-region-tedad-pens": {
       "src": "data/runtime/payloads/tabla-region-tedad-pens.json",
@@ -3391,33 +4393,45 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "a1d607dc6ac6d0d8b643e48ad22b9c56",
+      "hash": "e0c94aa4823bd6b4b2d616ff082864f1",
       "script_hash_algorithm": "md5",
-      "script_hash": "bc1790ad7b2a436bc2217f8f31fecb8b",
+      "script_hash": "ff5b41c7c6819cefabe356439fe0937c",
       "bytes": 199620,
       "script_bytes": 199762,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "fb6cd6471745089b65bc6392d7bc8e54",
+        "hash": "31ea8d20899f59d1466d94b39eb3d68e",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
           },
           {
             "path": "data/canonical/v1/vistas/tabla/tabla_region_tedad_pens.json",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "adce4cb630625787f2adcbabf52e84bc"
+            "hash": "ccd02b5bdf3217757423ae5426a6826c"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "adce4cb630625787f2adcbabf52e84bc"
+        "payload_hash": "ccd02b5bdf3217757423ae5426a6826c"
       },
-      "generated_at": "2026-09-29T11:29:02-0300"
+      "generated_at": "2026-10-04T20:41:40-0300"
     },
     "demography-coverage-provincial-data": {
       "src": "data/runtime/payloads/demography-coverage-provincial-data.json",
@@ -3426,27 +4440,39 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "dc128ad1a83cedd00c1814c9bf2b5e6a",
+      "hash": "61fbcb176454aa6b6b879a93ce3b11b6",
       "script_hash_algorithm": "md5",
-      "script_hash": "dc81017fe7dcf29c3fa95d50c2c5e524",
-      "bytes": 107641,
-      "script_bytes": 107795,
+      "script_hash": "0940c23894cb0cf17182d0ab186b0b90",
+      "bytes": 107698,
+      "script_bytes": 107852,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b77440ce9ed51d3b093675d0e714c51c",
+        "hash": "0e2369ac0833da2631bfe87a54d8a5b2",
         "kind": "payload_content_plus_builder",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_site_payloads.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "8362871f34acb2a5a7673ad4bf11bbe8"
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "dc128ad1a83cedd00c1814c9bf2b5e6a"
+        "payload_hash": "61fbcb176454aa6b6b879a93ce3b11b6"
       },
-      "generated_at": "2026-09-29T19:14:47-0300"
+      "generated_at": "2026-10-06T00:04:29-0300"
     },
     "education-laminas-reports": {
       "src": "data/runtime/payloads/education-laminas-reports.json",
@@ -3455,35 +4481,47 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "c497ee769e91f61848fedbb108ee8d13",
+      "hash": "d30b70841aec85ee9a36b12de535aa38",
       "script_hash_algorithm": "md5",
-      "script_hash": "550fb59c142eb0f5fde1560c45185024",
-      "bytes": 492823,
-      "script_bytes": 492967,
+      "script_hash": "51c9f21c9eb03884780014a184a3bcba",
+      "bytes": 494216,
+      "script_bytes": 494360,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ff6bf2a8185f2347705b7a099bc2c5d7",
+        "hash": "996f159cf258926c9190d4899bce4657",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_education_laminas_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "9e81d928c16597a374ae5cf583890bed"
+            "hash": "b709215f7183d922b7cd40ed2988d84b"
           },
           {
             "path": "quarto-pidr/chunks/territorial-education-laminas-json.R",
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "0cdaa7c93c57e7f9a35d8b0ce97d31e0"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
           "payload_id": "education-laminas-reports",
-          "laminas_xlsx": "ef934f901c5724d1651c3f2358ad6536"
+          "laminas_xlsx": "439aac4744aac72dd57a101c184bcb5f"
         },
         "schema_version": 1
       },
-      "generated_at": "2026-10-01T15:40:53-0300"
+      "generated_at": "2026-10-06T00:24:38-0300"
     },
     "income-regserie-reports": {
       "src": "data/runtime/payloads/income-regserie-reports.json",
@@ -3492,35 +4530,47 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "904d53d706fd60b123def56d28ce2996",
+      "hash": "abc200ebe2f6f8206c951ea7b90803dd",
       "script_hash_algorithm": "md5",
-      "script_hash": "67b1aef04720c71748d1a3568b7b8e06",
-      "bytes": 773520,
-      "script_bytes": 773662,
+      "script_hash": "5ba9647d52a03835bcffa95b2217a2f4",
+      "bytes": 774242,
+      "script_bytes": 774384,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "63c25f17a5c87ac85a9e14290953a186",
+        "hash": "ba8ba35af14000f5ec1e99b08fa38be7",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_income_serie_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a565a832f3c049c9d5ffc65b89f84eea"
+            "hash": "2c5fc8e9953a30938540e7bf44dd48a5"
           },
           {
             "path": "quarto-pidr/chunks/territorial-income-serie-json.R",
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "36e0043c1405000180fc34e9c016d165"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
           "payload_id": "income-regserie-reports",
-          "laminas_xlsx": "59f4135b313b484a9aa3ed0720f8b35a"
+          "laminas_xlsx": "5651b3a81c7eb00c5bfc776ceeaf4b8d"
         },
         "schema_version": 1
       },
-      "generated_at": "2026-10-03T21:52:49-0300"
+      "generated_at": "2026-10-06T00:57:36-0300"
     },
     "laminas-nacionales-reports": {
       "src": "data/runtime/payloads/laminas-nacionales-reports.json",
@@ -3529,20 +4579,20 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8c96bef8b34616a28169437092949404",
+      "hash": "d148a0e4c552bc6a222cb4522e93e1d6",
       "script_hash_algorithm": "md5",
-      "script_hash": "a55d0399311cb3a5499ba20e9414b63b",
-      "bytes": 64805,
-      "script_bytes": 64950,
+      "script_hash": "b59bf97c7fcf42e1895e19193d0e16c8",
+      "bytes": 65200,
+      "script_bytes": 65345,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a890e930119911ee4d495343dfd25004",
+        "hash": "f3d4bb43dfa1a6c7b2818fbe691a6a2d",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_laminas_nacionales_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "c7a7755ff015bd78e3559306e3d2c6ea"
+            "hash": "8c0aae5e47d8b6fec6b7f7b5c6052caf"
           },
           {
             "path": "quarto-pidr/scripts/build_textos_reportes.R",
@@ -3555,15 +4605,27 @@
             "exists": true,
             "hash_algorithm": "md5",
             "hash": "4827477ab76203d323dac4d8b0014b29"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
           }
         ],
         "params": {
           "payload_id": "laminas-nacionales-reports",
-          "laminas_xlsx": "435dca761137e76ec78afa6bc3d8f023"
+          "laminas_xlsx": "9a729e6bd04e29024016f5ad454cedcf"
         },
         "schema_version": 1
       },
-      "generated_at": "2026-10-03T23:45:40-0300"
+      "generated_at": "2026-10-06T00:05:24-0300"
     }
   }
 }
