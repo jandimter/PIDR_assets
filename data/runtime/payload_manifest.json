@@ -130,14 +130,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "6d21fbfd1dea080777996b3ad441838e",
+      "hash": "250ff04f0ab3338b093e7e9517365d70",
       "script_hash_algorithm": "md5",
-      "script_hash": "d5a51ebb617b6b1271eb691fcb9f4812",
-      "bytes": 619064,
-      "script_bytes": 619207,
+      "script_hash": "1716a7eefde094e8b17b39fcddf626d6",
+      "bytes": 618615,
+      "script_bytes": 618758,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "776c595685cc7ac8748b6b3c1276c1bd",
+        "hash": "2d96657a46ac6818b558acc9ee48638f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -160,9 +160,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "6d21fbfd1dea080777996b3ad441838e"
+        "payload_hash": "250ff04f0ab3338b093e7e9517365d70"
       },
-      "generated_at": "2026-10-06T00:56:08-0300"
+      "generated_at": "2026-10-07T10:22:55-0300"
     },
     "demography-aging-exact-data": {
       "src": "data/runtime/payloads/demography-aging-exact-data.json",
@@ -294,14 +294,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "19d553429b62aa8154f554a7fb3841eb",
+      "hash": "733d4858fed03534c4d14b6256fe5287",
       "script_hash_algorithm": "md5",
-      "script_hash": "9ab852c1f3cebac563356b38b94e3d43",
+      "script_hash": "5926a4a38a1f885539a81ae56cbbecb2",
       "bytes": 698251,
       "script_bytes": 698393,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "4631d718015cdac652922ea44bb66f05",
+        "hash": "84eae15b69db7c25a3ea01e06a770ce4",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -324,9 +324,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "19d553429b62aa8154f554a7fb3841eb"
+        "payload_hash": "733d4858fed03534c4d14b6256fe5287"
       },
-      "generated_at": "2026-10-06T00:04:29-0300"
+      "generated_at": "2026-10-07T10:22:57-0300"
     },
     "demography-coverage-data": {
       "src": "data/runtime/payloads/demography-coverage-data.json",
@@ -540,14 +540,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "0db6803d0578393d03acddbaade66b51",
+      "hash": "1b2e7d413977153061ef30c3275f5c1b",
       "script_hash_algorithm": "md5",
-      "script_hash": "df2ae490a7116b12e06ec83d57774bc6",
-      "bytes": 243400,
-      "script_bytes": 243558,
+      "script_hash": "3b2e6b6d1d1f17c3d7bb5ddcaf2b1bce",
+      "bytes": 243402,
+      "script_bytes": 243560,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "f75396a4d23e064b4c5b01fdb03af3e0",
+        "hash": "55973cc356ebef2057a2cd20986353c1",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -570,7 +570,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "0db6803d0578393d03acddbaade66b51"
+        "payload_hash": "1b2e7d413977153061ef30c3275f5c1b"
       },
       "generated_at": "2026-10-06T00:05:07-0300"
     },
@@ -581,14 +581,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "7674ef3c11e1156d922e7c1f8825d601",
+      "hash": "9fddeb97f4de0c49320ee69ad3a6e443",
       "script_hash_algorithm": "md5",
-      "script_hash": "9946be0e28da6e38e07717631037287f",
+      "script_hash": "5b3b62332a377c796c9f1a0c63a03173",
       "bytes": 325960,
       "script_bytes": 326108,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "e370638140ac8e7d08be741a924efea7",
+        "hash": "b382fd26267cbffd5feffd35a0c1a63f",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -611,7 +611,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "7674ef3c11e1156d922e7c1f8825d601"
+        "payload_hash": "9fddeb97f4de0c49320ee69ad3a6e443"
       },
       "generated_at": "2026-10-06T00:05:07-0300"
     },
@@ -622,14 +622,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "34f16193e04099ff934e1e223249f1ce",
+      "hash": "fa2769211e4f26ff5461bca7186c469b",
       "script_hash_algorithm": "md5",
-      "script_hash": "1ca00b4fb2375ebedb48df0c59d1eab7",
+      "script_hash": "ad2be1a9231511d7c100ff61fdf5e2b2",
       "bytes": 290391,
       "script_bytes": 290540,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "283368c69581c2ae9fadbb3e593660db",
+        "hash": "224908e6e9189ee1e72a5a78ce3c58c8",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -652,7 +652,7 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "34f16193e04099ff934e1e223249f1ce"
+        "payload_hash": "fa2769211e4f26ff5461bca7186c469b"
       },
       "generated_at": "2026-10-06T00:05:08-0300"
     },
@@ -1385,14 +1385,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "21f2ed58a7ec042ded06d1c15d10799b",
+      "hash": "3eda7ed780b30e7ff1bf8d4a33b9dfe7",
       "script_hash_algorithm": "md5",
-      "script_hash": "56e1c663f17f523e60c1bfbc05cea6b5",
+      "script_hash": "50d6e53cd6e25cabc9ce180c4dce7ff0",
       "bytes": 62862,
       "script_bytes": 63013,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "a70c379b1945ba23bdc5b2d98fdb44c1",
+        "hash": "7c5a35b0a4a579dbb5b103182fc49028",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -1415,9 +1415,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "21f2ed58a7ec042ded06d1c15d10799b"
+        "payload_hash": "3eda7ed780b30e7ff1bf8d4a33b9dfe7"
       },
-      "generated_at": "2026-10-06T00:04:28-0300"
+      "generated_at": "2026-10-07T10:22:56-0300"
     },
     "demography-otras-relaciones-provincial-data": {
       "src": "data/runtime/payloads/demography-otras-relaciones-provincial-data.json",
@@ -4537,13 +4537,13 @@
       "script_bytes": 774384,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "ba8ba35af14000f5ec1e99b08fa38be7",
+        "hash": "24508398b48d27e5103654d96f1a69f8",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_income_serie_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "2c5fc8e9953a30938540e7bf44dd48a5"
+            "hash": "1617f184f59962ad7ac1a4bcf263b909"
           },
           {
             "path": "quarto-pidr/chunks/territorial-income-serie-json.R",
@@ -4626,6 +4626,103 @@
         "schema_version": 1
       },
       "generated_at": "2026-10-06T00:05:24-0300"
+    },
+    "casen-modulo": {
+      "src": "data/runtime/payloads/casen-modulo.json",
+      "script_src": "data/runtime/payloads/casen-modulo.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "4be4b2439399d10262cd74a43a191965",
+      "script_hash_algorithm": "md5",
+      "script_hash": "e79cceada7402649d6491c866a50e18a",
+      "bytes": 1911931,
+      "script_bytes": 1912062,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "10b41d55cec7e01a11808563d2f9c8e4",
+        "files": [
+          {
+            "path": "data/metadata/casen/modulo_bloques.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d65f1b75f66b7b0cfbb11a828d775bdd"
+          },
+          {
+            "path": "data/metadata/casen/modulo_fuentes.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "a509c158937cfa909144cf51222fa9a8"
+          },
+          {
+            "path": "data/metadata/casen/hallazgos.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "fec19fc77577dc675ef623a598b4ecdc"
+          },
+          {
+            "path": "data/data_quality/casen/hallazgos_por_hoja.csv",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9e9fafd758e945914c02db2abb46b495"
+          },
+          {
+            "path": "proc/0_generate_data/_canon_casen/casen_leer.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d3c5bdf9d7bf0b01416b94e21d6e5479"
+          },
+          {
+            "path": "proc/0_generate_data/_canon_casen/casen_modulo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d0e7c1346491e30dd6608038027437fb"
+          },
+          {
+            "path": "proc/0_generate_data/_canon_casen/casen_modulo_payload.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d150f5de8439f6a21e91e0d88dcf617b"
+          },
+          {
+            "path": "proc/0_generate_data/_canon_casen/casen_modulo_reportes.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3fdaed1e8ee023a397b20790aae2b0c1"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "755139bde5aca7322aae9d37d1c8cd95"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "quarto-pidr/chunks/casen-modulo-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "23d6fd92bf37ef353b1ff49615ab5411"
+          }
+        ],
+        "params": {
+          "payload_id": "casen-modulo",
+          "capa": "2424a8d9cfed675f0d1f6ffaf3f78ed2"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-07T10:43:03-0300"
     }
   }
 }

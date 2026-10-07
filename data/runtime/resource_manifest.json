@@ -21,6 +21,7 @@
     "graficos_regionales_indicadores": "https://pidr.mideplan.cl/output/graficos_regionales_indicadores",
     "graficos_regionales_migracion": "https://pidr.mideplan.cl/output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "https://pidr.mideplan.cl/output/graficos_regionales_migracion_flujos",
+    "graficos_casen": "https://pidr.mideplan.cl/output/graficos_casen",
     "escudos_comunales": "https://pidr.mideplan.cl/data/Img/Escudos/render_1024",
     "runtime_payloads": "https://pidr.mideplan.cl/data/runtime/payloads"
   },
@@ -44,6 +45,7 @@
     "graficos_regionales_indicadores": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_indicadores",
     "graficos_regionales_migracion": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_migracion_flujos",
+    "graficos_casen": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_casen",
     "escudos_comunales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/Img/Escudos/render_1024",
     "runtime_payloads": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads"
   },
@@ -67,6 +69,7 @@
     "graficos_regionales_indicadores": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_indicadores",
     "graficos_regionales_migracion": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_regionales_migracion_flujos",
+    "graficos_casen": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/output/graficos_casen",
     "escudos_comunales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/data/Img/Escudos/render_1024",
     "runtime_payloads": "https://raw.githubusercontent.com/jandimter/PIDR_assets/refs/heads/Respaldo-Marzo/data/runtime/payloads"
   },
@@ -90,6 +93,7 @@
     "graficos_regionales_indicadores": "output/graficos_regionales_indicadores",
     "graficos_regionales_migracion": "output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "output/graficos_regionales_migracion_flujos",
+    "graficos_casen": "output/graficos_casen",
     "escudos_comunales": "data/Img/Escudos/render_1024",
     "runtime_payloads": "data/runtime/payloads"
   }
