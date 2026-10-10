@@ -22,7 +22,7 @@
     "graficos_regionales_migracion": "https://pidr.mideplan.cl/output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "https://pidr.mideplan.cl/output/graficos_regionales_migracion_flujos",
     "graficos_casen": "https://pidr.mideplan.cl/output/graficos_casen",
-    "escudos_comunales": "https://pidr.mideplan.cl/data/Img/Escudos/render_1024",
+    "escudos_comunales": "https://pidr.mideplan.cl/data/Img/Escudos/web",
     "runtime_payloads": "https://pidr.mideplan.cl/data/runtime/payloads"
   },
   "base_paths_github": {
@@ -46,7 +46,7 @@
     "graficos_regionales_migracion": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_regionales_migracion_flujos",
     "graficos_casen": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/output/graficos_casen",
-    "escudos_comunales": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/Img/Escudos/render_1024",
+    "escudos_comunales": "data/Img/Escudos/web",
     "runtime_payloads": "https://raw.githubusercontent.com/jandimter/PIDR_assets/main/data/runtime/payloads"
   },
   "base_paths_github_backup": {
@@ -94,7 +94,7 @@
     "graficos_regionales_migracion": "output/graficos_regionales_migracion",
     "graficos_regionales_migracion_flujos": "output/graficos_regionales_migracion_flujos",
     "graficos_casen": "output/graficos_casen",
-    "escudos_comunales": "data/Img/Escudos/render_1024",
+    "escudos_comunales": "data/Img/Escudos/web",
     "runtime_payloads": "data/runtime/payloads"
   }
 }

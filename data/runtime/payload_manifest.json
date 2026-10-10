@@ -7,14 +7,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "8f2d9edcd0ba6b404307a2f1d439836c",
+      "hash": "ba829dc3afe6f7c393950600c730f063",
       "script_hash_algorithm": "md5",
-      "script_hash": "bc98e4a5538eda975cde4729898a26f4",
-      "bytes": 974935,
-      "script_bytes": 975081,
+      "script_hash": "7cd5eda1030851bc096de39567b0a0ca",
+      "bytes": 967031,
+      "script_bytes": 967177,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "e60080f528f0e3e1925f390d49be016f",
+        "hash": "881a182c19e91f04bf1f88615557c160",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -37,9 +37,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "8f2d9edcd0ba6b404307a2f1d439836c"
+        "payload_hash": "ba829dc3afe6f7c393950600c730f063"
       },
-      "generated_at": "2026-10-05T21:46:51-0300"
+      "generated_at": "2026-10-09T19:37:33-0300"
     },
     "regional-selector-map-data": {
       "src": "data/runtime/payloads/regional-selector-map-data.json",
@@ -2284,14 +2284,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "f5a5a7acaebdf1f58e18fba6f264dd00",
+      "hash": "8a2434b8f64f13ee21609b2a1d2101be",
       "script_hash_algorithm": "md5",
-      "script_hash": "2c9aafa4034b405262f5d8c27774eaf1",
-      "bytes": 4746934,
-      "script_bytes": 4747077,
+      "script_hash": "44cff4c61f0f0205e9af2c8602519e15",
+      "bytes": 4754835,
+      "script_bytes": 4754978,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "b1f8b302b942684f69d754c060f92ae0",
+        "hash": "a92d9088b2a90c2f6a2643185a3a4993",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -2314,9 +2314,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "f5a5a7acaebdf1f58e18fba6f264dd00"
+        "payload_hash": "8a2434b8f64f13ee21609b2a1d2101be"
       },
-      "generated_at": "2026-10-05T21:40:49-0300"
+      "generated_at": "2026-10-09T19:21:25-0300"
     },
     "lab-panel-pais": {
       "src": "data/runtime/payloads/lab-panel-pais.json",
@@ -4537,19 +4537,19 @@
       "script_bytes": 774384,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "24508398b48d27e5103654d96f1a69f8",
+        "hash": "9176da632c9ed4d99b174711ba613e82",
         "files": [
           {
             "path": "quarto-pidr/scripts/build_income_serie_reportes.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "1617f184f59962ad7ac1a4bcf263b909"
+            "hash": "025e28658f3181b6f1591b471997b565"
           },
           {
             "path": "quarto-pidr/chunks/territorial-income-serie-json.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "36e0043c1405000180fc34e9c016d165"
+            "hash": "63fc300ba7c95e60136ea958c152e75f"
           },
           {
             "path": "quarto-pidr/scripts/rotulado.R",
@@ -4566,11 +4566,274 @@
         ],
         "params": {
           "payload_id": "income-regserie-reports",
-          "laminas_xlsx": "5651b3a81c7eb00c5bfc776ceeaf4b8d"
+          "ficha": {
+            "hash_algorithm": "md5",
+            "hash": "22f123730db9be4a916b53065ae81d85",
+            "files": [
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "1345590af6f1a3a4117577b3873ebe73"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "ba56f25586861481db8cdae792bb715c"
+              },
+              {
+                "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "79b5bb228b73c7e4def4585e935d7446"
+              },
+              {
+                "path": "quarto-pidr/scripts/laminas_fichas/ingresos_serie_regional.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "24e3623eb8297c81271b174e766995ca"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "755139bde5aca7322aae9d37d1c8cd95"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/_shared/territory_catalog.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "f5a6b09077081929e12c5849c0556835"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/nacional/nacional_datos.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "f0d49989463dbafb284605060107d194"
+              },
+              {
+                "path": "proc/1_generate_graphs_definitive/regional/ingresos_serie_datos.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "be1f82657152e9b0f618934341df9267"
+              },
+              {
+                "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "01f6141e7c5af0c9436bd09b973a61da"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "0db821dbfcd054feac32e2c0f2b4c3bc"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "5cbbeaf9f888f301f77df319269a001e"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "380877236edf0259127261065f62d6ac"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "777d6956f24b30eb5eed56acd571e549"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "01a0cd69c238e595d436050f9844575b"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "aeab3f470f9487bd2af61cac5ac4a00b"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "92952d6f9110a83cfd1dfb4dab287f87"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "f89ec72f6ac50c90b0791bdb91184d7b"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "9e1a6a431a58781fec0698abcde1fecf"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "77d9374c1310e1d4893fa584aaaa19b7"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "d2e8c3502bb70194e123d4fddd597d3e"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "cd4743836208b15790212def7fec9485"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "1c1aa827cc469d20ccedd0640a659703"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "84c47c846acb50d1e5134db18b05853c"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "3a960967d72392a60835fee5e30c665c"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "f5804fc7d2389fbadd70ca2aa41ae14f"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "9499821e0e80afdd3a68cf8cebc5a124"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "4ae31cd4e82822a8e7ab719eae4c46a3"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "4c64698ebd158f369d0fcd114586a359"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "93682cf1af386731e1b7b0e0ef97d158"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "874895749a09f73988f2701e4f1a8eb0"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "3b5089c7e1b244d16380d3ea0be1c4ba"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "684143a8917aeae70b8c66fc1c31ec10"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "f037e771c17e9636781aa6e691488d1f"
+              },
+              {
+                "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "77bcd20e41245207a6a2cccaaaee2ee0"
+              },
+              {
+                "path": "quarto-pidr/scripts/rotulado.R",
+                "exists": true,
+                "hash_algorithm": "md5",
+                "hash": "1f398f6be2de17349d94ef34f907ef50"
+              }
+            ],
+            "params": {
+              "payload_id": "laminas-ingresos-serie-regional",
+              "estado": "svg",
+              "registro": "ingresos_serie_regional:I_INGR_a,ingresos_serie_regional,anual,I_INGR_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_s,ingresos_serie_regional,infra,I_INGR_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_m,ingresos_serie_regional,infra,I_INGR_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_a,ingresos_serie_regional,anual,I_INGR_MEAN_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_mean_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_s,ingresos_serie_regional,infra,I_INGR_MEAN_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_mean_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_m,ingresos_serie_regional,infra,I_INGR_MEAN_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_mean_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_a,ingresos_serie_regional,anual,I_INGR_MEDIAN_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_median_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_s,ingresos_serie_regional,infra,I_INGR_MEDIAN_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_median_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_m,ingresos_serie_regional,infra,I_INGR_MEDIAN_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_median_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_a,ingresos_serie_regional,anual,I_perINGR_MEDIAN_a,region,a,graficos_regionales,plot_regional_serie_i_peringr_median_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_s,ingresos_serie_regional,infra,I_perINGR_MEDIAN_s,region,s,graficos_regionales,plot_regional_serie_i_peringr_median_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_m,ingresos_serie_regional,infra,I_perINGR_MEDIAN_m,region,m,graficos_regionales,plot_regional_serie_i_peringr_median_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_a,ingresos_serie_regional,anual,I_perINGRMIN_a,region,a,graficos_regionales,plot_regional_serie_i_peringrmin_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_s,ingresos_serie_regional,infra,I_perINGRMIN_s,region,s,graficos_regionales,plot_regional_serie_i_peringrmin_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_m,ingresos_serie_regional,infra,I_perINGRMIN_m,region,m,graficos_regionales,plot_regional_serie_i_peringrmin_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha"
+            },
+            "schema_version": 1
+          }
         },
-        "schema_version": 1
+        "schema_version": 2
       },
-      "generated_at": "2026-10-06T00:57:36-0300"
+      "generated_at": "2026-10-08T22:27:59-0300"
     },
     "laminas-nacionales-reports": {
       "src": "data/runtime/payloads/laminas-nacionales-reports.json",
@@ -4634,26 +4897,26 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "4be4b2439399d10262cd74a43a191965",
+      "hash": "3eeab0c64bc572988db91f80886cf4ac",
       "script_hash_algorithm": "md5",
-      "script_hash": "e79cceada7402649d6491c866a50e18a",
-      "bytes": 1911931,
-      "script_bytes": 1912062,
+      "script_hash": "5ab092f8067105ffc156d7549195610f",
+      "bytes": 2418912,
+      "script_bytes": 2419043,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "10b41d55cec7e01a11808563d2f9c8e4",
+        "hash": "cb0df4bcb62fc46be7303c0ee8f785e7",
         "files": [
           {
             "path": "data/metadata/casen/modulo_bloques.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d65f1b75f66b7b0cfbb11a828d775bdd"
+            "hash": "72ccc589e4a2229051aa97f9131cbd6b"
           },
           {
             "path": "data/metadata/casen/modulo_fuentes.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "a509c158937cfa909144cf51222fa9a8"
+            "hash": "af172ca578ee05ebf5c31d6078ab8e44"
           },
           {
             "path": "data/metadata/casen/hallazgos.csv",
@@ -4677,13 +4940,13 @@
             "path": "proc/0_generate_data/_canon_casen/casen_modulo.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d0e7c1346491e30dd6608038027437fb"
+            "hash": "57fa6486acd8f26cf18849688e2edae5"
           },
           {
             "path": "proc/0_generate_data/_canon_casen/casen_modulo_payload.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "d150f5de8439f6a21e91e0d88dcf617b"
+            "hash": "a761a3ff956f966c4b8a71577389cc4e"
           },
           {
             "path": "proc/0_generate_data/_canon_casen/casen_modulo_reportes.R",
@@ -4723,6 +4986,1588 @@
         "schema_version": 1
       },
       "generated_at": "2026-10-07T10:43:03-0300"
+    },
+    "laminas-nacional-serie": {
+      "src": "data/runtime/payloads/laminas-nacional-serie.json",
+      "script_src": "data/runtime/payloads/laminas-nacional-serie.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "aef1648c998d3de07cb0043284160d79",
+      "script_hash_algorithm": "md5",
+      "script_hash": "8513e39ee18c00244404208fd04d62f6",
+      "bytes": 115875,
+      "script_bytes": 116016,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "e138685c2543840959ae19369442facc",
+        "files": [
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1345590af6f1a3a4117577b3873ebe73"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "79b5bb228b73c7e4def4585e935d7446"
+          },
+          {
+            "path": "quarto-pidr/scripts/laminas_fichas/nacional_serie.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "32c88ab22e3402a7d862d2bf24ac6aa7"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/nacional/nacional_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f0d49989463dbafb284605060107d194"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "797f76f4d555d255101cdd82af573f55"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_basneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "2cfd9da8a88c2bf7f5083aa40e83ae48"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_basneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "642babe681c740ef27a37cbc26b34071"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_medianeta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7921923cfbe35d1c26bfbe009b7b194c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_medianeta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ed44f48542cc44b5e6edc557d6a9f306"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_preneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5d2f36e8f2968c5f88bc3f41b4267349"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_preneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b573e93a783b56205ff1cd4a2d9e6adf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_supneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0d3ff1a84f4b50e1fb763d26592e9a66"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_supneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "136cbf255e1d6693cfedc418c7e7c02c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01f6141e7c5af0c9436bd09b973a61da"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0db821dbfcd054feac32e2c0f2b4c3bc"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5cbbeaf9f888f301f77df319269a001e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "380877236edf0259127261065f62d6ac"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "777d6956f24b30eb5eed56acd571e549"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01a0cd69c238e595d436050f9844575b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "aeab3f470f9487bd2af61cac5ac4a00b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "92952d6f9110a83cfd1dfb4dab287f87"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f89ec72f6ac50c90b0791bdb91184d7b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9e1a6a431a58781fec0698abcde1fecf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "77d9374c1310e1d4893fa584aaaa19b7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d2e8c3502bb70194e123d4fddd597d3e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cd4743836208b15790212def7fec9485"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1c1aa827cc469d20ccedd0640a659703"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "84c47c846acb50d1e5134db18b05853c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3a960967d72392a60835fee5e30c665c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5804fc7d2389fbadd70ca2aa41ae14f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9499821e0e80afdd3a68cf8cebc5a124"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4ae31cd4e82822a8e7ab719eae4c46a3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4c64698ebd158f369d0fcd114586a359"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "93682cf1af386731e1b7b0e0ef97d158"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "874895749a09f73988f2701e4f1a8eb0"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3b5089c7e1b244d16380d3ea0be1c4ba"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "684143a8917aeae70b8c66fc1c31ec10"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f037e771c17e9636781aa6e691488d1f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "77bcd20e41245207a6a2cccaaaee2ee0"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=migracion/per=anual/m_movinterna_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "027c5232c266fcf272f753daf599b256"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=migracion/per=anual/m_movinterna_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "88e9e48ea10e80a7cec379a410e98f71"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d809d3fc3a191b2b46e9bc1387df648"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c3331bfe244a417f78e5ffc04a6242de"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=mensual/o_ocup_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "50c8be2096000384de81d7606e563f96"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ocupacion/per=mensual/o_ocup_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1423fac485a069c4799060e2c4b97afc"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=semestral/o_ocup_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c2252fc2accd1acefbae30f9a47a9e4e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ocupacion/per=semestral/o_ocup_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5497690402b8f16bde240d483976bcaa"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0fd9ec17d13b0fb754ef0b7fecc0d7ab"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "abe4670d44bb4e23f51788c2b85e73a9"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=mensual/p_aps_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "90f1ef720ddb4989725ad73abc578889"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=mensual/p_aps_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "17c1effecd585983beb071fa11035f2c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=semestral/p_aps_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7eada399b9fb63a8540a611f0244003f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=semestral/p_aps_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6aa752f8d22f1e06fb2eaed14a8e9598"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cad3b31aeff24337fcf37c88e42680dd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5db0f3d5dfb011c79181c8634a1af5b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=mensual/p_basica_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "a62bad5c49829829bd64e887468c6db3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=mensual/p_basica_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1479edf1143864fae4c19d54526aea76"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=semestral/p_basica_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0ca82a253ce3736c85b3794db0e81211"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=semestral/p_basica_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f6733905bdc722f332f82ccd05b38cb3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cc6674ef4c0a40cdb3a921f22bde5c49"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c50ab4a18b3b70ab12940475b318b596"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=mensual/p_monto_aps_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "158e9d98cda8b863636782b9c38b82f1"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=mensual/p_monto_aps_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "59fa8b50fcb7561bd22fd8fef71c40ec"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=semestral/p_monto_aps_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "76de8802cd052a534f5c88bb8da2657b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=semestral/p_monto_aps_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "379778f7dd5e940ef15ac679f722b893"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5ae0bfc0e2759d461c9dd4630989e25b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3767ee733d7c2fa265e23365c90c52b2"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "fbf1365006bcf554602af5bb17a26da3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b13ee637b8520a6bb1206d7892ddb12e"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-nacional-serie",
+          "estado": "svg",
+          "registro": "nacional_serie:I_INGR_a,nacional_serie,anual,I_INGR_a,pais,a,graficos_nacionales,plot_nacional_serie_i_ingr_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEAN_a,nacional_serie,anual,I_INGR_MEAN_a,pais,a,graficos_nacionales,plot_nacional_serie_i_ingr_mean_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEDIAN_a,nacional_serie,anual,I_INGR_MEDIAN_a,pais,a,graficos_nacionales,plot_nacional_serie_i_ingr_median_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGRMIN_a,nacional_serie,anual,I_perINGRMIN_a,pais,a,graficos_nacionales,plot_nacional_serie_i_peringrmin_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGR_MEDIAN_a,nacional_serie,anual,I_perINGR_MEDIAN_a,pais,a,graficos_nacionales,plot_nacional_serie_i_peringr_median_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:O_OCUP_a,nacional_serie,anual,O_OCUP_a,pais,a,graficos_nacionales,plot_nacional_serie_o_ocup_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:S_FONASA_a,nacional_serie,anual,S_FONASA_a,pais,a,graficos_nacionales,plot_nacional_serie_s_fonasa_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:S_ISAPRE_a,nacional_serie,anual,S_ISAPRE_a,pais,a,graficos_nacionales,plot_nacional_serie_s_isapre_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_APS_a,nacional_serie,anual,P_APS_a,pais,a,graficos_nacionales,plot_nacional_serie_p_aps_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_BASICA_a,nacional_serie,anual,P_BASICA_a,pais,a,graficos_nacionales,plot_nacional_serie_p_basica_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_monto_APS_a,nacional_serie,anual,P_monto_APS_a,pais,a,graficos_nacionales,plot_nacional_serie_p_monto_aps_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:E_PRENETA_a,nacional_serie,anual,E_PRENETA_a,pais,a,graficos_nacionales,plot_nacional_serie_e_preneta_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:E_BASNETA_a,nacional_serie,anual,E_BASNETA_a,pais,a,graficos_nacionales,plot_nacional_serie_e_basneta_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:E_MEDIANETA_a,nacional_serie,anual,E_MEDIANETA_a,pais,a,graficos_nacionales,plot_nacional_serie_e_medianeta_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:E_SUPNETA_a,nacional_serie,anual,E_SUPNETA_a,pais,a,graficos_nacionales,plot_nacional_serie_e_supneta_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:M_MOVINTERNA_a,nacional_serie,anual,M_MOVINTERNA_a,pais,a,graficos_nacionales,plot_nacional_serie_m_movinterna_a_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_s,nacional_serie,infra,I_INGR_s,pais,s,graficos_nacionales,plot_nacional_serie_i_ingr_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_m,nacional_serie,infra,I_INGR_m,pais,m,graficos_nacionales,plot_nacional_serie_i_ingr_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEAN_s,nacional_serie,infra,I_INGR_MEAN_s,pais,s,graficos_nacionales,plot_nacional_serie_i_ingr_mean_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEAN_m,nacional_serie,infra,I_INGR_MEAN_m,pais,m,graficos_nacionales,plot_nacional_serie_i_ingr_mean_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEDIAN_s,nacional_serie,infra,I_INGR_MEDIAN_s,pais,s,graficos_nacionales,plot_nacional_serie_i_ingr_median_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_INGR_MEDIAN_m,nacional_serie,infra,I_INGR_MEDIAN_m,pais,m,graficos_nacionales,plot_nacional_serie_i_ingr_median_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGRMIN_s,nacional_serie,infra,I_perINGRMIN_s,pais,s,graficos_nacionales,plot_nacional_serie_i_peringrmin_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGRMIN_m,nacional_serie,infra,I_perINGRMIN_m,pais,m,graficos_nacionales,plot_nacional_serie_i_peringrmin_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGR_MEDIAN_s,nacional_serie,infra,I_perINGR_MEDIAN_s,pais,s,graficos_nacionales,plot_nacional_serie_i_peringr_median_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:I_perINGR_MEDIAN_m,nacional_serie,infra,I_perINGR_MEDIAN_m,pais,m,graficos_nacionales,plot_nacional_serie_i_peringr_median_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:O_OCUP_s,nacional_serie,infra,O_OCUP_s,pais,s,graficos_nacionales,plot_nacional_serie_o_ocup_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:O_OCUP_m,nacional_serie,infra,O_OCUP_m,pais,m,graficos_nacionales,plot_nacional_serie_o_ocup_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_APS_s,nacional_serie,infra,P_APS_s,pais,s,graficos_nacionales,plot_nacional_serie_p_aps_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_APS_m,nacional_serie,infra,P_APS_m,pais,m,graficos_nacionales,plot_nacional_serie_p_aps_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_BASICA_s,nacional_serie,infra,P_BASICA_s,pais,s,graficos_nacionales,plot_nacional_serie_p_basica_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_BASICA_m,nacional_serie,infra,P_BASICA_m,pais,m,graficos_nacionales,plot_nacional_serie_p_basica_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_monto_APS_s,nacional_serie,infra,P_monto_APS_s,pais,s,graficos_nacionales,plot_nacional_serie_p_monto_aps_s_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_serie:P_monto_APS_m,nacional_serie,infra,P_monto_APS_m,pais,m,graficos_nacionales,plot_nacional_serie_p_monto_aps_m_{anio},laminas-nacional-serie,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-08T11:20:45-0300"
+    },
+    "laminas-ingresos-serie-regional": {
+      "src": "data/runtime/payloads/laminas-ingresos-serie-regional.json",
+      "script_src": "data/runtime/payloads/laminas-ingresos-serie-regional.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "bd1a34d8d401758fbfc5bf1e1991d659",
+      "script_hash_algorithm": "md5",
+      "script_hash": "21a2918d5416613bf177595019801abf",
+      "bytes": 1064004,
+      "script_bytes": 1064154,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "22f123730db9be4a916b53065ae81d85",
+        "files": [
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1345590af6f1a3a4117577b3873ebe73"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "79b5bb228b73c7e4def4585e935d7446"
+          },
+          {
+            "path": "quarto-pidr/scripts/laminas_fichas/ingresos_serie_regional.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "24e3623eb8297c81271b174e766995ca"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "755139bde5aca7322aae9d37d1c8cd95"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/territory_catalog.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5a6b09077081929e12c5849c0556835"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/nacional/nacional_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f0d49989463dbafb284605060107d194"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/regional/ingresos_serie_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "be1f82657152e9b0f618934341df9267"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01f6141e7c5af0c9436bd09b973a61da"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0db821dbfcd054feac32e2c0f2b4c3bc"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5cbbeaf9f888f301f77df319269a001e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "380877236edf0259127261065f62d6ac"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "777d6956f24b30eb5eed56acd571e549"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01a0cd69c238e595d436050f9844575b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_mean_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "aeab3f470f9487bd2af61cac5ac4a00b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "92952d6f9110a83cfd1dfb4dab287f87"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_mean_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f89ec72f6ac50c90b0791bdb91184d7b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9e1a6a431a58781fec0698abcde1fecf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "77d9374c1310e1d4893fa584aaaa19b7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_ingr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d2e8c3502bb70194e123d4fddd597d3e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cd4743836208b15790212def7fec9485"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1c1aa827cc469d20ccedd0640a659703"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_ingr_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "84c47c846acb50d1e5134db18b05853c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_ingr_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3a960967d72392a60835fee5e30c665c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5804fc7d2389fbadd70ca2aa41ae14f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9499821e0e80afdd3a68cf8cebc5a124"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringr_median_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4ae31cd4e82822a8e7ab719eae4c46a3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4c64698ebd158f369d0fcd114586a359"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringr_median_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "93682cf1af386731e1b7b0e0ef97d158"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "874895749a09f73988f2701e4f1a8eb0"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3b5089c7e1b244d16380d3ea0be1c4ba"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=mensual/i_peringrmin_m.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "684143a8917aeae70b8c66fc1c31ec10"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f037e771c17e9636781aa6e691488d1f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=semestral/i_peringrmin_s.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "77bcd20e41245207a6a2cccaaaee2ee0"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-ingresos-serie-regional",
+          "estado": "svg",
+          "registro": "ingresos_serie_regional:I_INGR_a,ingresos_serie_regional,anual,I_INGR_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_s,ingresos_serie_regional,infra,I_INGR_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_m,ingresos_serie_regional,infra,I_INGR_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_a,ingresos_serie_regional,anual,I_INGR_MEAN_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_mean_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_s,ingresos_serie_regional,infra,I_INGR_MEAN_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_mean_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEAN_m,ingresos_serie_regional,infra,I_INGR_MEAN_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_mean_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_a,ingresos_serie_regional,anual,I_INGR_MEDIAN_a,region,a,graficos_regionales,plot_regional_serie_i_ingr_median_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_s,ingresos_serie_regional,infra,I_INGR_MEDIAN_s,region,s,graficos_regionales,plot_regional_serie_i_ingr_median_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_INGR_MEDIAN_m,ingresos_serie_regional,infra,I_INGR_MEDIAN_m,region,m,graficos_regionales,plot_regional_serie_i_ingr_median_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_a,ingresos_serie_regional,anual,I_perINGR_MEDIAN_a,region,a,graficos_regionales,plot_regional_serie_i_peringr_median_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_s,ingresos_serie_regional,infra,I_perINGR_MEDIAN_s,region,s,graficos_regionales,plot_regional_serie_i_peringr_median_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGR_MEDIAN_m,ingresos_serie_regional,infra,I_perINGR_MEDIAN_m,region,m,graficos_regionales,plot_regional_serie_i_peringr_median_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_a,ingresos_serie_regional,anual,I_perINGRMIN_a,region,a,graficos_regionales,plot_regional_serie_i_peringrmin_a_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_s,ingresos_serie_regional,infra,I_perINGRMIN_s,region,s,graficos_regionales,plot_regional_serie_i_peringrmin_s_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha\ningresos_serie_regional:I_perINGRMIN_m,ingresos_serie_regional,infra,I_perINGRMIN_m,region,m,graficos_regionales,plot_regional_serie_i_peringrmin_m_{anio}_{region},laminas-ingresos-serie-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_serie_regional.R,regional_ingresos_serie,quarto-pidr/scripts/build_income_serie_reportes.R,svg,,ficha,ficha"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-08T12:28:13-0300"
+    },
+    "laminas-nacional-regiones": {
+      "src": "data/runtime/payloads/laminas-nacional-regiones.json",
+      "script_src": "data/runtime/payloads/laminas-nacional-regiones.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "d09cac0644692cc3cc61801d130c8a08",
+      "script_hash_algorithm": "md5",
+      "script_hash": "e1ac3828560f774a344057cc613a47aa",
+      "bytes": 383825,
+      "script_bytes": 383969,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "5c176992fe045da39b4314b7085b8ad7",
+        "files": [
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1345590af6f1a3a4117577b3873ebe73"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "79b5bb228b73c7e4def4585e935d7446"
+          },
+          {
+            "path": "quarto-pidr/scripts/laminas_fichas/nacional_regiones.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "873d51510adf35eda8964bd5524e7a75"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "755139bde5aca7322aae9d37d1c8cd95"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/territory_standardization.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b75f3ba0e3d36847571740162ef97204"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/data_cache.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba736e1b2dbbffcf263cb98364a1caeb"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/nacional/nacional_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f0d49989463dbafb284605060107d194"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/nacional/nacional_regiones_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "eda292a4c20eb8a83c9b7be3e5b0fcb2"
+          },
+          {
+            "path": "data/maps_oficial/Regional/REGIONES_v1.shp",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4cbb4732827e2f92d58933f2979f1f5b"
+          },
+          {
+            "path": "data/maps_oficial/Regional/REGIONES_v1.dbf",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0b46137c4654fc68f7e9e6887f176461"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "797f76f4d555d255101cdd82af573f55"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_basbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "87b39b8da7395894246db941a6f93d59"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_basbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "afdd38a2ca34e8dcd03229d721a0adc2"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_basneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "2cfd9da8a88c2bf7f5083aa40e83ae48"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_basneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "642babe681c740ef27a37cbc26b34071"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_mediabrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6057ff9287a4c5c56a4a7412906eae20"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_mediabrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "53dd92054e6460160790095746418e50"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_medianeta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7921923cfbe35d1c26bfbe009b7b194c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_medianeta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ed44f48542cc44b5e6edc557d6a9f306"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_prebrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "a8a9d287539dc749c2d705ec214cbbf5"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_prebrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "51421aa1d04f38035254df4916625743"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_preneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5d2f36e8f2968c5f88bc3f41b4267349"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_preneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b573e93a783b56205ff1cd4a2d9e6adf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_rezjov_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d28210c09f5904fa686b296e1560d30"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_rezjov_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dcdab25a854a3ab0e0135ed5f563cc9a"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_rezmat_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "eba7eb69359b79d51178723edad2a1d7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_rezmat_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d4ca79071bce960196ebed338bdbce3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_supbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "25384ce01c002513f61394372474f37e"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_supbrut_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5649bf759b696cb72a5ef33bd20b75ef"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=educacion/per=anual/e_supneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0d3ff1a84f4b50e1fb763d26592e9a66"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=educacion/per=anual/e_supneta_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "136cbf255e1d6693cfedc418c7e7c02c"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01f6141e7c5af0c9436bd09b973a61da"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "380877236edf0259127261065f62d6ac"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "777d6956f24b30eb5eed56acd571e549"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9e1a6a431a58781fec0698abcde1fecf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5804fc7d2389fbadd70ca2aa41ae14f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "874895749a09f73988f2701e4f1a8eb0"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d809d3fc3a191b2b46e9bc1387df648"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c3331bfe244a417f78e5ffc04a6242de"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0fd9ec17d13b0fb754ef0b7fecc0d7ab"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "abe4670d44bb4e23f51788c2b85e73a9"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cad3b31aeff24337fcf37c88e42680dd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5db0f3d5dfb011c79181c8634a1af5b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cc6674ef4c0a40cdb3a921f22bde5c49"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c50ab4a18b3b70ab12940475b318b596"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5ae0bfc0e2759d461c9dd4630989e25b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3767ee733d7c2fa265e23365c90c52b2"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "fbf1365006bcf554602af5bb17a26da3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b13ee637b8520a6bb1206d7892ddb12e"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-nacional-regiones",
+          "estado": "svg",
+          "registro": "nacional_regiones:E_PRENETA_a,nacional_regiones,anual,E_PRENETA_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_preneta_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_PREBRUT_a,nacional_regiones,anual,E_PREBRUT_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_prebrut_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,solo glosario (la vista Nacional no la muestra); el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_BASNETA_a,nacional_regiones,anual,E_BASNETA_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_basneta_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_BASBRUT_a,nacional_regiones,anual,E_BASBRUT_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_basbrut_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,solo glosario (la vista Nacional no la muestra); el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_MEDIANETA_a,nacional_regiones,anual,E_MEDIANETA_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_medianeta_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_MEDIABRUT_a,nacional_regiones,anual,E_MEDIABRUT_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_mediabrut_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,solo glosario (la vista Nacional no la muestra); el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_SUPNETA_a,nacional_regiones,anual,E_SUPNETA_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_supneta_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_SUPBRUT_a,nacional_regiones,anual,E_SUPBRUT_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_supbrut_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,solo glosario (la vista Nacional no la muestra); el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:E_REZMAT_a,nacional_regiones,anual,E_REZMAT_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_rezmat_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_regiones:E_REZJOV_a,nacional_regiones,anual,E_REZJOV_a,pais,a,graficos_nacionales,plot_nacional_regiones_e_rezjov_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_regiones:I_INGR_a,nacional_regiones,anual,I_INGR_a,pais,a,graficos_nacionales,plot_nacional_regiones_i_ingr_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:I_INGR_MEAN_a,nacional_regiones,anual,I_INGR_MEAN_a,pais,a,graficos_nacionales,plot_nacional_regiones_i_ingr_mean_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:I_INGR_MEDIAN_a,nacional_regiones,anual,I_INGR_MEDIAN_a,pais,a,graficos_nacionales,plot_nacional_regiones_i_ingr_median_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:I_perINGRMIN_a,nacional_regiones,anual,I_perINGRMIN_a,pais,a,graficos_nacionales,plot_nacional_regiones_i_peringrmin_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:I_perINGR_MEDIAN_a,nacional_regiones,anual,I_perINGR_MEDIAN_a,pais,a,graficos_nacionales,plot_nacional_regiones_i_peringr_median_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:O_OCUP_a,nacional_regiones,anual,O_OCUP_a,pais,a,graficos_nacionales,plot_nacional_regiones_o_ocup_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:P_APS_a,nacional_regiones,anual,P_APS_a,pais,a,graficos_nacionales,plot_nacional_regiones_p_aps_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_regiones:P_BASICA_a,nacional_regiones,anual,P_BASICA_a,pais,a,graficos_nacionales,plot_nacional_regiones_p_basica_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_regiones:P_monto_APS_a,nacional_regiones,anual,P_monto_APS_a,pais,a,graficos_nacionales,plot_nacional_regiones_p_monto_aps_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,,ficha,ficha\nnacional_regiones:S_FONASA_a,nacional_regiones,anual,S_FONASA_a,pais,a,graficos_nacionales,plot_nacional_regiones_s_fonasa_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha\nnacional_regiones:S_ISAPRE_a,nacional_regiones,anual,S_ISAPRE_a,pais,a,graficos_nacionales,plot_nacional_regiones_s_isapre_a_{anio},laminas-nacional-regiones,proc/1_generate_graphs_definitive/nacional/generate_nacional_valor_regiones.R,nacional_valor_regiones,,svg,el glosario muestra su PNG 2024: adaptar glosario.js antes del retiro,ficha,ficha"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-08T16:53:45-0300"
+    },
+    "laminas-regional-indicadores": {
+      "src": "data/runtime/payloads/laminas-regional-indicadores.json",
+      "script_src": "data/runtime/payloads/laminas-regional-indicadores.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "0cd21f2629bab77f096f4755cfef9c18",
+      "script_hash_algorithm": "md5",
+      "script_hash": "e6bba8f3ef9c8b960db0b1931a58dc19",
+      "bytes": 1024175,
+      "script_bytes": 1024322,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "6d32f59d0d13a01b6922c11370019377",
+        "files": [
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1345590af6f1a3a4117577b3873ebe73"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "79b5bb228b73c7e4def4585e935d7446"
+          },
+          {
+            "path": "quarto-pidr/scripts/laminas_fichas/regional_indicadores.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f9953061f49cfae272b2038fe3d85175"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "755139bde5aca7322aae9d37d1c8cd95"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/format_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4f920fbe4f95b666d4f2baddc5cfbb25"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/territory_standardization.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b75f3ba0e3d36847571740162ef97204"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/template_spec.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5a6172cacd2f4379f9556ef6c7318fd5"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/graph_serie_temporal.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "65fc1a21035cdaf1028449810e24b1d0"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/salud_tasas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "57b0457c128b9a13379c19038729b9dc"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/regional/indicadores_regionales_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "d81ac27f3e7d0cc315f3773c4c19e7ea"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e02886c56f0c2c5a4ff87e72f4871075"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=provincia/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "940ad1312e5abc299a4d37af4c7deb01"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=demograficos/per=anual/d_residentes_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "797f76f4d555d255101cdd82af573f55"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9d809d3fc3a191b2b46e9bc1387df648"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=provincia/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "53030e168aba18ab957afa315ed7ff18"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ocupacion/per=anual/o_ocup_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c3331bfe244a417f78e5ffc04a6242de"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0fd9ec17d13b0fb754ef0b7fecc0d7ab"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "abe4670d44bb4e23f51788c2b85e73a9"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cad3b31aeff24337fcf37c88e42680dd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_basica_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5db0f3d5dfb011c79181c8634a1af5b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "cc6674ef4c0a40cdb3a921f22bde5c49"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=pensiones/per=anual/p_monto_aps_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c50ab4a18b3b70ab12940475b318b596"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5ae0bfc0e2759d461c9dd4630989e25b"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=provincia/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5a426518509743c0ba858be31c9cfe24"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_fonasa_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "3767ee733d7c2fa265e23365c90c52b2"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "fbf1365006bcf554602af5bb17a26da3"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=provincia/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0fa6f32e044d1eeab3be249d69c3cbc8"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=salud/per=anual/s_isapre_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b13ee637b8520a6bb1206d7892ddb12e"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-regional-indicadores",
+          "estado": "svg",
+          "registro": "regional_indicadores:O_OCUP_a,regional_indicadores,ocupacion,O_OCUP_a,region,a,graficos_regionales_indicadores,plot_regional_o_ocup_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,con panel por provincia,ficha,ficha\nregional_indicadores:P_APS_a,regional_indicadores,pensiones,P_APS_a,region,a,graficos_regionales_indicadores,plot_regional_p_aps_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,,ficha,ficha\nregional_indicadores:P_BASICA_a,regional_indicadores,pensiones,P_BASICA_a,region,a,graficos_regionales_indicadores,plot_regional_p_basica_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,,ficha,ficha\nregional_indicadores:P_monto_APS_a,regional_indicadores,pensiones,P_monto_APS_a,region,a,graficos_regionales_indicadores,plot_regional_p_monto_aps_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,en pesos,ficha,ficha\nregional_indicadores:S_FONASA_a,regional_indicadores,salud_grupos,S_FONASA_a,region,a,graficos_regionales_salud,plot_s_fonasa_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,con panel por grupo FONASA,ficha,ficha\nregional_indicadores:S_ISAPRE_a,regional_indicadores,salud,S_ISAPRE_a,region,a,graficos_regionales_salud,plot_s_isapre_a_{anio}_{region},laminas-regional-indicadores,proc/1_generate_graphs_definitive/regional/generate_indicadores_regionales.R,regional_indicadores,,svg,,ficha,ficha"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-08T21:32:01-0300"
+    },
+    "laminas-ingresos-regional": {
+      "src": "data/runtime/payloads/laminas-ingresos-regional.json",
+      "script_src": "data/runtime/payloads/laminas-ingresos-regional.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "d3b9d79bc3a810cf5ce506e3a28276e2",
+      "script_hash_algorithm": "md5",
+      "script_hash": "a4f67d40ef08547d0a30a7a0f680ef0f",
+      "bytes": 1376478,
+      "script_bytes": 1376622,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "246c02f18bd164475bb62e595e6d8673",
+        "files": [
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1345590af6f1a3a4117577b3873ebe73"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/ficha_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "62fbb2e4eda45c4d98e9d7c8c83d1cf9"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/canon_lectura.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dce991ee7abdb6dd43e6bf22cbcbac7a"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          },
+          {
+            "path": "quarto-pidr/scripts/build_laminas_fichas.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "79b5bb228b73c7e4def4585e935d7446"
+          },
+          {
+            "path": "quarto-pidr/scripts/laminas_fichas/ingresos_regional.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f3434c69925f58d520dd101267957804"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/path_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "755139bde5aca7322aae9d37d1c8cd95"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/format_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4f920fbe4f95b666d4f2baddc5cfbb25"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/std_text.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "8fd8108dcdaf78b68eb3cff0e07409b6"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/data_cache.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba736e1b2dbbffcf263cb98364a1caeb"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/territory_standardization.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b75f3ba0e3d36847571740162ef97204"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/export_utils.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4a5104f2fd3b3a73912c6f973bdb492d"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/income_batch.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "adbf870731b455ed7d1ffe0c8cc6cd15"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/template_spec.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5a6172cacd2f4379f9556ef6c7318fd5"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/regional/ingresos_regional_datos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f3f6d61a043bcebf16db2272d47d9878"
+          },
+          {
+            "path": "data/maps_oficial/Regional/REGIONES_v1.shp",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "4cbb4732827e2f92d58933f2979f1f5b"
+          },
+          {
+            "path": "data/maps_oficial/Regional/REGIONES_v1.dbf",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "0b46137c4654fc68f7e9e6887f176461"
+          },
+          {
+            "path": "quarto-pidr/chunks/territorial-laminas-fichas-json.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "56f0afb259cb0672c5dcc04d1be3fe4d"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6fbcd7c055dc4cfd0979b7a7643be6a7"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "01f6141e7c5af0c9436bd09b973a61da"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "380877236edf0259127261065f62d6ac"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_mean_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "777d6956f24b30eb5eed56acd571e549"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "7b9a229f54349d35ca5f81bc65bbbebd"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_ingr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "9e1a6a431a58781fec0698abcde1fecf"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "6214bf3192f6ccf12e9f8f7ecf395848"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringr_median_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f5804fc7d2389fbadd70ca2aa41ae14f"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=pais/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "987a925ce28a1334f1bf5622f1fa4a39"
+          },
+          {
+            "path": "data/canonical/v1/obs/nivel=region/dim=ingresos/per=anual/i_peringrmin_a.parquet",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "874895749a09f73988f2701e4f1a8eb0"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          }
+        ],
+        "params": {
+          "payload_id": "laminas-ingresos-regional",
+          "estado": "svg",
+          "registro": "ingresos_regional:I_INGR_a,ingresos_regional,regional,I_INGR_a,region,a,graficos_regionales,plot_i_ingr_a_{anio}_{region},laminas-ingresos-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_regional.R,regional_ingresos,,svg,,ficha,ficha\ningresos_regional:I_INGR_MEAN_a,ingresos_regional,regional,I_INGR_MEAN_a,region,a,graficos_regionales,plot_i_ingr_mean_a_{anio}_{region},laminas-ingresos-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_regional.R,regional_ingresos,,svg,,ficha,ficha\ningresos_regional:I_INGR_MEDIAN_a,ingresos_regional,regional,I_INGR_MEDIAN_a,region,a,graficos_regionales,plot_i_ingr_median_a_{anio}_{region},laminas-ingresos-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_regional.R,regional_ingresos,,svg,,ficha,ficha\ningresos_regional:I_perINGR_MEDIAN_a,ingresos_regional,regional,I_perINGR_MEDIAN_a,region,a,graficos_regionales,plot_i_peringr_median_a_{anio}_{region},laminas-ingresos-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_regional.R,regional_ingresos,,svg,,ficha,ficha\ningresos_regional:I_perINGRMIN_a,ingresos_regional,regional,I_perINGRMIN_a,region,a,graficos_regionales,plot_i_peringrmin_a_{anio}_{region},laminas-ingresos-regional,proc/1_generate_graphs_definitive/regional/generate_ingresos_regional.R,regional_ingresos,,svg,,ficha,ficha"
+        },
+        "schema_version": 1
+      },
+      "generated_at": "2026-10-09T22:36:07-0300"
     }
   }
 }
