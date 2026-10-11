@@ -4904,7 +4904,7 @@
       "script_bytes": 2419043,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "cb0df4bcb62fc46be7303c0ee8f785e7",
+        "hash": "1b9deaa51e1fd68b83ddcacc132b5228",
         "files": [
           {
             "path": "data/metadata/casen/modulo_bloques.csv",
@@ -4922,7 +4922,7 @@
             "path": "data/metadata/casen/hallazgos.csv",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "fec19fc77577dc675ef623a598b4ecdc"
+            "hash": "e458017deb2037db06dc5d25805df171"
           },
           {
             "path": "data/data_quality/casen/hallazgos_por_hoja.csv",
