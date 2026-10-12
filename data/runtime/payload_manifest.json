@@ -7,14 +7,14 @@
       "script_format": "js",
       "schema_version": 1,
       "hash_algorithm": "md5",
-      "hash": "ba829dc3afe6f7c393950600c730f063",
+      "hash": "09c691fa22a057fe5e1f6ec91c344f18",
       "script_hash_algorithm": "md5",
-      "script_hash": "7cd5eda1030851bc096de39567b0a0ca",
-      "bytes": 967031,
-      "script_bytes": 967177,
+      "script_hash": "06543bfcbacd9afba7e6778f6f9c5e7e",
+      "bytes": 969303,
+      "script_bytes": 969449,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "881a182c19e91f04bf1f88615557c160",
+        "hash": "a3d7583778ea425b9cc88b50bc94bc8b",
         "kind": "payload_content_plus_builder",
         "files": [
           {
@@ -37,9 +37,9 @@
           }
         ],
         "payload_hash_algorithm": "md5",
-        "payload_hash": "ba829dc3afe6f7c393950600c730f063"
+        "payload_hash": "09c691fa22a057fe5e1f6ec91c344f18"
       },
-      "generated_at": "2026-10-09T19:37:33-0300"
+      "generated_at": "2026-10-12T03:13:11-0300"
     },
     "regional-selector-map-data": {
       "src": "data/runtime/payloads/regional-selector-map-data.json",
@@ -5779,7 +5779,7 @@
       "script_bytes": 383969,
       "input_signature": {
         "hash_algorithm": "md5",
-        "hash": "7189fb6090a48a9408d03bf219c7b866",
+        "hash": "1dbcf08118b95de5bdbda5c991f5b27a",
         "files": [
           {
             "path": "proc/1_generate_graphs_definitive/_shared/laminas_registro.R",
@@ -5845,7 +5845,7 @@
             "path": "proc/1_generate_graphs_definitive/nacional/nacional_regiones_datos.R",
             "exists": true,
             "hash_algorithm": "md5",
-            "hash": "eda292a4c20eb8a83c9b7be3e5b0fcb2"
+            "hash": "1948a79af1a1d205d17b8c3bbdf398de"
           },
           {
             "path": "data/maps_oficial/Regional/REGIONES_v1.shp",
@@ -6568,6 +6568,854 @@
         "schema_version": 1
       },
       "generated_at": "2026-10-09T22:36:07-0300"
+    },
+    "comunal-mapa-1": {
+      "src": "data/runtime/payloads/comunal-mapa-1.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-1.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "08fe1999fc6797bbd9bd91df6a226d28",
+      "script_hash_algorithm": "md5",
+      "script_hash": "2f54ca67e2f55d27f87614c8fca0af20",
+      "bytes": 19761,
+      "script_bytes": 19894,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "bc0c730eb9f8db192f1a0f0248963f76",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-1.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "08fe1999fc6797bbd9bd91df6a226d28"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "08fe1999fc6797bbd9bd91df6a226d28"
+      },
+      "generated_at": "2026-10-11T17:33:36-0300"
+    },
+    "comunal-mapa-10": {
+      "src": "data/runtime/payloads/comunal-mapa-10.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-10.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "e6a5b75f04ddb15b859a6d83fde861d0",
+      "script_hash_algorithm": "md5",
+      "script_hash": "f418c2a75eb2d1680dd7daf31e9ecfcc",
+      "bytes": 127627,
+      "script_bytes": 127761,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "ccf844ee8aded084288c44d15604c3d2",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-10.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e6a5b75f04ddb15b859a6d83fde861d0"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "e6a5b75f04ddb15b859a6d83fde861d0"
+      },
+      "generated_at": "2026-10-11T17:33:37-0300"
+    },
+    "comunal-mapa-11": {
+      "src": "data/runtime/payloads/comunal-mapa-11.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-11.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "15666b288809a4d8b707bd8d21ec2194",
+      "script_hash_algorithm": "md5",
+      "script_hash": "444427e3d828eac857f985404a1da0aa",
+      "bytes": 88990,
+      "script_bytes": 89124,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "cfd89aba626935a72c9dfcde9b781272",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-11.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "15666b288809a4d8b707bd8d21ec2194"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "15666b288809a4d8b707bd8d21ec2194"
+      },
+      "generated_at": "2026-10-11T17:33:37-0300"
+    },
+    "comunal-mapa-12": {
+      "src": "data/runtime/payloads/comunal-mapa-12.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-12.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "b93d9fb95a9bdbf70ded789ccac9b6f9",
+      "script_hash_algorithm": "md5",
+      "script_hash": "eef62038c6aad476e69e5cbf57965715",
+      "bytes": 106899,
+      "script_bytes": 107033,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "7fc6f326295104136b2f3a0421f53473",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-12.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b93d9fb95a9bdbf70ded789ccac9b6f9"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "b93d9fb95a9bdbf70ded789ccac9b6f9"
+      },
+      "generated_at": "2026-10-11T17:33:37-0300"
+    },
+    "comunal-mapa-13": {
+      "src": "data/runtime/payloads/comunal-mapa-13.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-13.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "c65934278e62078d15e312d98fe2f2d5",
+      "script_hash_algorithm": "md5",
+      "script_hash": "6cdd73c0b130b0171efe3ca5ac1ea5a8",
+      "bytes": 265325,
+      "script_bytes": 265459,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "fd21b2724e3a749124bfb5071b3ebfe5",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-13.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c65934278e62078d15e312d98fe2f2d5"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "c65934278e62078d15e312d98fe2f2d5"
+      },
+      "generated_at": "2026-10-11T17:33:38-0300"
+    },
+    "comunal-mapa-14": {
+      "src": "data/runtime/payloads/comunal-mapa-14.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-14.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "c2462d893fd5beb593d5c1fb7764d7f1",
+      "script_hash_algorithm": "md5",
+      "script_hash": "36755b748398fc38fd1992cc3fcf9864",
+      "bytes": 45166,
+      "script_bytes": 45300,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "66347e941321a3bb02e321079572350c",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-14.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "c2462d893fd5beb593d5c1fb7764d7f1"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "c2462d893fd5beb593d5c1fb7764d7f1"
+      },
+      "generated_at": "2026-10-11T17:33:38-0300"
+    },
+    "comunal-mapa-15": {
+      "src": "data/runtime/payloads/comunal-mapa-15.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-15.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "f68846a4b8f1defce99a3c4d925725de",
+      "script_hash_algorithm": "md5",
+      "script_hash": "ba3abd78f7097c8c130935f13ef98483",
+      "bytes": 10237,
+      "script_bytes": 10371,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "af2477e0edbf3e35e010ced59256e421",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-15.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "f68846a4b8f1defce99a3c4d925725de"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "f68846a4b8f1defce99a3c4d925725de"
+      },
+      "generated_at": "2026-10-11T17:33:38-0300"
+    },
+    "comunal-mapa-16": {
+      "src": "data/runtime/payloads/comunal-mapa-16.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-16.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "bdf8921add3b1330dda4f01e0eb33f6d",
+      "script_hash_algorithm": "md5",
+      "script_hash": "f60c2c6f6dc4468dab45cef7c8a599c5",
+      "bytes": 68986,
+      "script_bytes": 69120,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "84b5897e65c9aa9513de1d54b1bd4ac9",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-16.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "bdf8921add3b1330dda4f01e0eb33f6d"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "bdf8921add3b1330dda4f01e0eb33f6d"
+      },
+      "generated_at": "2026-10-11T17:33:38-0300"
+    },
+    "comunal-mapa-2": {
+      "src": "data/runtime/payloads/comunal-mapa-2.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-2.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "822c4d809d6c3a4903c49d9c266cd60c",
+      "script_hash_algorithm": "md5",
+      "script_hash": "78bb24138c77d233544f038dc5aaba68",
+      "bytes": 23730,
+      "script_bytes": 23863,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "6f86d98f1c5760b4e21039567bdc0224",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-2.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "822c4d809d6c3a4903c49d9c266cd60c"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "822c4d809d6c3a4903c49d9c266cd60c"
+      },
+      "generated_at": "2026-10-11T17:33:39-0300"
+    },
+    "comunal-mapa-3": {
+      "src": "data/runtime/payloads/comunal-mapa-3.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-3.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "5c1a3801d291299aa11e699b33b19ddd",
+      "script_hash_algorithm": "md5",
+      "script_hash": "1554d17bcde3edebabc67886abed168c",
+      "bytes": 34274,
+      "script_bytes": 34407,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "036007f4c5da967a244b1b10f22281cc",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-3.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "5c1a3801d291299aa11e699b33b19ddd"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "5c1a3801d291299aa11e699b33b19ddd"
+      },
+      "generated_at": "2026-10-11T17:33:39-0300"
+    },
+    "comunal-mapa-4": {
+      "src": "data/runtime/payloads/comunal-mapa-4.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-4.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "dc778f46b440a72b097d7839d5a6ec3b",
+      "script_hash_algorithm": "md5",
+      "script_hash": "f98decec54c46e8fef4edaabc7a85d40",
+      "bytes": 52691,
+      "script_bytes": 52824,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "36ac1c04f2c32efffffc5c33deed7d60",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-4.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "dc778f46b440a72b097d7839d5a6ec3b"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "dc778f46b440a72b097d7839d5a6ec3b"
+      },
+      "generated_at": "2026-10-11T17:33:39-0300"
+    },
+    "comunal-mapa-5": {
+      "src": "data/runtime/payloads/comunal-mapa-5.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-5.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "89aac2f0ea3e2629c9dcb4b4e363f399",
+      "script_hash_algorithm": "md5",
+      "script_hash": "c22bf73bb86eaa72b7ce39b6ea28c47c",
+      "bytes": 145705,
+      "script_bytes": 145838,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "68dfb0ee4cdf37d69941df31f7d3a76f",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-5.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "89aac2f0ea3e2629c9dcb4b4e363f399"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "89aac2f0ea3e2629c9dcb4b4e363f399"
+      },
+      "generated_at": "2026-10-11T17:33:39-0300"
+    },
+    "comunal-mapa-6": {
+      "src": "data/runtime/payloads/comunal-mapa-6.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-6.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "22064da3dc6a6756cb917b49d8d29397",
+      "script_hash_algorithm": "md5",
+      "script_hash": "1e3592027c1cc3db981c0dec08125129",
+      "bytes": 115058,
+      "script_bytes": 115191,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "22cb1ff92f430b3cd7b6f939e4f68769",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-6.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "22064da3dc6a6756cb917b49d8d29397"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "22064da3dc6a6756cb917b49d8d29397"
+      },
+      "generated_at": "2026-10-11T17:33:40-0300"
+    },
+    "comunal-mapa-7": {
+      "src": "data/runtime/payloads/comunal-mapa-7.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-7.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "92030e5d59e0632e7df8c0d2ca148985",
+      "script_hash_algorithm": "md5",
+      "script_hash": "0fe4550507f6ed9fe7c07679c7ded762",
+      "bytes": 115197,
+      "script_bytes": 115330,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "aa27b552f0dae4b76917559a741da86d",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-7.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "92030e5d59e0632e7df8c0d2ca148985"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "92030e5d59e0632e7df8c0d2ca148985"
+      },
+      "generated_at": "2026-10-11T17:33:40-0300"
+    },
+    "comunal-mapa-8": {
+      "src": "data/runtime/payloads/comunal-mapa-8.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-8.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "e50dbfe9ed0de4ba2250f75e4ad09dd1",
+      "script_hash_algorithm": "md5",
+      "script_hash": "91d672b369391a28c43776bda0a5fcf5",
+      "bytes": 131924,
+      "script_bytes": 132057,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "34c4cccafca0642c6895e469fadc4449",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-8.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e50dbfe9ed0de4ba2250f75e4ad09dd1"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "e50dbfe9ed0de4ba2250f75e4ad09dd1"
+      },
+      "generated_at": "2026-10-11T17:33:40-0300"
+    },
+    "comunal-mapa-9": {
+      "src": "data/runtime/payloads/comunal-mapa-9.json",
+      "script_src": "data/runtime/payloads/comunal-mapa-9.js",
+      "format": "json",
+      "script_format": "js",
+      "schema_version": 1,
+      "hash_algorithm": "md5",
+      "hash": "8570a0cc9e5db7f0ef2fa381935ebde5",
+      "script_hash_algorithm": "md5",
+      "script_hash": "e67aca8e05adbc9b8dfc285e87a6160c",
+      "bytes": 126584,
+      "script_bytes": 126717,
+      "input_signature": {
+        "hash_algorithm": "md5",
+        "hash": "fc29620b03df268297f0b17d5f1bd8e2",
+        "kind": "payload_content_plus_builder",
+        "files": [
+          {
+            "path": "quarto-pidr/scripts/build_site_payloads.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "e489ec83476345973ccea07e4f2b6053"
+          },
+          {
+            "path": "data/canonical/v1/vistas/mapas_comunales/comunal-mapa-9.json",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "8570a0cc9e5db7f0ef2fa381935ebde5"
+          },
+          {
+            "path": "scripts/build_comunal_flujos.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "b74ac180b85b1360161eeb72ec0d88de"
+          },
+          {
+            "path": "quarto-pidr/scripts/rotulado.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "1f398f6be2de17349d94ef34f907ef50"
+          },
+          {
+            "path": "proc/1_generate_graphs_definitive/_shared/redondeo.R",
+            "exists": true,
+            "hash_algorithm": "md5",
+            "hash": "ba56f25586861481db8cdae792bb715c"
+          }
+        ],
+        "payload_hash_algorithm": "md5",
+        "payload_hash": "8570a0cc9e5db7f0ef2fa381935ebde5"
+      },
+      "generated_at": "2026-10-11T17:33:41-0300"
     }
   }
 }
